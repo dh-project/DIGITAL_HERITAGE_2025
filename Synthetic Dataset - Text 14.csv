@@ -1,0 +1,239 @@
+﻿Text 14;;;;;;
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+1;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Huni si intrufola nel palazzo di Ipuwer per rubare oggetti preziosi. Durante la razzia, scopre uno strano sigillo nascosto che porta il simbolo reale del Faraone.
+
+TONO:
+Avventuroso
+
+AMBIENTAZIONE:
+Location: Camera del Tesoro (Casa Lussuosa)
+Orario: Mezzanotte
+Tempo: Ventoso
+
+PERSONAGGI:
+Huni (Popolano)
+Ipuwer (Popolano - Mercante)";ChatGPT 4.1;Huni si muove con il fiato sospeso tra le ombre della camera del tesoro, le dita tese nello scrutare oggetti scintillanti e monili ammucchiati dal ricco mercante Ipuwer. L’orologio segna la mezzanotte e il vento che sibila all’esterno sembra accompagnare il battito impazzito del suo cuore. Mentre fruga tra i tesori, la sua mano urta una scatola nascosta: all’interno, un sigillo impolverato, inciso con il simbolo del Faraone. Huni trattiene il respiro: non è solo una notte di furto, ma il confine sottile tra bramosia e segreto, tra paura e sorte.;4;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";"Nell'ombra della notte, mentre il vento ulula oltre le spesse mura, Huni si muove furtivo nella camera del tesoro di Ipuwer. Le sue mani esperte cercano tra le ricchezze accumulate, bramando i preziosi oggetti che illuminano fiocamente al chiaro di luna. Improvvisamente, nascosto tra rotoli e cofanetti, scopre qualcosa di inatteso: uno strano sigillo, la cui superficie rivela l'inconfondibile simbolo regale del Faraone. L'adrenalina scorre nelle vene di Huni; questo ritrovamento va ben oltre le sue aspettative.";4;5;5
+;;Gemma 3 27B Q4;La mezzanotte avvolge la dimora di Ipuwer in un vento gelido. Huni, agile come un’ombra, si insinua tra le ricchezze esposte nella camera del tesoro. Non cerca oro o gioielli, ma qualcosa di più prezioso. Tra le statue e i vasi antichi, un sigillo insolito cattura la sua attenzione. Il suo simbolo, inequivocabile, è l’emblema reale del Faraone. Un oggetto proibito, nascosto nel cuore della casa di un mercante. Cosa può significare questa scoperta? Huni afferra il sigillo, consapevole di aver trovato qualcosa che potrebbe cambiare tutto. La razzia si trasforma in una caccia al mistero.;5;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+2;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Mentre Huni fugge viene sorpreso da Qenna, appostata fuori dal palazzo per spiare Ipuwer. La scriba nota il sigillo e anziché dare l'allarme propone al giovane un accordo. 
+
+TONO:
+Avventuroso, Misterioso
+
+AMBIENTAZIONE:
+Location: Giardino (Casa Lussuosa)
+Orario: Mezzanotte
+Tempo: Ventoso
+
+PERSONAGGI:
+Huni (Popolano)
+Qenna (Basso Funzionario - Scriba)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Huni corre con il fiato spezzato, stringendo il sigillo rubato, quando una voce sussurrata, limpida come l’acqua del Nilo, lo ferma nel buio. Qenna emerge dalle ombre, il sorriso sottile di chi conosce segreti pericolosi. Invece di urlare, la scriba solleva un dito sulle labbra e fa scivolare tra loro una proposta: aiuterà Huni a sfuggire alle guardie, in cambio di una parte del mistero che porta con sé. Nel vento che scuote le palme, un patto silenzioso si stringe, mentre la notte sembra trattenere il respiro.;5;4;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";"Huni si affretta attraverso il giardino battuto dal vento notturno, il sigillo stretto nella mano. Ogni passo è un rischio, ogni fruscio di foglie un presagio. Appena oltre i portali del palazzo, nascosta nell'oscurità, Qenna lo osserva. La scriba, in attesa per spiare Ipuwer, nota l'oggetto che Huni stringe e un lampo di riconoscimento le illumina gli occhi. Invece di lanciare l'allarme, la sua voce si fa un sussurro nella notte: ""Quell'oggetto… è importante. Forse possiamo aiutarci a vicenda."" Una proposta inattesa che sospende la fuga di Huni in un'ombra di mistero.";5;5;5
+;;Gemma 3 27B Q4;Il vento sferza il giardino mentre Huni, ancora col sigillo reale stretto in mano, si trova di fronte a Qenna. La scriba, appostata nell’ombra, lo osserva con sguardo acuto. Invece di gridare, un sorriso enigmatico le increspa le labbra. “Conosco quel sigillo”, sussurra, “e so chi lo possiede. Potrei avvertire le guardie, oppure… potremmo trovare un accordo. Tu hai qualcosa che mi interessa, e io so come proteggerti. Dimmi, cosa cerchi veramente?” Un’alleanza inaspettata si profila tra le ombre, un patto segreto stretto sotto il cielo notturno. Il mistero del sigillo si infittisce, e con esso, il destino di Huni.;5;3;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+3;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Qenna spiega a Huni che il sigillo appartiene a documenti reali scomparsi che potrebbero incriminare alti funzionari corrotti. Mentre parlano, notano di essere osservati.
+
+TONO:
+Misterioso, Tensione
+
+AMBIENTAZIONE:
+Location: Taverna (Porto)
+Orario: Mattina presto
+Tempo: Nebbioso
+
+PERSONAGGI:
+Huni (Popolano)
+Qenna (Basso Funzionario - Scriba)
+Nakht (Combattente - Guardia)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;"Qenna abbassa la voce, lo sguardo fisso sul sigillo tra le mani: “Appartiene agli archivi del faraone. I documenti spariti... se tornassero alla luce, molti qui rischierebbero la vita.” Huni trattiene il respiro, il peso delle parole dello scriba cresce tra le ombre della taverna. Un silenzio sospeso li avvolge, interrotto solo dallo scricchiolio della porta; entrambi percepiscono la pressione di occhi sconosciuti su di loro. Dietro di loro, uno scricchiolio sul pavimento fa trasalire Huni. Nakht si avvicina, silenzioso ma vigile. I sospetti diventano palpabili: la verità può essere più pericolosa di qualunque menzogna.";5;5;4
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Nascosti nell'ombra umida del porto, dove l'odore salmastro si mescola a quello della birra, Qenna rivela il peso del sigillo. Spiega a Huni che quell'emblema è la chiave, appartenente a carte del Faraone andate perdute, documenti che possono smascherare coloro che, nei palazzi dorati, tramano nell'ombra. Mentre le parole si fanno strada tra la nebbia del mattino, un'inquietudine li gela. Una sensazione strisciante li avverte: non sono soli. Qualcuno osserva.;4;5;4
+;;Gemma 3 27B Q4;La taverna è avvolta da una nebbia densa, il porto quasi invisibile. Qenna spiega a Huni che il sigillo non è un semplice ornamento, ma la chiave per documenti compromettenti, capaci di rovinare potenti figure del regno. Parole sussurrate, mentre il fumo dei bracieri danza nell’aria umida. Uno scambio di sguardi, un’intesa fragile. Ma non sono soli. Uno sguardo furtivo, un’ombra che si muove tra i tavoli. Nakht, la guardia dal volto severo, li osserva da lontano, il suo interesse palpabile. Qualcosa non sfugge al suo occhio allenato. La tensione cresce, un presagio oscuro incombe su di loro.;5;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+4;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Fuggendo dalla taverna, Huni e Qenna vengono separati in un inseguimento. Huni viene catturato da Nakht che, anziché arrestarlo, lo assolda per recuperare alcuni papiri dalla casa di Ramose. 
+
+TONO:
+Tensione, Rivelatore
+
+AMBIENTAZIONE:
+Location: Vicoli (Quartiere Popolare)
+Orario: Mattina
+Tempo: Nebbioso
+
+PERSONAGGI:
+Huni (Popolano)
+Nakht (Combattente - Guardia)
+Qenna (Basso Funzionario - Scriba)
+Ramose (Ministro della Fede - Sommo Sacerdote)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Huni, ancora ansimante per la fuga, si ritrova braccato tra le ombre, quando Nakht lo afferra risoluto. Invece di un ordine di fermo, la voce del guerriero sorprende Huni: una proposta, velata di minaccia. Nakht gli confida la necessità di entrare nella dimora di Ramose e preleva con urgenza papiri nascosti—documenti che, dice a bassa voce, potrebbero rovesciare certezze antiche. Huni non può rifiutare: la posta in gioco non riguarda solo la sua libertà, ma segreti che scuotono le fondamenta del potere. Solo, il popolano si avvia verso un destino sconosciuto.;4;3;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";L'aria si fa pesante. Huni e Qenna si lanciano in una fuga disperata tra i vicoli nebbiosi, ma la velocità e l'oscurità li separano. Un’ombra emerge dal fumo e afferra Huni. È Nakht. La mano del guardia si serra su di lui, ma non per l'arresto. Gli occhi di Nakht brillano di un intento inatteso. Invece di portarlo nelle celle, gli propone un patto: recuperare per lui dei papiri, documenti preziosi, dalla casa di Ramose. Il Sommo Sacerdote. Una richiesta pericolosa, che getta Huni in un nuovo abisso di intrighi.;4;5;5
+;;Gemma 3 27B Q4;Il vicolo si restringe, la nebbia inghiotte ogni grido. Huni e Qenna si separano nella fuga, la promessa di ritrovarsi persa nel caos. Nakht, rapido e implacabile, blocca il passaggio di Huni. Non lo arresta, però. Offre un patto: la libertà in cambio di un servizio. Huni deve recuperare alcuni papiri nascosti nella dimora di Ramose, il sommo sacerdote. Un ordine insolito, che rivela un gioco di potere ben più vasto. La lealtà di Nakht è dubbia, i suoi motivi oscuri. Huni si ritrova pedina in una partita pericolosa, costretto a scegliere da che parte stare.;5;4;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+5;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Huni e Qenna si infiltrano nella residenza di Ramose durante una cerimonia e trovano i papiri incriminanti. 
+
+TONO:
+Rivelatore
+
+AMBIENTAZIONE:
+Location: Studio (Residenza del Tempio)
+Orario: Mezzogiorno
+Tempo: Soleggiato
+
+PERSONAGGI:
+Huni (Popolano)
+Qenna (Basso Funzionario - Scriba)
+Ramose (Ministro della Fede - Sommo Sacerdote)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Mentre l’incenso si dissolve alle spalle e il brusio della cerimonia si affievolisce alle porte chiuse, Huni trattiene il fiato. Qenna, consapevole della gravità del momento, scorre ordinatamente le pergamene tra le dita esperte. In un respiro trattenuto, trova i papiri cercati: simboli e parole di un’oscura complicità. I documenti rivelano un patto celato tra Ramose e figure influenti del tempio. Huni avverte il peso delle rivelazioni—ogni segno svela potere e corruzione. Ora sanno ciò che non avrebbero mai dovuto conoscere. Nel silenzio dello studio, la verità risuona: nulla sarà come prima.;5;4;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Il mezzogiorno inonda di luce dorata la Residenza del Tempio. Huni e Qenna, agiscono con la cautela dei gatti nella notte. Mentre il clamore della cerimonia si diffonde dalle sale principali, loro si muovono inosservati. Lo studio di Ramose è il loro obiettivo. Lo trovano, e tra rotoli di pergamena e strumenti di scrittura, individuano i papiri. Quelle carte, cariche di verità nascoste, ora sono nelle loro mani.;4;5;5
+;;Gemma 3 27B Q4;Il sole filtrava tra le persiane, illuminando la polvere che danzava nello studio di Ramose. Huni, con il cuore in gola, individuò i papiri nascosti dietro un pesante vaso canopico. Non erano semplici annotazioni rituali, ma dettagliate descrizioni di commerci illeciti e accordi segreti tra il sommo sacerdote e mercanti stranieri. Un tradimento della fede, un affronto al faraone. Qenna, nascosto nell'ombra, lo osservava, il volto pallido. Non era venuto per aiutare, ma per assicurarsi che Huni portasse a termine il compito, per conto di Nakht. Il silenzio era rotto solo dal respiro affannoso di Huni, consapevole di essere diventato testimone di un segreto che avrebbe potuto distruggere il regno.;4;4;4
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+6;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Huni e Qenna vengono intercettati da Ramose. Huni distrae le guardie permettendo a Qenna di fuggire con le prove, ma lui viene catturato.
+
+TONO:
+Tensione, Conflitto
+
+AMBIENTAZIONE:
+Location: Giardino (Residenza del Tempio)
+Orario: Mezzogiorno
+Tempo: Soleggiato
+
+
+PERSONAGGI:
+Huni (Popolano)
+Qenna (Basso Funzionario - Scriba)
+Ramose (Ministro della Fede - Sommo Sacerdote)
+Guardie (Combattente - Guardia)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;"Ramose si frappone davanti a Huni e Qenna, lo sguardo severo che non ammette esitazioni, mentre le guardie si serrano dietro di lui. Un cenno rapido tra i due complici: Qenna stringe le prove sotto il mantello. Huni alza la voce, accusa, inventa, cattura l’attenzione delle guardie; la tensione nel sole di mezzogiorno si taglia come lino fresco. Ramose ordina di bloccare ogni via di fuga, ma Qenna già scivola via, il cuore in gola, inseguito dai sospetti. Huni, però, viene afferrato: le mani delle guardie lo immobilizzano, mentre Ramose si avvicina, voce bassa e minacciosa.";4;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Ma proprio mentre il sole raggiunge il suo zenit, un’ombra si allunga sul giardino: è Ramose. La sua voce risuona, tagliente come una lama. Le guardie, rapide, si muovono per circondare i due. Huni, con un rapido gesto, spinge Qenna, esortandolo a fuggire con i preziosi papiri. Le sue parole attirano l’attenzione, la sua resistenza, seppur vana, concede a Qenna secondi vitali per dileguarsi tra le piante profumate. Le guardie si stringono intorno a Huni. Il gioco è finito per lui.;4;5;5
+;;Gemma 3 27B Q4;Il profumo inebriante dei fiori del giardino non riusciva a mascherare l'odore acre della paura. Huni, stretto tra le ombre degli alberi da frutto, percepiva il peso degli sguardi delle guardie. Qenna, sgattaiolando tra i cespugli, gli fece segno di affrettarsi. Un grido squarciò il silenzio, seguito da un tonfo sordo. Huni, colto di sorpresa, si ritrovò stretto in una morsa di ferro. Le guardie, allertate dal movimento, lo avevano circondato. Qenna, vedendo la trappola scattare, esitò un istante, poi si dileguò nell'ombra, lasciando Huni solo ad affrontare il suo destino. Il peso del segreto, ora, era anche il peso della sconfitta.;5;3;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+7;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Huni viene interrogato da Ramose che gli offre la libertà in cambio del nascondiglio di Qenna. Nel momento cruciale, arrivano Nakht e altri soldati che arrestano Ramose: Qenna è riuscita a portare le prove al Faraone.
+
+TONO:
+Drammatico, Risolutivo
+
+AMBIENTAZIONE:
+Location: Carcere (Tempio)
+Orario: Sera
+Tempo: Sereno
+
+PERSONAGGI:
+Huni (Popolano)
+Ramose (Ministro della Fede - Sommo Sacerdote)
+Nakht (Combattente - Guardia)
+Soldati (Combattente - Soldato)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;"Le parole di Ramose serpeggiano tra le mura fredde: la libertà in cambio del tradimento. Huni tace, lo sguardo basso ma il cuore acceso di tormento; un respiro sospeso separa la scelta dal rimorso. All’improvviso, passi decisi interrompono il patto: Nakht avanza, seguito dai soldati. La voce di Nakht è severa e definitiva quando pronuncia l’arresto; Ramose tenta di imporsi, ma invano. Il silenzio che segue è carico di un sollievo trattenuto. Qenna ha compiuto l’impossibile: la verità è ormai salda nelle mani del Faraone. Un destino si spezza; un altro, inatteso, ora può cominciare.";5;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Huni viene condotto al cospetto di Ramose, tra le severe mura del tempio. La notte si annuncia, e il silenzio è rotto solo dalla voce del ministro, che gli sussurra parole di promessa: la sua libertà, in cambio della rivelazione sul rifugio di Qenna. La tentazione è forte, il peso della prigionia schiaccia ogni resistenza. Ma proprio quando Huni sta per cedere, un clamore rompe la quiete. Nakht irrompe con i suoi soldati. Le prove di Qenna hanno raggiunto il Faraone. Ramose viene circondato e arrestato. Il gioco è finito, ma non come lui si aspettava.;4;5;5
+;;Gemma 3 27B Q4;Il clangore metallico delle celle riecheggiò nel tempio trasformato in prigione. Ramose, con le mani legate, osservò l'irruzione dei soldati. Nakht, il volto impassibile, lo trascinò via, ignorando le sue proteste. L'eco dei suoi lamenti si perse nel corridoio mentre veniva rinchiuso in una cella umida e buia. Qenna era riuscita a raggiungere il Faraone, portando le prove della sua corruzione. Il suo piano era fallito, la sua influenza spezzata. La giustizia, seppur tardiva, aveva trionfato. Huni, testimone silenzioso di quella caduta, percepì un barlume di speranza nell'oscurità. La verità, alla fine, aveva trovato la sua strada.;5;2;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+8;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Huni e Qenna vengono condotti a palazzo, dove il Faraone li premia con incarichi di prestigio per il loro coraggio. 
+
+TONO:
+Risolutivo, Soddisfacente
+
+AMBIENTAZIONE:
+Location: Sala Privata (Palazzo Reale)
+Orario: Mattina
+Tempo: Sereno
+
+PERSONAGGI:
+Huni (Popolano)
+Qenna (Basso Funzionario - Scriba)
+Faraone (Membro Famiglia Reale - Faraone)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;"Al cospetto del Faraone, la sala si riempie di un silenzio denso d’attesa. Sua Maestà pronuncia parole di lode: riconosce l’audacia di Huni, il suo spirito indomito, e lo eleva tra i supervisori delle terre del Tempio. Qenna, fedele e saggio, ottiene l’incarico di sorvegliare le iscrizioni degli archivi reali. Le guance di Huni si scaldano di orgoglio; Qenna abbassa rispettoso lo sguardo. I compiti sono chiari, le responsabilità nuove. La riconoscenza del sovrano suggella il loro valore. Un cenno del Faraone li congeda: la giornata si apre su destini trasformati.";4;4;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";E così, i due uomini varcano le soglie del palazzo, la luce dorata del mattino accoglie i loro passi. Sono condotti al cospetto di Sua Maestà, il Faraone in persona. Non c'è più l'ombra della minaccia, solo l'aria pregna di riconoscimento e gratitudine. Il sovrano, con voce ferma, pronuncia il loro nome, lodando il loro coraggio e la loro lealtà. A Huni, l'umile popolano, viene concessa una posizione di riguardo, un onore impensabile fino a poco tempo fa. Per Qenna, lo scriba astuto, un incarico di prestigio, un riconoscimento della sua perspicacia. La giustizia è stata ristabilita e il merito è stato premiato.;4;5;5
+;;Gemma 3 27B Q4;"Il Faraone, con un cenno del capo, confermò le accuse a Ramose. La giustizia era stata servita, e l’ordine ristabilito. Huni e Qenna, portatori di verità, furono convocati nella sala privata del palazzo. Il Faraone, riconoscendo il loro coraggio e la loro lealtà, li accolse con onore. ""Avete dimostrato un valore inestimabile,"" dichiarò il sovrano, ""la vostra dedizione alla verità ha salvaguardato il regno."" Qenna, con umiltà, si inchinò al Faraone, mentre Huni, con dignità, ricevette il riconoscimento del sovrano. Da quel giorno, entrambi furono insigniti di incarichi di prestigio, servendo il regno con onore e integrità.";5;5;4

@@ -1,0 +1,229 @@
+﻿Text 10;;;;;;
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+1;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Khonsu, un talentuoso scultore, riceve l'incarico di creare una statua del Faraone da parte di Hemiunu. È il più grande onore della sua vita, ma anche una sfida pericolosa.
+
+TONO:
+Solenne
+
+AMBIENTAZIONE:
+Location: Laboratorio dello Scultore
+Orario: Mattina
+Tempo: Soleggiato
+
+PERSONAGGI:
+Khonsu (Popolano - Operaio)
+Hemiunu (Alto Funzionario - Sopraintendente dei Templi)";ChatGPT 4.1;Mentre la luce del mattino penetra silenziosa, Khonsu si inginocchia dinanzi a Hemiunu, il sopraintendente dei templi. Le sue mani tremano mentre accoglie la volontà dei potenti: scolpire il volto del Faraone, incarnazione vivente degli dèi. Hemiunu parla con voce severa, ricordando a Khonsu che la perfezione non è richiesta, ma imposta dalla maestà regale. Khonsu giura fedeltà all’incarico, consapevole che ogni colpo di scalpello deciderà la sua vita. Nel laboratorio, l’eco di quell’ordine sacro si imprime nel cuore dello scultore: il destino della sua esistenza ora appartiene alla pietra.;5;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";"Il sole del mattino filtra nel laboratorio. Giunge la notizia: Hemiunu, Sopraintendente dei Templi, ha scelto Khonsu. L'incarico è supremo: una statua del Faraone in persona. Un onore senza precedenti per un semplice scultore, l'apice di una vita dedicata all'arte. Ma con tale grandezza viene un peso immenso; la perfezione è attesa, l'errore non ammesso. Il futuro di Khonsu, la sua reputazione, forse la sua stessa vita, dipendono ora dalla sua abilità e dalla benevolenza degli dèi. La sfida è lanciata.";5;4;5
+;;Gemma 3 27B Q4;Il sole penetra nello squallido laboratorio, illuminando la polvere di pietra che danza nell’aria. Khonsu accoglie Hemiunu con un profondo inchino, il cuore colmo di riverenza e timore. L’incarico è giunto: scolpire l’immagine del Faraone. Un onore che eleva il suo umile lavoro al rango delle opere divine, ma anche un peso insopportabile. Ogni colpo di scalpello dovrà essere perfetto, un riflesso dell’autorità e della potenza del sovrano. Un errore potrebbe significare la rovina. Hemiunu osserva in silenzio, valutando l’abilità dell’artigiano. Il destino di Khonsu, e forse qualcosa di più, è ora legato alla fredda pietra.;5;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+2;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Khonsu viene avvisato da un messaggero che la statua deve essere completata in metà del tempo previsto, per il festival di Sed. Sa che un lavoro affrettato rischia di essere imperfetto.
+
+TONO:
+Ansioso
+
+AMBIENTAZIONE:
+Location: Laboratorio dello Scultore
+Orario: Sera
+Tempo: Sereno
+
+PERSONAGGI:
+Khonsu (Popolano - Operaio)
+Messaggero (Servo)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;"Khonsu stringe i pugni quando il messaggero sussurra la notizia, la voce bassa ma perentoria. Il tempo gli scivola via tra le mani, e già sente il peso degli occhi invisibili che giudicheranno ogni dettaglio della statua. Deve scegliere: rischiare l’approvazione dei sacerdoti con un’opera incompleta, o tentare l’impossibile. Il messaggero aspetta, impassibile, il cenno d’assenso. Khonsu trattiene il respiro, cercando nel silenzio la forza per accettare l’ordine; il lavoro sarà una corsa contro il sole. Sa che ogni colpo di scalpello da ora in poi sarà una corsa contro il disonore.";4;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Nel laboratorio si sente un peso nell'aria della sera serena. Un servo giunge con un messaggio inatteso: la statua, destinata al Festival di Sed, deve essere pronta in metà del tempo stabilito. Khonsu ascolta le parole, un freddo lo percorre. La consapevolezza di un lavoro affrettato, del rischio di imperfezioni, preme sul suo animo. La sua reputazione, guadagnata con fatica, è appesa a un filo sottile.;4;5;5
+;;Gemma 3 27B Q4;La notizia colpisce Khonsu come un fulmine. Il festival di Sed incombe, e il tempo per completare la statua è dimezzato. Un’ondata di panico gli serra la gola. La perfezione, ora, sembra irraggiungibile. Ogni colpo di scalpello risuona come un monito, ogni scaglia di pietra sollevata è un frammento della sua ansia. Sa che affrettare il lavoro significa rischiare l’imperfezione, offendere la maestà del Faraone. Eppure, la scadenza incombe, implacabile. Il destino della statua, e forse il suo, pende da un filo sottile come la polvere di pietra che fluttua nell’aria serena della notte.;5;4;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+3;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Khonsu trascura la famiglia e lavora giorno e notte. Sua moglie Neferu lo supplica di riposarsi, vedendolo sempre più esausto e ossessionato dalla perfezione.
+
+TONO:
+Tensione, Tristezza
+
+AMBIENTAZIONE:
+Location: Laboratorio dello Scultore
+Orario: Notte
+Tempo: Ventoso
+
+PERSONAGGI:
+Khonsu (Popolano - Operaio)
+Neferu (Popolano)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Il vento irrompe tra le fessure, portando con sé un lamento che si confonde con il respiro affannoso di Khonsu. Neferu si avvicina in silenzio, posa delicatamente una mano sulle spalle curve del marito. Cerca le parole giuste mentre lo implora ancora una volta di fermarsi, ma lui scuote la testa, ostinato, gli occhi già fissi sull’opera incompiuta. Il martello cade dalle sue mani tremanti, ma Khonsu lo raccoglie, sordo al pianto sommesso di Neferu. Tra la polvere e la fatica, l’ossessione lo consuma, lasciando la voce della moglie spegnersi nel vento notturno.;5;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";La notte avanza, portando il vento che sferza contro le pareti del laboratorio. Khonsu, incurante, si china sul suo lavoro, la mente un turbine di calcoli e misure. Ogni colpo di scalpello è misurato, preciso, ma il peso della scadenza incombente grava su ogni gesto. L'aria è pesante di polvere e tensione. Giunge Neferu, il suo passo incerto nel buio. La sua voce è un sussurro carico di preoccupazione mentre supplica il marito di fermarsi, di riposare. Ma Khonsu non ascolta, la sua ossessione per la perfezione lo divora, la paura del fallimento lo tiene legato alla sua opera.;5;5;5
+;;Gemma 3 27B Q4;"Il vento ulula contro le vetrate del laboratorio, eco del tormento che divora Khonsu. Neferu si avvicina, la voce un sussurro spezzato: ""Khonsu, ti prego, riposa."" Lui non risponde, gli occhi fissi sulla statua incompleta, le mani che tremano mentre afferra lo scalpello. Ogni colpo è un atto di disperazione, un tentativo di domare l'ansia che lo soffoca. Neferu allunga una mano, ma si ritrae, consapevole che in quel momento, il marito è prigioniero di un incubo di pietra e perfezione, un incubo da cui sembra non esserci via d'uscita. Il silenzio è rotto solo dal vento e dal ritmo ossessivo dello scalpello.";5;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+4;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Durante l'ispezione della statua quasi completata, Ankhu nota un minuscolo difetto e lo interpreta come un pessimo presagio.
+
+TONO:
+Conflittuale, Solenne
+
+AMBIENTAZIONE:
+Location: Tempio 
+Orario: Primo Pomeriggio
+Tempo: Nuvoloso
+
+PERSONAGGI:
+Khonsu (Popolano - Operaio)
+Ankhu (Ministro della Fede - Sacerdote)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Khonsu si ritrae rispettoso, le mani ancora impolverate dal lavoro. Ankhu indugia sul piccolo difetto, lo fissa come se il tempio stesso gliene avesse rivelato il significato oscuro. Un silenzio teso cala tra i due, mentre il sacerdote sussurra una preghiera a bassa voce, gravando l’aria di un’inquietudine che solo lui osa pronunciare. “Questa imperfezione—” dichiara solennemente Ankhu, “—non è soltanto colpa degli uomini, ma avvertimento degli dèi.” Khonsu abbassa il capo, consapevole di quanto le parole di Ankhu possano cambiare il destino di chi plasma e di chi prega.;5;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Il sole di primo pomeriggio fatica a filtrare attraverso le nubi che gravano sul tempio. Ankhu, muove con gravità il suo sguardo esperto sulla statua che si erge maestosa. Un fruscio quasi impercettibile accompagna il suo passo mentre si avvicina all'imponente figura. E lì, un dettaglio sfugge alla perfezione: una piccolissima scalfittura sulla superficie liscia. Un fremito percorre la schiena di Ankhu. Non è solo un errore di scalpello per i suoi occhi, ma un segno oscuro, un presagio nefasto che il Nilo si prepara a negare le sue acque generose. La tensione nell'aria si fa palpabile.;5;5;4
+;;Gemma 3 27B Q4;Il vento sferza il tempio, portando con sé presagi inquieti. Ankhu, Ministro della Fede, scruta la statua quasi ultimata, un’ombra di preoccupazione che gli vela lo sguardo. Un minuscolo difetto, appena percettibile, cattura la sua attenzione. Non un errore tecnico, ma un segno, un’imperfezione che grida silenziosamente. Khonsu, l'operaio, continua a lavorare, ignaro del turbamento del sacerdote. Ankhu percepisce il peso di un destino avverso, un presagio che si insinua nelle fondamenta del tempio, minacciando l'equilibrio tra cielo e terra. Un silenzio carico di tensione avvolge la sala, mentre il Ministro della Fede si prepara ad affrontare l’imminente oscurità.;5;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+5;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Khonsu viene accusato di blasfemia e tradimento. Nonostante le sue suppliche, viene condannato a riparare l'errore o affrontare l'esilio con la sua famiglia.
+
+TONO:
+Tragico
+
+AMBIENTAZIONE:
+Location: Tempio 
+Orario: Primo Pomeriggio
+Tempo: Nuvoloso
+
+PERSONAGGI:
+Khonsu (Popolano - Operaio)
+Ankhu (Ministro della Fede - Sacerdote)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;"Il silenzio grava attorno a Khonsu mentre la sua voce si spegne, soffocata dalla disperazione. Ankhu, impassibile nella sua autorità, pronuncia la sentenza: l’errore va riparato, oppure l’esilio attende Khonsu e chiunque ami. Khonsu sente il peso schiacciare anche l’aria; le suppliche svaniscono, tra gli occhi dei presenti, indifferenti o timorosi d’intervenire. Una scelta resta, ma entrambe le vie reclamano un sacrificio. Il cuore di Khonsu è dilaniato: il dovere verso la comunità contrapposto al terrore della perdita. Una preghiera silenziosa si leva, ma ora il suo destino è nelle mani degli uomini.";4;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Ankhu, con un gesto lento e solenne, indica la scalfittura. Le sue parole risuonano nella penombra del tempio, gravi come il cielo nuvoloso sopra di loro. Accusa Khonsu, un semplice operaio, non solo di aver compiuto quell'atto sacrilego, ma di aver infangato il nome degli Dei e tradito la fiducia del popolo. Khonsu, atterrito, si prostra a terra. Le sue suppliche riempiono l'aria, implorazioni disperate di perdono e comprensione. Ma Ankhu rimane inflessibile. Non c'è spazio per la misericordia. La sentenza è dura: Khonsu deve riparare il suo errore prima che la luna tramonti, o lui e la sua famiglia saranno esiliati, strappati per sempre alla loro terra.;5;5;5
+;;Gemma 3 27B Q4;Il silenzio nel tempio si spezza. Ankhu, con voce grave, pronuncia la sentenza: blasfemia e tradimento. Khonsu, attonito, invoca la sua innocenza, ma le parole si perdono nel vento. La legge è implacabile: riparare l'errore o affrontare l'esilio, abbandonando la famiglia alla miseria. Un gemito strozzato sfugge alle labbra di Khonsu, mentre il peso del destino gli schiaccia il cuore. Il primo pomeriggio si fa cupo, le nuvole oscurano il sole, presagio di una tragedia ineluttabile. Il destino di un uomo, e di una famiglia, è sospeso tra la speranza e la disperazione.;5;5;4
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+6;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Khonsu lavora freneticamente. Un colpo errato causa una crepa che attraversa il volto della statua, rendendo impossibile la riparazione.
+
+TONO:
+Drammatico
+
+AMBIENTAZIONE:
+Location: Tempio 
+Orario: Primo Pomeriggio
+Tempo: Tempesta
+
+PERSONAGGI:
+Khonsu (Popolano - Operaio)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Il rumore della crepa si propaga come un presagio. Khonsu si blocca, il respiro corto, lasciando cadere lo scalpello. Sa che nessuna malta potrà sanare il volto del dio spezzato, e la coscienza del suo errore brucia più della fatica. Tra il rombo lontano dei tuoni, il senso di colpa invade ogni pensiero: teme le conseguenze, conosce il rigore dei sorveglianti. In quel momento, il tempio sembra trattenere il fiato e Khonsu capisce che il suo futuro, come la statua davanti a lui, si è incrinato irrimediabilmente.;4;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Sotto il fragore assordante della tempesta che si abbatte sul tempio, Khonsu lavora senza tregua. Il suo respiro affannoso si confonde con il ruggito del vento e il rombo del tuono. Ogni colpo è un tentativo disperato di cancellare l’accusa che gli pesa sul cuore. La paura di fallire, di condannare la sua famiglia, lo spinge oltre ogni limite. Ma la frenesia lo tradisce. Un colpo impreciso. Un suono secco e agghiacciante. Una crepa. Si allarga, impietosa, attraversando il volto della statua. Impossibile riparare l'irreparabile. L’esilio li attende.;5;5;5
+;;Gemma 3 27B Q4;Khonsu lavora con furia, il martello che danza sulla pietra come un predatore. Un colpo a vuoto, un suono sordo che annuncia l’irreparabile. Una crepa serpeggia sul volto della statua, profonda, inesorabile. La pietra, un tempo simbolo di divinità, ora porta il marchio del suo errore. Khonsu indietreggia, lo sguardo fisso sulla frattura. Il suo respiro si fa corto, il cuore martella nel petto. La tempesta infuria all'esterno, eco del caos che divampa dentro di lui. La legge è chiara: la riparazione è impossibile. L’esilio, l’ombra che incombe sulla sua famiglia, si fa realtà.;4;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+7;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Khonsu, sopraffatto dalla vergogna e dalla paura, fugge nel deserto senza avvisare la famiglia. Neferu e il figlio vengono prelevati dalle guardie e condannati ai lavori forzati nelle miniere.
+
+TONO:
+Straziante
+
+AMBIENTAZIONE:
+Location: Deserto
+Orario: Alba
+Tempo: Ventoso
+
+PERSONAGGI:
+Khonsu (Popolano - Operaio)
+Guardie (Combattente - Guardia)
+Neferu (Popolano)
+Figlio di Khonsu (Popolano)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;La sabbia si solleva, trascinata dal vento che geme nel silenzio. Khonsu, il cuore stretto dall’angoscia, lascia alle sue spalle ogni affetto, mentre la colpa lo divora a ogni passo nel deserto. All’alba, le guardie trascinano Neferu e il loro figlio, le grida soffocate dalla rassegnazione. Il bambino cerca la mano della madre, trovando solo la stretta disperata delle dita consumate dal dolore. Nessuno chiede, nessuno risponde: la dura legge degli uomini schiaccia ogni supplica. Sotto il peso della condanna, resta solo il ricordo di una famiglia spezzata, dispersa come granelli di sabbia nel vento.;5;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Il vento gelido del deserto sferza il volto di Khonsu mentre fugge. Ogni passo è un peso sul cuore, ogni raffica un lamento per chi ha lasciato. La sabbia sollevata dall'alba nasconde l'orrore che si abbatte sulla sua casa. Le guardie irrompono. Neferu e il figlio, atterriti, vengono strappati al tepore dell'alba. Il silenzio che segue è rotto solo dal pianto soffocato, mentre la loro condanna li trascina verso l'inferno delle miniere, un futuro di stenti e disperazione sotto il sole implacabile.;5;5;5
+;;Gemma 3 27B Q4;Il vento sferza la sabbia, sollevandola in vortici che danzano come spiriti erranti. Neferu, trascinata via dalle guardie, osserva il figlio stringersi a lei, gli occhi sbarrati dal terrore. Ogni passo è un macigno, ogni granello di sabbia una lacrima. Il sole sorge, ma non porta calore, solo la cruda luce della disperazione. La miniera li attende, un abisso di fatica e oblio. Khonsu, nel deserto, è ormai solo un ricordo, un’ombra fugace inghiottita dalla tempesta. La sua vergogna è il loro destino, un peso insostenibile che grava sui loro cuori spezzati.;3;3;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+8;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Anni dopo, Khonsu fa ritorno. Osserva da lontano una nuova statua nel tempio, creata da un altro artista.
+
+TONO:
+Maliconico, Introspettivo
+
+AMBIENTAZIONE:
+Location: Tempio completato (Esterno)
+Orario: Tramonto
+Tempo: Sereno
+
+PERSONAGGI:
+Khonsu (Popolano)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Khonsu si ferma sul limitare del tempio, le mani strette attorno ai ricordi che non osa sciogliere. Davanti a lui, la statua appena innalzata cattura la luce calda del tramonto: è opera d’altri, eppure regna solenne dove lui un tempo aveva sperato di lasciare il segno. Dentro, la voce di Khonsu si mescola al silenzio: sogni di pietra, ora custoditi da mani più fortunate. Resta ancora qualche istante, poi un respiro profondo gli attraversa il petto—nessuno chiama il suo nome. Solo, raccoglie ciò che resta di sé e torna, lento, verso la sera.;2;4;4
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Anni dopo, Khonsu fa ritorno. Il sole del tramonto dipinge d'oro la pietra antica, mentre si avvicina al tempio, ora completato. Non c'è gioia nel suo passo stanco, solo il peso di un passato che non cessa di urlare. I suoi occhi si posano su una nuova statua, eretta al centro del cortile. Non è opera sua. Un altro artista ha preso il suo posto, ha completato ciò che lui non ha potuto. Un groppo gli stringe la gola. Ogni linea di quella scultura estranea è un ricordo di ciò che ha perduto, un silenzio assordante che parla di vita e speranza sradicate con violenza.;5;5;5
+;;Gemma 3 27B Q4;Il sole, morente, tinge d'oro la pietra del tempio completato. Khonsu osserva, in silenzio, la nuova statua. Non è la sua opera, non riflette la sua visione. Un’eco lontana di orgoglio, spenta, risuona nel suo cuore. L’arte di un altro si erge al suo posto, un promemoria silenzioso del tempo che passa, dei sogni abbandonati. Il vento sussurra tra le colonne, portando con sé il peso di un passato che non può essere riscritto. Un’ombra di malinconia gli vela lo sguardo, mentre il deserto inghiotte lentamente la luce del giorno.;4;4;5

@@ -1,0 +1,234 @@
+﻿Text 03;;;;;;
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+1;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Amunhotep, membro della guardia personale del Faraone, viene informato di un complotto per assassinare il sovrano durante la festa di Opet. Le informazioni provengono da Sobek, un mercante straniero di dubbia reputazione.
+
+TONO:
+Allerta, Preoccupazione
+
+AMBIENTAZIONE:
+Location: Caserma delle Guardie Reali (Tebe)
+Orario: Tarda notte
+Tempo: Sereno 
+
+PERSONAGGI:
+Amunhotep (Combattente - Guardia)
+Sobek (Popolano - Mercante)";ChatGPT 4.1;"Amunhotep stringe i pugni mentre Sobek, esitante, gli sussurra parole che pesano come macigni: un attentato si trama contro il Faraone, proprio durante la sacra celebrazione di Opet. L’aria nella caserma si fa tesa; Amunhotep sente la responsabilità gravare sulle sue spalle. Ogni dettaglio fornito dal mercante è passato al vaglio del suo giudizio, misurando la veridicità con il sospetto dovuto a chi porta notizie da terre lontane senza giuramento. Ma il pericolo incombe, e Amunhotep capisce che ogni istante di incertezza potrebbe segnare il destino del sovrano.";4;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Nella tarda notte, nella caserma delle Guardie Reali a Tebe, Amunhotep ascolta con crescente allerta. Un mercante straniero, Sobek, la cui reputazione precede le sue parole, gli rivela un sussurro che gela il sangue. Un complotto si tesse nell'ombra, un disegno nefasto per colpire il Faraone proprio durante la grande festa di Opet. La minaccia incombe, e l'aria serena della notte si carica di una pesante preoccupazione.;5;4;4
+;;Gemma 3 27B Q4;Il silenzio della caserma è spezzato da passi frettolosi. Amunhotep, la mano sulla spada, ascolta il mercante straniero. Sobek parla a bassa voce, le parole cariche di un’ombra che inquieta l’anima. Un complotto… contro il Faraone, proprio durante la sacra festa di Opet. L’aria si fa pesante, pregna di presagi funesti. Amunhotep percepisce la necessità di agire subito, di sventare l'insidia prima che possa germogliare. Dubbi assillano il guerriero: Sobek è un uomo di affari, non un informatore. Ma il tempo stringe, e la sicurezza del sovrano è la priorità assoluta. Ogni ombra nasconde una potenziale minaccia.;5;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+2;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Amunhotep informa il Capo delle Forze Armate del presunto complotto, ma questi minimizza la minaccia, suggerendo di non disturbare il Faraone con voci infondate alla vigilia della festa sacra.
+
+TONO:
+Frustrazione, Determinazione
+
+AMBIENTAZIONE:
+Location: Sala delle Udienze Militari (Palazzo Reale)
+Orario: Alba
+Tempo: Uggioso
+
+PERSONAGGI:
+Amunhotep (Combattente - Guardia)
+Horemheb (Alto Funzionario - Capo delle Forze Armate)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Amunhotep affonda lo sguardo nel volto impassibile di Horemheb. Le sue parole restano sospese, inascoltate, mentre il Capo delle Forze Armate liquida l’allarme con uno sbuffo appena accennato, più infastidito che preoccupato. “Non turbare la calma del Faraone con timori privi di fondamento,” ordina Horemheb, la voce ferma di chi è avvezzo al comando. Ma Amunhotep stringe i pugni, conscio del proprio dovere, e trattiene a stento la rabbia: sa che ogni minuto sprecato potrebbe avvicinare il palazzo al pericolo. La fiducia nelle gerarchie vacilla, ma la determinazione cresce.;5;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Amunhotep si precipita nella Sala delle Udienze Militari, il cuore che batte all’impazzata. L'aria è immobile, densa di attesa.  Espone al Capo delle Forze Armate quanto appreso, le parole cariche di urgenza. Ma Horemheb respinge la minaccia, la definisce solo un mormorio senza fondamento. Sminuisce il pericolo, suggerisce di non turbare la quiete del Faraone in un momento così sacro. Amunhotep sente montare la frustrazione, la determinazione a proteggere il suo sovrano lo spinge a insistere.;5;5;5
+;;Gemma 3 27B Q4;La pioggia tamburella contro le vetrate, un ritmo funesto che accompagna le parole di Amunhotep. Il guerriero espone i suoi timori, la voce tesa a contrastare lo scetticismo di Horemheb. Il capo delle armate minimizza, liquidando il racconto come frutto di allarmismi e dicerie mercantili. “Non disturbare il Faraone con ombre, Amunhotep,” tuona Horemheb, “la sacra festa richiede concentrazione, non presagi infondati.” Amunhotep serra la mascella, la frustrazione lo divora. Nonostante il diniego, il combattente è determinato a proteggere il suo sovrano, anche a costo di agire da solo. Il peso della responsabilità gli opprime il cuore, mentre la tempesta infuria fuori, presagio di un pericolo imminente.;5;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+3;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Deciso a indagare, Amunhotep si reca al mercato in abiti civili dove osserva un gruppo di stranieri che parlano di ""cambiamento imminente"" nel governo d'Egitto.
+
+TONO:
+Investigativo
+
+AMBIENTAZIONE:
+Location: Mercato di Tebe
+Orario: Mezzogiorno
+Tempo: Soleggiato
+
+PERSONAGGI:
+Amunhotep (Combattente - Guardia)
+Stranieri (Popolano - Mercante)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;"Con passo misurato, Amunhotep si mescola ai mercanti e ai viandanti del mercato, nascondendo la propria autorità sotto vesti modeste. La folla si muove incessante attorno a lui, ma la sua attenzione resta fissa sugli stranieri che sussurrano tra loro, illustrando piani e speranze legati a un “cambiamento imminente”. Nessuno osa alzare la voce: le affermazioni restano sospese nell’aria, tra scambi rapidi e frasi smorzate dalla cautela. Amunhotep coglie lo sguardo inquieto di uno di loro; comprende che ogni parola è scelta con attenzione, consapevoli del rischio che corrono all’interno del cuore pulsante di Tebe.";5;4;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Ancora scosso dal rifiuto del Capo delle Forze Armate, Amunhotep non si arrende. Lascia la quiete delle sale ufficiali e si addentra nel cuore pulsante di Tebe: il mercato. La luce del mezzogiorno inonda le bancarelle, l'aria è pregna di odori e suoni. Amunhotep si confonde tra la folla, l'occhio vigile. Scorge un gruppo di stranieri, le voci basse, gli sguardi inquieti. Si avvicina con discrezione, le orecchie tese. Ascolta le loro parole, frammenti di un discorso enigmatico. Parlano di un “cambiamento imminente”, qualcosa che riguarda il governo stesso dell'Egitto. La gravità delle loro parole conferma i timori di Amunhotep. La minaccia è reale.;5;5;4
+;;Gemma 3 27B Q4;Il sole picchia implacabile sul mercato, ma Amunhotep non si lascia distrarre. Mimetizzato tra la folla, osserva un gruppo di stranieri, le loro voci basse e concitate. Parlano di un “cambiamento imminente”, un sussurro che si insinua tra le contrattazioni e il vociare. Le loro parole, seppur frammentarie, sembrano confermare i timori del guerriero. Amunhotep affila lo sguardo, cercando di decifrare i loro intenti. Chi sono questi uomini? Quale complotto stanno tramando? Ogni gesto, ogni scambio di sguardi, viene analizzato con la precisione di un falco. La sensazione di pericolo si fa sempre più pressante, un’ombra che incombe sulla festa sacra.;5;4;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+4;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Amunhotep segue gli stranieri. Gli uomini si incontrano con Kemsit, un sacerdote che fornisce loro informazioni sul percorso della processione reale durante la festa.
+
+TONO:
+Tensione
+
+AMBIENTAZIONE:
+Location: Vicolo Appartato (Quartiere del Tempio)
+Orario: Pomeriggio
+Tempo: Ventoso
+
+PERSONAGGI:
+Amunhotep (Combattente - Guardia)
+Kemsit (Ministro della Fede - Sacerdote)
+Stranieri (Popolano - Mercante)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Amunhotep osserva, il respiro trattenuto, mentre Kemsit si avvicina agli stranieri con passo misurato e voce bassa. Il sacerdote traccia nell’aria un segno reverente, poi sussurra dettagli sulla processione, elencando svolte, soste e soprattutto i punti in cui la folla sarà più compatta. Gli stranieri ascoltano in silenzio, scambiandosi un cenno d’intesa, cercando di non trasmettere emozioni. Il vento agita le vesti mentre Amunhotep si fa più vigile: ogni parola che Kemsit pronuncia potrebbe mutare il destino del pomeriggio ventoso. Un sottile senso di minaccia serpeggia tra gli uomini, invisibile ma crescente.;5;4;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Amunhotep segue gli stranieri. Il vento solleva la sabbia fine mentre si addentrano in un vicolo appartato, l'ombra si allunga minacciosa. L'aria è densa di un silenzio carico, rotto solo dal fruscio dei vestiti e dal sibilare del vento. Gli uomini si fermano. Incontro a loro viene un sacerdote, Kemsit. Le parole sussurrate, gli sguardi fugaci. Kemsit fornisce agli stranieri informazioni sul percorso della processione reale. La tensione cresce nell'aria.;4;5;5
+;;Gemma 3 27B Q4;Il vento sferza il vicolo appartato, sollevando polvere e sussurri. Amunhotep, nascosto tra le ombre, vede gli stranieri incontrarsi con Kemsit, il sacerdote. Le parole di Kemsit, misurate e velate, tracciano il percorso della processione reale. Un’informazione preziosa, troppo preziosa per essere condivisa con chiunque. Gli sguardi degli stranieri si incrociano, un lampo di intesa che non sfugge al guerriero. Non cercano offerte o mercanzie, ma un varco, un momento di vulnerabilità. Il vento ulula, portando con sé un presagio oscuro. La festa sacra è vicina, e con essa, la possibilità di un’azione audace, forse fatale. Amunhotep stringe l’elsa della spada, pronto a intervenire.;5;4;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+5;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Amunhotep affronta il Kemsit al tempio. Dopo un intenso confronto, l'uomo crolla e confessa che i cospiratori hanno corrotto anche alcune guardie del percorso processionale.
+
+TONO:
+Confronto, Rivelatore
+
+AMBIENTAZIONE:
+Location: Sala (Tempio di Amon)
+Orario: Tramonto
+Tempo: Sereno
+
+PERSONAGGI:
+Amunhotep (Combattente - Guardia)
+Kemsit (Ministro della Fede - Sacerdote)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Il silenzio che segue la confessione di Kemsit pesa quanto il piombo. Amunhotep non lascia spazio al dubbio: la voce si fa tagliente, esige nomi, verità, lamenti soffocati. Kemsit, spezzato, rivela che la corruzione si è insinuata nel cuore stesso della processione sacra, dove le guardie, un tempo devote, ora obbediscono a nuovi padroni. Il sacerdote abbassa il capo, conscio che ogni parola pronunciata è una ferita inferta all’ordine millenario. Il respiro di Amunhotep si fa più profondo: sa che la minaccia cresce, avanzando silenziosa all’ombra della tradizione. Ora la fiducia vacilla.;5;4;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Amunhotep attende, l'ombra del tempio lo avvolge mentre il sole declina all'orizzonte. Kemsit si allontana dagli stranieri, dirigendosi verso l'interno del luogo sacro. Amunhotep lo segue, il passo deciso. All'interno del tempio di Amon, le preghiere sussurrate si mescolano al fruscio degli abiti. Amunhotep si pone di fronte al ministro, il confronto è inevitabile. Le parole volano, taglienti come schegge di basalto. Kemsit resiste, ma la pressione è troppa. Cede, le sue difese crollano come mura di sabbia. Confessa, la voce spezzata, che la corruzione si estende, tocca anche le guardie che vegliano sul percorso processionale.;4;5;5
+;;Gemma 3 27B Q4;La confessione di Kemsit risuona tra le colonne del tempio. Ogni sillaba è un macigno che si frantuma contro la pietra. Non sono solo estranei a tramare nell’ombra, ma traditori dall’interno. Le guardie del percorso processionale, corrotte, pronte a cedere il controllo nel momento cruciale. Amunhotep percepisce il peso di questa rivelazione, il futuro della festa sacra appeso a un filo. Il tramonto tinge di rosso il cielo, un presagio di sangue e inganno. La fiducia è infranta, la lealtà compromessa. Ora, più che mai, la verità deve emergere, anche a costo di svelare un complotto che minaccia l’intero regno.;5;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+6;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Amunhotep si dirige agli alloggi delle guardie, dove sorprende il suo compagno Paser mentre riceve un pagamento dagli stranieri. Il confronto è doloroso e culmina in un combattimento.
+
+TONO:
+Drammatico, Conflitto
+
+AMBIENTAZIONE:
+Location: Alloggi delle Guardie (Palazzo Reale)
+Orario: Prima sera
+Tempo: Sereno
+
+PERSONAGGI:
+Amunhotep (Combattente - Guardia)
+Paser (Combattente - Guardia)
+Straniero (Popolano - Mercante)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Amunhotep avanza silenzioso oltre le soglie degli alloggi, il respiro teso mentre osserva Paser, chino e intento a contare pezzi d’argento che un mercante straniero gli porge con mani veloci. Il tradimento brucia, e nelle parole spezzate che Amunhotep rivolge al compagno si percepisce la frattura di una fiducia onorata anni. Paser si irrigidisce, lo sguardo fiero che non cerca giustificazioni. I toni salgono, il mercante si nasconde alle ombre della fuga, e tra i due esplode un conflitto feroce, dove non restano che la forza, l’orgoglio ferito e la polvere calpestata dal combattimento;3;4;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";La rivelazione di Kemsit risuona ancora nelle orecchie di Amunhotep mentre attraversa i cortili del palazzo. La via lo conduce agli alloggi delle guardie, dove il crepuscolo si posa sui tetti di paglia. Qui, nella penombra, Amunhotep sorprende Paser. Un mercante straniero si allontana furtivamente, le mani di Paser stringono qualcosa di prezioso, un pegno di tradimento. Lo sguardo di Amunhotep è un dardo scagliato nel petto dell'amico. Le accuse non hanno bisogno di parole, il silenzio è un urlo. Paser alza la testa, la negazione dipinge il suo volto, ma la verità è incisa nei suoi occhi. L'aria si fa pesante, intrisa di dolore e rabbia. Non ci sono più amici, solo un dovere da compiere. L'inevitabile scontro ha inizio.;5;5;5
+;;Gemma 3 27B Q4;"Il cuore di Amunhotep martella nel petto mentre si ferma sulla soglia. Paser, le spalle rivolte, accetta una borsa pesante dalle mani di uno straniero. Un silenzio greve cala, rotto solo dal tintinnio delle monete. ""Paser,"" sussurra Amunhotep, la voce carica di amarezza. Il compagno si volta, lo sguardo colto in fallo. La negazione muore sulle sue labbra. Un’accusa non detta si materializza nell'aria. Le mani di entrambi cercano l'elsa delle spade. La lealtà è un ricordo sbiadito, sostituita dal clangore del metallo. Il combattimento divampa, un turbine di rabbia e delusione, un fratello contro un fratello, nell'ombra degli alloggi delle guardie.";4;4;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+7;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Ferito ma determinato, Amunhotep riesce a raggiungere il Gran Visir e gli rivela i dettagli del complotto. Le guardie leali circondano il Faraone mentre quelle corrotte vengono identificate e arrestate.
+
+TONO:
+Urgente
+
+AMBIENTAZIONE:
+Location: Sala delle Preparazioni (Tempio di Amon)
+Orario: Alba
+Tempo: Sereno
+
+PERSONAGGI:
+Amunhotep (Combattente - Guardia)
+Tutmosis (Alto Funzionario - Visir)
+Setnakhte (Membro Famiglia Reale - Faraone)
+Guardie Leali (Combattente - Guardia)
+Guardie Traditrici (Combattente - Guardia)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;"Nel silenzio interrotto solo dal respiro affannoso di Amunhotep, il Gran Visir ascolta con occhi spalancati la rivelazione che cambia il corso degli eventi. Un cenno rapido di Tutmosis scatena il movimento delle guardie leali: un battito d’ali, e il Faraone è subito al centro di un cerchio protettivo. Le urla spezzano la tensione crescente mentre i traditori vengono spinti a terra, le armi sottratte, i giochi di potere ora nudi davanti agli animi vigili. L’alba, fuori, scorre inavvertita; dentro, la lealtà e il coraggio riscrivono il destino della sala.";3;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Nonostante le ferite, Amunhotep si fa strada con l'urgenza del dovere. Raggiunge finalmente Tutmosis, il Gran Visir, e con fiato affannoso svela ogni dettaglio del vile complotto. Le sue parole, cariche di gravità, dipingono il quadro del tradimento. Immediatamente, guardie leali circondano il Faraone Setnakhte, un baluardo di protezione. Le guardie traditrici, individuate tra le loro fila, vengono isolate e trattenute, il loro piano sventato all'alba nella Sala delle Preparazioni.;5;5;5
+;;Gemma 3 27B Q4;"Amunhotep, con il respiro affannoso, espone i fatti al Gran Visir Tutmosis. Le parole affilate come lame rivelano una rete di tradimenti che avvolge la corte. Intorno a loro, un muro di guardie leali si stringe, gli sguardi fissi sulle figure corrotte smascherate. Un ordine secco rompe il silenzio: ""Arrestateli!"". Le mani si alzano, le spade vengono riposte. La sala delle preparazioni, illuminata dalla luce rosata dell'alba, è teatro di un epilogo amaro. Il Faraone Setnakhte, protetto, osserva la scena con un’espressione indecifrabile. La lealtà, macchiata dal tradimento, si ricompone lentamente, ma la fiducia è un cristallo infranto, difficile da riparare.";4;5;4
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+8;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Al termine della processione per la festa di Opet, il Faraone chiama a sé Amunhotep, benedicendolo davanti a tutti e nominandolo Capitano della sua Guardia Personale.
+
+TONO:
+Celebrativo
+
+AMBIENTAZIONE:
+Location: Grande Viale (Tempio di Luxor)
+Orario: Mezzogiorno
+Tempo: Soleggiato
+
+PERSONAGGI:
+Amunhotep (Combattente - Guardia)
+Setnakhte (Membro Famiglia Reale - Faraone)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;"In un silenzio carico di attesa, le parole solenni del Faraone echeggiano sul viale, mentre la folla trattiene il respiro. Con gesto maestoso, Setnakhte posa la mano sul capo di Amunhotep, dichiarando pubblicamente la sua fiducia assoluta. Un mormorio di approvazione sale tra i presenti; onore e promessa si fondono nell’aria luminosa di mezzogiorno. Il guerriero si inchina, consapevole che da questo momento la sua lealtà e il suo coraggio serviranno direttamente il trono. Ogni sguardo si posa su di lui: è il nuovo Capitano, benedetto dal Faraone e dagli dèi.";5;4;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Il sole di mezzogiorno illumina il Grande Viale. Al culmine della processione di Opet, Setnakhte, il Faraone, si rivolge alla folla. La sua voce risuona potente, un inno alla lealtà e al coraggio. Chiama a sé Amunhotep, l’uomo che con la sua prontezza ha sventato l’ombra del tradimento. Davanti a tutti, con un gesto carico di solennità, il Faraone lo benedice. Le sue parole sono un sigillo, lo elevano al rango di Capitano della sua Guardia Personale. La folla esulta, un murmure di approvazione si diffonde nell’aria.;4;5;5
+;;Gemma 3 27B Q4;Il sole raggiunge il suo zenit, illuminando il Grande Viale. Un’ondata di giubilo si propaga tra la folla. Il Faraone Setnakhte, con un gesto solenne, chiama Amunhotep a sé. Una benedizione, un tocco regale sulla spalla, sigilla il destino del guerriero. “Da oggi”, proclama il sovrano, la voce amplificata dai sacerdoti, “Amunhotep sarà il Capitano della mia Guardia Personale!”. Un boato di approvazione scuote il tempio. Gli sguardi si rivolgono ad Amunhotep, un uomo forgiato nel coraggio e nella lealtà, ora custode del Faraone e simbolo di una corte rinnovata. La fiducia, seppur ferita, rinasce sotto il sole d’Egitto.;5;4;5

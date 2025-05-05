@@ -1,0 +1,231 @@
+﻿Text 05;;;;;;
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+1;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Nefrura, figlia di un medico di corte, passeggia nel giardino del palazzo. Si imbatte in Amenemhat, un giovane architetto recentemente tornato da terre straniere per lavorare al nuovo tempio del Faraone.
+
+TONO:
+Leggero
+
+AMBIENTAZIONE:
+Location: Giardino Reale (Palazzo di Tebe)
+Orario: Prima mattina
+Tempo: Uggioso
+
+PERSONAGGI:
+Nefrura (Popolano - Medico apprendista)
+Amenemhat (Popolano - Architetto)";ChatGPT 4.1;Nefrura cammina lentamente, seguendo con lo sguardo il volo distratto di una farfalla recalcitrante. Un lieve fruscio tra i cespugli le annuncia la presenza di Amenemhat, che la saluta con un cenno rispettoso, la voce bassissima come si conviene tra gente comune nei giardini della nobiltà. Scambiano parole timide: lui racconta di pietre e segreti architettonici dal paese dei due fiumi, lei ascolta attenta, domandando con discrezione, nutrita dalla curiosità viva degli apprendisti. Una risata sottile li accomuna, mentre la luce opaca del mattino avvolge i pensieri non detti di entrambi.;4;4;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";La fresca aria del mattino avvolge il Giardino Reale. Nefrura, immersa nei suoi pensieri, si muove tra il fogliame, il cui verde brillante è reso più intenso dall’umidità della giornata. All’improvviso, il suo cammino incrocia quello di Amenemhat. Un breve cenno del capo è sufficiente a riconoscersi. Amenemhat, con un sorriso pacato, si ferma, in procinto di parlare. Le loro parole non sono solo un saluto, ma un timido scambio di idee, forse un accenno ai progetti del giovane architetto, tornato per la grandiosa opera del Faraone.;5;5;5
+;;Gemma 3 27B Q4;La pioggia fine bagna i petali di loto nel Giardino Reale, mentre Nefrura, con passo leggero, percorre i sentieri umidi. La giovane, intenta a raccogliere erbe per i suoi studi, si imbatte in Amenemhat. Il suo volto, segnato da un recente viaggio, si illumina nel vedere la freschezza del giardino. L’architetto, appena rientrato da terre lontane, studia i progetti del nuovo tempio del Faraone, ma lo sguardo indugia sulla figura di Nefrura, colta di sorpresa tra le piante. Un breve sorriso increspa le labbra di entrambi, un momento di quiete rubato alla frenesia del palazzo. L’aria profuma di terra bagnata e promesse silenziose.;5;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+2;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Il giorno seguente, Nefrura e Amenemhat si incontrano nuovamente nel giardino. Parlano di architettura e piante e la loro intesa cresce mentre scambiano conoscenze. 
+
+TONO:
+Romantico
+
+AMBIENTAZIONE:
+Location: Laghetto dei Loti (Giardino Reale)
+Orario: Tramonto
+Tempo: Sereno
+
+PERSONAGGI:
+Nefrura (Popolano - Medico apprendista)
+Amenemhat (Popolano - Architetto)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;"All’ombra dorata del tramonto, le parole tra Nefrura e Amenemhat scorrono leggere come il riflesso dell’acqua tra i fiori di loto. Discutono delle tecniche per irrigare i campi e dell’ingegno che nasconde ogni pilastro dei templi. Ogni risposta di Amenemhat si intreccia a una domanda curiosa di Nefrura, ogni sua osservazione si arricchisce grazie alla delicatezza dello sguardo di lei. Una risata condivisa spezza il silenzio; il loro sapere diventa complicità. Tra i profumi delle erbe e i segreti sussurrati, la connessione tra i due, semplice e profonda, cresce come un fiore inatteso sull’acqua calma.";5;4;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Il giorno seguente, al calar del sole, i profumi del laghetto dei loti avvolgono nuovamente Nefrura e Amenemhat. Le loro voci si intrecciano, parlando non solo di mura e strutture, ma anche di germogli e fioriture. Condividono saperi, scoprendo affinità inaspettate.  In questo scambio sereno, le loro anime si riconoscono e la loro intesa, come il sole al tramonto, si fa più intensa e preziosa.;5;5;5
+;;Gemma 3 27B Q4;Il sole tinge d'oro le acque del laghetto, mentre Nefrura indica ad Amenemhat una rara varietà di ninfea. Le loro dita sfiorano le foglie vellutate, un contatto leggero che accende un calore inaspettato. Le parole fluiscono libere, tessendo un dialogo tra la geometria delle pietre e la delicata anatomia delle piante. Ogni scambio di conoscenza sembra avvicinarli, rivelando un’intesa profonda. Amenemhat, rapito dalla passione di Nefrura, dimentica per un istante i progetti del tempio. Il giardino, testimone silente, custodisce il segreto di un sentimento che sboccia al tramonto.;5;4;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+3;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Durante una festa per l'inizio dei lavori al tempio, Nefrura scopre che Amenemhat è stato promesso in matrimonio alla figlia di un nobile, Nefertari, come ricompensa per il suo talento. 
+
+TONO:
+Nostalgico, Struggente
+
+AMBIENTAZIONE:
+Location: Gran Sala (Palazzo di Tebe)
+Orario: Sera
+Tempo: Ventoso
+
+PERSONAGGI:
+Nefrura (Popolano - Medico apprendista)
+Amenemhat (Popolano - Architetto)
+Nefertari (Nobile - figlia promessa)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;"Mentre i canti si affievoliscono tra le colonne e il vento trascina lontano le ultime risate, Nefrura resta in silenzio, il cuore serrato tra ciò che è stato e ciò che non potrà essere. Scorge Amenemhat circondato dai volti festanti, ignaro del peso che ora grava tra loro. Una parola sussurrata — il nome di Nefertari — si propaga come una lama sottile. Nefrura sente la distanza crescere, inattesa e definitiva, tra sogni coltivati in segreto e una promessa che le è negata. Nessuna supplica è pronunciata; solo lo sguardo trattiene per un istante la speranza, prima di lasciarla andare.";5;3;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Il vento della sera accarezza le colonne della Gran Sala mentre la festa per il nuovo tempio si anima. Tra le risate e il tintinnio dei calici, Nefrura cerca con lo sguardo Amenemhat. Lo trova poco distante, le parole di un alto funzionario lo raggiungono, chiare nonostante il frastuono. Ascolta, e un freddo sottile si insinua nel cuore di Nefrura. Amenemhat, il suo Amenemhat, viene elogiato per il suo ingegno, e come ricompensa, gli viene offerta la mano di Nefertari, la figlia di un nobile. Un futuro disegnato da altri, che allontana due anime che si erano appena ritrovate.;5;5;5
+;;Gemma 3 27B Q4;La musica si smorza, il vento ulula tra le colonne. Nefrura osserva Amenemhat, il suo sorriso svanito. La notizia cade come un macigno: Nefertari, la figlia del nobile Horemheb, lo attende in matrimonio. Un patto siglato per ricompensare il suo ingegno, un prezzo per il talento che aveva creduto libero. Lo sguardo di Amenemhat è velato di tristezza, un silenzio eloquente che ferisce più di mille parole. Nefrura stringe le mani, sentendo il peso di un destino ineluttabile. Il profumo dei fiori, prima dolce, ora si mescola all’amaro sentore di una promessa infranta. Il vento porta via i loro sogni, spargendoli tra le ombre del palazzo.;5;4;3
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+4;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Nefrura scappa nel giardino e Amenemhat la insegue per spiegarle la situazione. Le confessa che il matrimonio è un obbligo imposto, ma il suo cuore appartiene solo a lei. Insieme, decidono di affidarsi agli dei e cercare un modo per stare insieme.
+
+TONO:
+Confessione, Speranza
+
+AMBIENTAZIONE:
+Location: Pergolato di Vite (Giardino Reale)
+Orario: Notte
+Tempo: Ventoso
+
+PERSONAGGI:
+Nefrura (Popolano - Medico apprendista)
+Amenemhat (Popolano - Architetto)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Amenemhat ora si ferma, il respiro affannoso, mentre Nefrura si volta verso di lui, gli occhi lucidi di lacrime e rabbia. Con voce tremante, lui le racconta la verità: la promessa nuziale non è frutto del suo desiderio, ma una catena imposta dai suoi. Le mani si cercano esitanti nell’oscurità, le dita si intrecciano. Nefrura trattiene un singhiozzo, poi si fa coraggio. Amenemhat le giura che nessuna legge potrà spegnere il sentimento che li unisce. Insieme, chinano il capo, sussurrando ai venti dei nomi degli dèi, affidando la loro speranza a un fato benevolo.;5;4;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Nel cuore del giardino, Nefrura cerca rifugio tra le foglie che frusciano. Amenemhat la raggiunge, il fiato corto, la voce un sussurro nel vento notturno.  Le parole si riversano in una confessione dolorosa: questo matrimonio è un dovere imposto, un destino scritto che non ha scelto. Ma gli dei ascoltino, il suo cuore batte solo per lei, Nefrura.  Insieme, sotto il cielo striato di nubi, affidano le loro speranze al favore divino, cercando un sentiero, un segno che possa unirli.;5;5;5
+;;Gemma 3 27B Q4;Il vento sussurra tra i vitigni, portando con sé il profumo della notte. Amenemhat raggiunge Nefrura, la voce roca di disperazione. Confessa che il matrimonio è un debito, un patto imposto dalla corte, ma il suo cuore appartiene solo a lei. Nefrura lo ascolta, gli occhi lucidi, mentre lui le stringe la mano. Insieme, al riparo del pergolato, decidono di affidarsi agli dei, invocando la loro benevolenza. Un’ultima speranza, un fragile desiderio di poter restare uniti, contro ogni legge e convenzione. Un patto silenzioso, suggellato da un bacio rubato al vento.;5;4;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+5;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Nefrura parla con suo padre Ipuwer della situazione. Il vecchio medico le suggerisce di dimostrare il suo valore creando un unguento curativo per la malattia che affligge la Regina, guadagnandosi così un posto a corte e maggiore considerazione.
+
+TONO:
+Speranzoso
+
+AMBIENTAZIONE:
+Location: Laboratorio (Casa del Medico)
+Orario: Prima Mattina
+Tempo: Sereno
+
+PERSONAGGI:
+Nefrura (Popolano - Medico apprendista)
+Ipuwer (Popolano - Medico anziano)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;"Il respiro di Nefrura si calma mentre ascolta le parole di Ipuwer. Lui, con la voce colma di una pazienza antica, le confida che il cambiamento spesso richiede coraggio e abilità; suggerisce che, se davvero vuole essere ascoltata, dovrà mostrare ciò che sa fare. Un rimedio per la Regina, dice, potrebbe aprirle le porte che finora sono rimaste chiuse. Nefrura sente nascere in sé una nuova determinazione: raccoglierà le erbe migliori, mescolerà gli ingredienti con cura e offrirà il suo sapere, sperando che il destino accompagni le sue mani.";5;3;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";La luce tenue del mattino filtra nel laboratorio mentre Nefrura confida le sue preoccupazioni al padre Ipuwer. Il vecchio medico ascolta con attenzione, la sua voce calma infonde speranza. Suggerisce un percorso inaspettato, un’opportunità per Nefrura di dimostrare il suo valore. Un unguento curativo per la malattia della Regina, un’occasione per guadagnare un posto a corte e ottenere il rispetto che merita. L'aria si riempie di un ritrovato ottimismo, un barlume di speranza in un futuro incerto.;5;5;5
+;;Gemma 3 27B Q4;Ipuwer osserva Nefrura, il volto segnato da pensieri contrastanti. “La corte non guarda con favore chi osa sfidare le regole, figlia mia”, afferma con voce calma. “Ma il talento, se dimostrato, può aprire anche le porte più chiuse.” Le sue parole sono un invito, un suggerimento che le accende lo spirito. “La Regina è afflitta da un male che i medici di corte non riescono a curare. Se tu creassi un unguento che la salvi, ti guadagneresti non solo un posto a corte, ma il rispetto che meriti.” Un barlume di speranza illumina il laboratorio, mentre Nefrura, con rinnovata determinazione, si china sugli antichi erbari, pronta a sfidare il destino.;4;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+6;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Nefrura lavora instancabilmente sul rimedio medicinale. Quando finalmente lo completa, viene convocata a palazzo per somministrarlo alla Regina malata.
+
+TONO:
+Trepidante
+
+AMBIENTAZIONE:
+Location: Camera della Regina (Palazzo Reale)
+Orario: Mezzogiorno
+Tempo: Soleggiato
+
+PERSONAGGI:
+Nefrura (Popolano - Medico apprendista)
+Tiy (Membro Famiglia Reale - Regina)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Nefrura attraversa il portale del palazzo con il cuore che batte forte, stringendo tra le mani la ciotola che racchiude il frutto di giorni di lavoro. Giunta davanti alla Regina, si inchina secondo il suo rango, attendendo l’approvazione silenziosa dei dignitari. Un breve cenno da parte di Tiy, fragile sopra i cuscini, rompe l’attesa: Nefrura avanza e, con mani prudenti e gesti rispettosi, solleva il rimedio verso le labbra della sovrana. L’aria nella stanza si fa densa, carica della speranza di una guarigione e del timore di un errore irrimediabile.;5;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Sotto il sole battente di mezzogiorno, Nefrura, stremata ma soddisfatta, posa l’unguento appena completato. Le sue mani, che hanno lavorato senza sosta, tremano leggermente. Un messaggero di palazzo giunge con urgenza: la Regina Tiy la attende nella sua camera. Il cuore di Nefrura batte forte. Non c'è tempo per esitazioni. Inizia la sua corsa verso il palazzo reale. L'aria si fa densa di attesa. Ogni passo la avvicina al cospetto della sovrana. È il momento della verità.;5;5;5
+;;Gemma 3 27B Q4;Il cuore di Nefrura batte all’impazzata mentre varca la soglia della camera reale. Un sole caldo filtra dalle finestre, illuminando i ricami d’oro e gli arredi sontuosi. Tiy, pallida e fragile sul letto, attende. Con mani tremanti, Nefrura presenta l’unguento, frutto di giorni di studio e ricerca. Un silenzio denso avvolge la stanza mentre la Regina, con un cenno del capo, permette a Nefrura di applicare il rimedio sulla tempia. Un’attesa sospesa, carica di speranza e timore. Il destino di una sovrana, e forse il futuro di una giovane guaritrice, sono appesi a un soffio.;4;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+7;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Il rimedio di Nefrura guarisce miracolosamente la Regina ed il Faraone decide di ricompensarla. La giovane chiede il permesso di sposare Amenemhat ed il Faraone acconsente. 
+
+TONO:
+Speranzoso, Rivelatorio
+
+AMBIENTAZIONE:
+Location: Sala del Trono (Palazzo Reale)
+Orario: Pomeriggio
+Tempo: Sereno
+
+PERSONAGGI:
+Nefrura (Popolano - Medico apprendista)
+Amenhotep (Membro Famiglia Reale - Faraone)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Un silenzio colmo di attesa avvolge la sala mentre la Regina, sorridente, si rivolge al Faraone con gratitudine. La voce di Amenhotep si innalza solenne: la vita della Regina è salva grazie a Nefrura. La giovane si inginocchia, timorosa ma risoluta, e chiede un dono che nessun tesoro può eguagliare: la libertà di sposare Amenemhat. Un mormorio si diffonde tra i presenti. Il Faraone la guarda a lungo, poi pronuncia il suo consenso. Un fremito di speranza accarezza tutti: oggi, la sapienza di una giovane non solo salva una vita, ma unisce due destini.;5;4;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";La Regina, guarita dal tocco sapiente di Nefrura, apre gli occhi. Un sospiro di sollievo percorre la Sala del Trono. Il Faraone, in un gesto di gratitudine, si rivolge alla giovane medico apprendista. “Quale ricompensa desideri, Nefrura?” chiede la voce potente del sovrano. Nefrura, con un coraggio che sorprende tutti, alza lo sguardo e pronuncia il desiderio a lungo celato nel suo cuore: “Permettimi di sposare Amenemhat, signore.” Un istante di silenzio sospeso, poi il Faraone annuisce. Un raggio di sole pomeridiano attraversa la sala, illuminando il volto di Nefrura e promettendo un futuro nuovo.;5;5;5
+;;Gemma 3 27B Q4;"Un sussurro di sollievo percorre la sala del trono. La Regina Tiy, miracolosamente guarita, offre un sorriso radioso. Amenhotep, il Faraone, osserva Nefrura con rinnovato rispetto. ""Hai salvato la mia sposa, giovane medico,"" proclama con voce solenne. ""Chiedi ciò che desideri, e sarà tuo."" Nefrura, con umiltà, alza lo sguardo e formula la sua richiesta: il permesso di unirsi in matrimonio ad Amenemhat. Un attimo di silenzio, poi il Faraone annuisce, concedendo la sua benedizione. Un destino inatteso si compie, unendo due cuori tra le mura del palazzo reale.";5;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+8;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Durante la festa dell'inondazione, il Faraone annuncia il matrimonio tra Nefrura e Amenemhat, nominandoli rispettivamente Medico Reale e Architetto di Corte. 
+
+TONO:
+Celebrativo, Romantico
+
+AMBIENTAZIONE:
+Location: Giardino Reale (Palazzo di Tebe)
+Orario: Tramonto
+Tempo: Sereno
+
+PERSONAGGI:
+Nefrura (Popolano - Medico apprendista)
+Amenemhat (Popolano - Architetto)
+Amenhotep (Membro Famiglia Reale - Faraone)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Mentre l’eco delle parole del Faraone danza nell’aria dorata del tramonto, la folla esplode in un mormorio di gioia e rispetto. Nefrura sente battere il cuore con orgoglio mentre Amenemhat le sfiora la mano con timida reverenza, consapevole che la fiducia del Faraone li ha innalzati sopra ogni barriera. Gli sguardi di ammirazione dei presenti celebrano l’unione di due destini: la guaritrice e il sognatore di pietra. In quell’istante, tra applausi, offerte di fiori e melodie di liuto, il Giardino Reale si trasforma in culla di speranza, promessa di prosperità per tutto il popolo d’Egitto.;5;3;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Le luci calde del tramonto inondano il Giardino Reale, mentre l'eco della festa dell'inondazione riempie l'aria. Tra profumi esotici e il dolce fruscio delle palme, il Faraone si rivolge alla folla festante. La sua voce, solenne ma intrisa di gioia, annuncia l'unione di Nefrura e Amenemhat. L'amore che li lega ora è benedetto dalla corona. Nefrura, già amata per la sua sapienza, viene onorata con la carica di Medico Reale, un titolo che riconosce il suo talento e la sua devozione. Amenemhat, l'architetto visionario, riceve l'incarico di Architetto di Corte, il suo ingegno al servizio del regno. Un futuro radioso si apre davanti a loro, un cammino intessuto di amore e onore, sotto lo sguardo benevolo degli dèi e del loro sovrano.;4;5;5
+;;Gemma 3 27B Q4;"La brezza del tramonto accarezza i fiori del Giardino Reale, mentre il Faraone Amenhotep alza il calice. ""A Nefrura, Medico Reale, e ad Amenemhat, Architetto di Corte!"" Un coro di voci si unisce al brindisi, celebrando l’unione di due anime. Nefrura e Amenemhat si scambiano uno sguardo colmo di promesse, le mani che si stringono saldamente. Il loro amore, nato tra il popolo, ora risplende sotto la benedizione divina, un legame destinato a fiorire come il Nilo stesso, portando prosperità e armonia a tutto il regno. Un nuovo capitolo si apre, intriso di speranza e passione.";5;5;5

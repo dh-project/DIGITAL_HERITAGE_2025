@@ -1,0 +1,230 @@
+﻿Text 04;;;;;;
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+1;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Pepi si sveglia tardi il giorno del grande mercato annuale. Mentre carica freneticamente le merci più preziose sul dorso del proprio asino, l'animale fugge. 
+
+TONO:
+Comico, Caotico
+
+AMBIENTAZIONE:
+Location: Casa Mercante (Quartiere Commerciale)
+Orario: Tarda mattina
+Tempo: Soleggiato
+
+PERSONAGGI:
+Pepi (Popolano - Mercante)
+Asino (Animale)";ChatGPT 4.1;Pepi si sveglia d’un balzo, il sole gli ruggisce già addosso: oggi c’è il grande mercato! Tra sbadigli affrettati e bestemmie sussurrate, rovescia ceste di granaglie e bende preziose sopra il dorso dell’asino. Ma appena posato il vaso più fragile, l’animale, forse inorridito dal carico o dal fiato mattutino del padrone, decide che la libertà vale più di mille monete. Con uno scossone si libera e inizia una corsa sfrenata tra urla e suoni stridenti. Pepi, disperato, rincorre merci e bestia, inciampando in un tripudio di risate e imprecazioni del vicinato curioso.;5;5;4
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Il sole è già alto quando Pepi si sveglia di soprassalto. Il grande mercato annuale! Un mormorio caotico arriva da fuori, testimoniando che la giornata è già iniziata. Con la frenesia di chi è in ritardo, Pepi afferra le sue mercanzie più preziose, quelle che spera gli cambieranno la vita, e le carica in fretta sul dorso dell'asino. Ma proprio in quell'istante, con un improvviso scalciare, l'animale si libera dal carico e si lancia in una fuga precipitosa, lasciando Pepi tra la polvere e la mercanzia sparsa.;4;5;5
+;;Gemma 3 27B Q4;Il sole picchia già forte quando Pepi apre gli occhi, un disastro! Oggi è il grande mercato e lui dorme ancora. Urla, imprecazioni e una corsa frenetica tra le giare di olio e i sacchi di datteri. Carica sull’asino le stoffe più pregiate, le anfore di birra, sperando di non dimenticare nulla. Ma l'asino, forse sentendo l'urgenza, o forse semplicemente annoiato, decide che è ora di una passeggiata solitaria. Pepi lo insegue tra le bancarelle, invocando gli dei e maledicendo la sua sfortuna. Il mercato non aspetta, e le stoffe volano già alte nel cielo! Che caos!;4;5;4
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+2;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Pepi insegue il suo asino per le strade affollate del mercato, causando scompiglio. L'animale lo conduce in un girotondo umiliante intorno alla piazza principale.
+
+TONO:
+Farsesco, Esilarante
+
+AMBIENTAZIONE:
+Location: Mercato di Tebe
+Orario: Mezzogiorno
+Tempo: Soleggiato
+
+PERSONAGGI:
+Pepi (Popolano - Mercante)
+Asino (Animale)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Mentre Pepi finge autorità chiamando per nome il suo sfuggente asino, trova invece solo risate e commenti pungenti da parte dei venditori più anziani. L'animale, impassibile e beffardo, zigzaga tra le bancarelle, inghiottendo una foglia qui, strattonando una stuoia là. Pepi implora, gesticola, inciampa in una cesta di datteri, e ogni tentativo di riaffermare la propria dignità si trasforma in una nuova gaffe, accolto da applausi e schiamazzi. Senza sosta, l'asino passa sotto le gambe di un venditore di lino, trascinando dietro di sé la borsa di Pepi, ormai vuota e irrimediabilmente sfilacciata.;3;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";La folla brulicante del mercato si apre e si richiude come un'onda confusa mentre Pepi rincorre il suo asino fuggitivo. Grida di sorpresa e qualche risata si levano tra i banchi traboccanti di merci. L'animale, inarrestabile, serpeggia tra la gente, trascinando il povero mercante in un inseguimento grottesco. Giunti nella piazza principale, l'asino non trova di meglio che iniziare un umiliante girotondo intorno alla statua del Faraone, con Pepi alle calcagna, ansimante e disperato, mentre il mercato si ferma un istante per godersi lo spettacolo inatteso.;4;5;5
+;;Gemma 3 27B Q4;"Il vociare del mercato si mescola alle imprecazioni di Pepi, ormai esausto. L'asino, con aria di sfida, sembra danzare attorno alla piazza, trascinando con sé brandelli di stoffa preziosa. Ogni tentativo di Pepi di afferrarlo si conclude con un'umiliante capriola tra le gambe dei passanti, scatenando risate e commenti sarcastici. Un mercante di spezie, con voce squillante, grida: ""Guarda, guarda! Il popolano insegue il suo tesoro!"". La situazione precipita, trasformando il mercato in un teatro dell'assurdo, dove Pepi è il protagonista involontario di una comica e disperata caccia.";5;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+3;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Pepi chiede aiuto ad una guardia del mercato, che si rivela essere un vecchio compagno di scuola. La guardia accetta di aiutarlo, ma solamente dopo aver fatto ammettere a Pepi di aver copiato da lui durante gli esami da scriba.
+
+TONO:
+Imbarazzo, Comico
+
+AMBIENTAZIONE:
+Location: Mercato di Tebe
+Orario: Mezzogiorno
+Tempo: Soleggiato
+
+PERSONAGGI:
+Pepi (Popolano - Mercante)
+Ahmose (Combattente - Guardia)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Pepi si avvicina alla guardia, la voce tremante. Implora aiuto, ma quando Ahmose si gira, entrambi si bloccano, colti di sorpresa dal riconoscersi. Ahmose incrocia le braccia, un sorrisetto ironico sulle labbra. “Vuoi il mio aiuto, vecchio furfante? Prima ammetti davanti agli dei di aver copiato i compiti da me.” Pepi arrossisce. L’imbarazzo è palpabile tra i banchi del mercato. Sospira, abbassa lo sguardo e, tra le risate trattenute dei passanti, confessa: “Va bene, copiavo sempre le tue risposte.” Ahmose scoppia a ridere e, battendogli una pacca sulla spalla, accetta di aiutarlo.;5;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";"Pepi, senza fiato, si imbatte in una guardia del mercato, una figura imponente tra il trambusto. Riconosce un volto familiare, Ahmose, un vecchio compagno di scuola. Pepi si appella a lui per un aiuto disperato. Ahmose lo osserva con un sorriso furbo. ""Pepi, Pepi,"" dice, con un tono che mescola l'amico ritrovato e il detentore di un segreto. ""Prima che io ti aiuti a recuperare quel testardo quadrupede, dobbiamo parlare di quegli esami da scriba. Ti ricordi chi aveva i geroglifici più ordinati? Chi aveva le risposte giuste?"" Pepi, imbarazzato, abbassa lo sguardo. Il sole di mezzogiorno sembra amplificare il silenzio carico di attesa. Deve ammettere la verità.";4;5;4
+;;Gemma 3 27B Q4;Pepi, tra un sospiro e l’altro, si rivolge ad una guardia del mercato, sperando in un aiuto. Ahmose lo scruta, un lampo di riconoscimento negli occhi. “Pepi? Ma sei tu? Non ti aspettavo qui, a inseguire asini impazziti…”, esclama, un sorriso che tradisce un misto di divertimento e malizia. “Ti aiuto, ma dimmi la verità. Ricordi gli esami da scriba? Quella prova di geroglifici… ammettilo, hai copiato da me!”. L'asino, intanto, approfitta della distrazione per rubare qualche dattero da una bancarella, mentre il vociare del mercato si anima ulteriormente. Pepi, stretto tra l'imbarazzo e la necessità, si prepara a confessare un peccato di gioventù.;5;4;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+4;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Pepi e la guardia rintracciano l'asino presso le cucine di un palazzo nobiliare. L'animale ha divorato prelibatezze destinate a un banchetto importante, facendo infuriare il cuoco. 
+
+TONO:
+Comico, Assurdo
+
+AMBIENTAZIONE:
+Location: Cucine (Casa Lussuosa)
+Orario: Metà pomeriggio
+Tempo: Soleggiato
+
+PERSONAGGI:
+Pepi (Popolano - Mercante)
+Ahmose (Combattente - Guardia)
+Neferkare (Popolano - Cuoco)
+Asino (Animale)
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Pepi sbuca trafelato tra le urla, seguito da Ahmose che brandisce la mazza senza convinzione: l’asino, con aria innocente e pancia gonfia, rutta rumorosamente accanto a un vassoio ormai vuoto. Neferkare, il cuoco, scuote le mani verso il cielo, declamando imprecazioni degne di una sfilata regale, mentre Pepi tenta di giustificarsi balbettando che “l’asino gradisce solo le cose migliori”. Ahmose, nel tentativo di imporre ordine, inciampa su una focaccia rimasta illesa: si scatena così una corsa confusa tra burle, schiamazzi e minacce di tirarci dietro l’intera cena del governatore.;4;4;4
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";"Pepi, ancora rosso in viso, annuisce. Ahmose ride di gusto, battendogli una mano sulla spalla. ""Allora, andiamo a cercare questa bestia!"" I due seguono le tracce e si ritrovano nelle cucine di una casa lussuosa, dove regna il caos. L’asino, sfacciato, sta finendo di divorare una piramide di dolci, mentre il cuoco, Neferkare, agita le braccia al cielo con un urlo che farebbe impallidire un coccodrillo. ""Mio! Tutto mio!"" grida, indicando l'animale colpevole. L'asino raglia soddisfatto.";4;5;5
+;;Gemma 3 27B Q4;Il trambusto li conduce tra i profumi inebrianti delle cucine. L’asino, colpevole e sazio, si gode l’ultima fetta di torta di melograno, destinata al banchetto del visir. Neferkare, il cuoco, solleva un braccio, un mestolo grondante minaccia l’aria. “Un asino! Nella mia cucina! E mangia le mie creazioni!” urla, dimenticando ogni etichetta nobiliare. Ahmose, trattenendo a stento una risata, osserva Pepi. “Vedi? Anche gli asini hanno gusti raffinati, a quanto pare. Ma temo che il visir non apprezzerà la critica gastronomica.” Pepi, rassegnato, si prepara a negoziare con un cuoco infuriato e un asino decisamente troppo felice.;5;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+5;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Pepi promette al cuoco di sostituire il banchetto rovinato con le sue merci esotiche, ma sono rimaste solo spezie piccantissime e frutta troppo matura; il mercante deve improvvisare.
+
+TONO:
+Tensione
+
+AMBIENTAZIONE:
+Location: Cucine (Casa Lussuosa)
+Orario: Metà pomeriggio
+Tempo: Soleggiato
+
+PERSONAGGI:
+Pepi (Popolano - Mercante)
+Neferkare (Popolano - Cuoco)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;"Il cuoco Neferkare fronteggia l’attesa degli invitati, lo sguardo colmo di apprensione mentre Pepi, agitato, apre il suo sacco delle meraviglie. Il mercante estrae spezie ardenti e frutta ormai prossima a disfarsi, mormorando promesse di salvezza. Le mani di Neferkare afferrano gli ingredienti tra esitazione e rassegnazione: non ci sono alternative, il banchetto deve essere salvato. Pepi lo incalza sottovoce con idee audaci, mentre il tempo stringe e il rischio di fallire incombe; le sorti del pomeriggio — e la loro reputazione — dipendono adesso dalla loro improvvisazione.";5;4;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";"Il mercante si fa avanti, il sudore gli imperla la fronte. ""Non temere, Neferkare,"" esordisce, la voce più roca del solito. ""Il banchetto sarà sostituito. Le mie merci... ho spezie dai colori ardenti, dal sapore pungente. E frutti, dolcissimi, che il sole ha baciato a lungo."" Pepi sa che le sue promesse si reggono su un filo sottile: le spezie sono piccantissime, la frutta quasi marcia. Un’improvvisazione disperata aleggia nell'aria, mentre il cuoco lo guarda con occhi che non lasciano trasparire nulla. La tensione è palpabile come il fumo acre delle cucine.";4;5;5
+;;Gemma 3 27B Q4;Il silenzio cala pesante, interrotto solo dal ronzio delle mosche sulla frutta sovra matura. Pepi osserva Neferkare, il volto scolpito nella rabbia, mentre il cuoco stringe il mestolo. “Promisi un banchetto, Neferkare. E lo offrirò.” La voce del mercante è un filo, tesa come l’arco di un guerriero. “Ma non ho più altro, solo… questo.” Pepi indica le spezie, un cumulo di rossi e bruni. “Un tocco esotico, un fuoco per il palato del visir.” L’aria si fa densa, un’attesa carica di presagi. Neferkare lo fissa, scrutando l’inganno celato dietro quella promessa improvvisata. Il destino del banchetto, e forse qualcosa di più, è sospeso in un equilibrio precario.;4;5;3
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+6;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Il banchetto viene servito ed il nobile proprietario della casa rimane entusiasta delle strane pietanze di Pepi, quindi lo invita ad unirsi alla cena.
+
+TONO:
+Comico
+
+AMBIENTAZIONE:
+Location: Sala da Pranzo (Casa Lussuosa)
+Orario: Tramonto
+Tempo: Sereno
+
+PERSONAGGI:
+Pepi (Popolano - Mercante)
+Intef (Nobile)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Il nobile Intef batte le mani, mentre il profumo delle pietanze di Pepi stravolge l’aria: odori mai sentiti prima fanno sollevare sopracciglia e coppe. “Pepi, siedi con noi!” esclama, facendo segno al mercante di raggiungerlo al tavolo. Pepi, impacciato come un cammello su mosaico lucido, inchina tre volte il capo prima di accomodarsi, stringendo le vesti per non macchiarle di salsa misteriosa. I nobili lanciando occhiate tra il perplesso e l’affamato, osservano Pepi armeggiare con la brocca del vino, sorridendo goffo sotto gli sguardi nobiliari. La cena prende così una piega deliziosamente imprevedibile.;5;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";"Con il sole che si tuffa all'orizzonte, il banchetto prende vita. I vapori aromatici delle pietanze inusuali di Pepi si diffondono nella sala. Intef, il nobile padrone di casa, assapora con delizia ogni boccone, gli occhi che si illuminano di sorpresa ad ogni nuova combinazione di sapori. L'entusiasmo lo travolge: ""Magnifico, Pepi! Un audace e sorprendente connubio! Devi assolutamente unirti a noi!"" Intef fa un gesto generoso, invitando il mercante a sedersi al tavolo imbandito. Pepi, un misto di sollievo e stupore, accetta l'invito del nobile, quasi non credendo alla sua fortuna. La tensione di poco prima si scioglie in un'atmosfera inaspettatamente conviviale.";5;5;5
+;;Gemma 3 27B Q4;Intef ride di gusto, un suono fragoroso che rimbalza tra le colonne. “Fuoco per il palato, dici? Hai superato te stesso, Pepi! Mai assaggiato simili delizie!” Il nobile ingoia l’ultimo boccone con avidità, spazzando via le spezie con un gesto teatrale. “Un vero trionfo! Un popolano con il gusto di un faraone! Ascolta, amico mio, lascia perdere i tuoi affari da mercante, siediti qui e unisciti a noi. Un uomo con il tuo talento non può sprecarsi in quattro per quattro!” Intef batte un colpo sul cuscino accanto a lui, offrendogli un posto a tavola. “Avanti, Pepi, dimmi, qual è il tuo segreto?”;4;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+7;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Pepi viene presentato al Nomarca della provincia, alla ricerca di nuovi sapori per intrattenere il Faraone in visita. Pepi, preso dal panico, racconta storie sempre più assurde sull'origine delle sue ""specialità"".
+
+TONO:
+Comico
+
+AMBIENTAZIONE:
+Location: Sala da Pranzo (Casa Lussuosa)
+Orario: Tramonto
+Tempo: Sereno
+
+PERSONAGGI:
+Pepi (Popolano - Mercante)
+Khufu (Basso Funzionario - Nomarca)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Ecco che Pepi si ritrova di fronte al Nomarca, tra vassoi di pietanze e profumi che danzano nell’aria. Schiarisce la voce, goffo, cercando sollievo nelle proprie mani callose. “Questo pane? Proviene da una ricetta che gli ibis mi hanno cantato all’alba.” Il Nomarca solleva un sopracciglio. Pepi, sudando, rincara: “La salsa di fagioli, invece, l’ho imparata osservando i gatti rubare all’offerta sacra. Un’arte antichissima!” Sguardi increduli e qualche risatina soffocata serpeggiano tra i presenti. Pepi, ora lanciato, giura che il suo vino una volta fu apprezzato persino da Anubi durante una notte molto lunga;5;4;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";"Nell'aria che si fa più fresca, con il sole che saluta la terra d'Egitto, un basso funzionario si avvicina al tavolo. ""Pepi, è lui il Nomarca della provincia!"" sussurra Intef. Il Nomarca, con un'espressione che non ammette repliche, si rivolge a Pepi: ""Cerchiamo sapori per deliziare il Faraone in visita. Parlami delle tue specialità."" Pepi, improvvisamente nel panico, apre bocca e inizia a raccontare storie incredibili. ""Questi fichi secchi,"" balbetta, ""li ho trovati nel nido di un'arpia! E questo pane… lo impastano gli scribi alla luna piena!"" Il Nomarca, perplesso, lo osserva, mentre Intef trattiene a stento un sorriso.";5;5;4
+;;Gemma 3 27B Q4;"Il sorriso di Pepi si fa tirato. Khufu, il Nomarca, osserva curioso mentre il mercante, preso dal panico, divaga. ""Oh, quelle spezie?"" esclama Pepi, agitando le mani. ""Vengono da un’oasi segreta, custodita da babbuini addestrati a ballare il papyrus! Li ho convinti con… con delle ciambelle di datteri!"" Khufu alza un sopracciglio. ""Ciambelle?"" Pepi annuisce freneticamente. ""Sì, una ricetta segreta tramandata da… da un dio pescatore! E il colore rosso? Estratto dalle lacrime di un coccodrillo innamorato, ovviamente!"" Un silenzio imbarazzato cala nella sala, interrotto solo dal crepitio delle lampade ad olio.";5;4;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+8;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Il giorno seguente, il Normaca invita Pepi al proprio palazzo. Qui, lo informa di essere nominato ufficialmente ""Fornitore Reale di Specialità Esotiche""
+
+TONO:
+Comico, Trionfante
+
+AMBIENTAZIONE:
+Location: Palazzo del Nomarca
+Orario: Mattina
+Tempo: Sereno
+
+PERSONAGGI:
+Pepi (Popolano - Mercante)
+Khufu (Basso Funzionario - Nomarca)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Mentre il sole inonda il palazzo con la sua luce dorata, Pepi si trova al cospetto del Normaca, cercando disperatamente di ricordare se abbia pulito bene i piedi. Khufu, con un sorriso più largo di quanto la sua dignità ufficiale permetta, alza un papiro riccamente sigillato e lo agita come se stesse sventolando una bandiera in una processione. “Pepi! Da oggi sei il Fornitore Reale di Specialità Esotiche!” proclama con voce squillante. Pepi, incredulo, si lascia sfuggire un piccolo chicchirichì di gioia, mentre il Normaca strizza l’occhio soddisfatto, dichiarando che nessuno conosce migliori fichi secchi e scarabei canditi!;5;4;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Il sole del mattino inonda le sale del palazzo del Nomarca. Pepi viene accolto con tutti gli onori, il cuore in gola per la pomposità del luogo. Il Nomarca lo attende, un sorriso enigmatico sulle labbra. “Pepi,” esordisce solenne, “le tue storie... ehm... *particolari*, e i sapori che hai descritto, hanno destato un certo interesse. E un certo divertimento, diciamocelo! Così, il Faraone in persona, incuriosito dalla strampalata genialità dei tuoi racconti, ha deciso di concederti un titolo.” Pepi trattiene il respiro. Il Nomarca gonfia il petto: “Da oggi, sei ufficialmente nominato: Fornitore Reale di Specialità Esotiche! Che le tue arpie e i tuoi scribi lunari continuino a deliziare la corte!” Un coro di risate soffocate si leva dai presenti. Pepi, sbalordito, si chiede se stia sognando, mentre il Nomarca ride di gusto.;5;5;5
+;;Gemma 3 27B Q4;Khufu batte le mani, un suono secco che risuona nelle sale del palazzo. “Magnifico! Stupefacente! Un talento innato, direi!” Pepi, ancora confuso, si china in un goffo inchino. “Da oggi,” proclama il Nomarca con un sorriso trionfante, “tu sei ufficialmente nominato Fornitore Reale di Specialità Esotiche! Avrai accesso ai migliori mercati, carovane a tua disposizione e… e un contabile per tenere traccia delle tue… ehm… ‘acquisizioni’!” Pepi sgrana gli occhi. Un contabile? Forse, pensa, la situazione sta sfuggendo di mano. Ma un sorriso gli illumina il volto: un popolano, fornitore del Faraone! Chi l’avrebbe mai detto?;5;4;5

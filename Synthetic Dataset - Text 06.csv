@@ -1,0 +1,231 @@
+﻿Text 06;;;;;;
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+1;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Il giovane scriba Kha viene incaricato dal suo maestro Ptahhotep di consegnare un importante papiro al tempio di Amon.
+
+TONO:
+Serio
+
+AMBIENTAZIONE:
+Location: Scuola degli Scribi
+Orario: Mattina
+Tempo: Soleggiato
+
+PERSONAGGI:
+Kha (Basso Funzionario - Scriba)
+Ptahhotep (Basso Funzionario - Scriba)";ChatGPT 4.1;Il silenzio della mattina è interrotto solo dal fruscio dei papiri. Kha siede composto davanti al suo maestro, Ptahhotep, che con voce ferma gli affida un incarico di grande responsabilità: consegnare un papiro destinato al tempio di Amon. Kha si inchina rispettoso, consapevole dell’onore e del peso che comporta il compito ricevuto. Senza osare discutere, riceve il rotolo tra le mani e ne sente l’importanza. Un leggero cenno di approvazione di Ptahhotep segna l’inizio del viaggio di Kha: ogni gesto è guidato dalla disciplina e dalla deferenza che si addicono alla sua posizione.;5;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Al sorgere del sole, nella quiete della scuola degli scribi, Ptahhotep, con gesto solenne, consegna un papiro a Kha. Le parole del maestro risuonano chiare e precise: un incarico di grande importanza, un papiro da portare al tempio di Amon. Kha, con deferenza, riceve il prezioso fardello, consapevole della responsabilità che grava su di lui. Il compito è cruciale, il rispetto dovuto. La missione ha inizio.;5;5;5
+;;Gemma 3 27B Q4;Il sole filtra tra le colonne della Scuola degli Scribi. Ptahhotep, con gesto severo, affida a Kha un prezioso rotolo di papiro. “Portalo al tempio di Amon, giovane scriba. Questo documento contiene decreti reali che non possono essere ritardati.” Kha, con umiltà, accoglie l'incarico. Il peso del papiro nelle sue mani è il peso della fiducia del maestro, e la responsabilità di un messaggio che deve raggiungere il suo destino. Ogni passo lo avvicina al tempio, e ad un compito che definirà il suo valore.;5;5;4
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+2;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Durante il tragitto, Kha viene derubato del papiro da un ladruncolo che fugge tra la folla del mercato.
+
+TONO:
+Tensione, Sorpresa
+
+AMBIENTAZIONE:
+Location: Mercato
+Orario: Mattina
+Tempo: Soleggiato
+
+PERSONAGGI:
+Kha (Basso Funzionario - Scriba)
+Nefer (Popolano - Ladruncolo)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;"Un improvviso urto spinge Kha quasi fuori equilibrio. Prima che possa reagire, una mano rapida e sicura gli sfila il papiro dalla cintura. Un ragazzino guizza tra le gambe dei mercanti e scompare tra la calca, stringendo il bottino al petto. Kha rimane per un istante sospeso, incredulo; poi la paura e l’urgenza lo scuotono. Quel papiro è troppo importante. Scatta all’inseguimento, attirando sguardi curiosi e qualche risa beffarda mentre, con voce rotta dall’ansia, chiama i passanti a fermare il piccolo ladro. Ma Nefer conosce bene il mercato, e la sua fuga è furba, silenziosa.";5;5;4
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Nel cuore pulsante del mercato, tra le grida dei venditori e il profumo delle spezie, un fruscio improvviso. Una mano lesta afferra il papiro dalle mani di Kha. Un sussulto. Nefer si dissolve tra la folla, inghiottito dal caos. Il papiro, il prezioso fardello affidato da Ptahhotep, è perduto. Un'ombra si allunga sul volto di Kha, la sorpresa si trasforma in una muta disperazione. La missione è compromessa.;4;5;5
+;;Gemma 3 27B Q4;Il mercato brulica di vita, un vortice di voci e odori. Kha stringe il papiro, concentrato sul suo cammino, quando un urto lo sbilancia. Un lampo, una mano abile che strappa il rotolo, e Nefer si dilegua tra la folla. Kha, attonito, cerca lo sguardo del ladruncolo, ma è già perso nel dedalo di bancarelle e passanti. Un grido strozzato gli muore in gola. Il decreto reale, la fiducia di Ptahhotep, la sua stessa reputazione… tutto svanisce in un istante. La folla continua a scorrere, indifferente alla perdita, ignara del caos che si è appena scatenato.;5;5;4
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+3;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Kha riesce a catturare il ladruncolo e scopre che il ragazzo ha rubato il papiro per venderlo e comprare medicine per la madre malata.
+
+TONO:
+Compassionevole
+
+AMBIENTAZIONE:
+Location: Vicolo (Quartiere Povero)
+Orario: Mezzogiorno
+Tempo: Soleggiato
+
+PERSONAGGI:
+Kha (Basso Funzionario - Scriba)
+Nefer (Popolano - Ladruncolo)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Kha trattiene il respiro mentre stringe il braccio tremante di Nefer. Ora, di fronte alla verità, la sua autorità vacilla. Il ragazzo non implora, ma la voce, roca, confessa: ha rubato il papiro solo per comprare medicine destinate alla madre. Kha rimane in silenzio, sentendo sul cuore il peso della povertà che stringe la città come una morsa. Il dovere gli impone di punire, ma dentro di lui nasce il dubbio: può la legge non ascoltare la sofferenza? In quell’istante, Kha vede Nefer non più come un ladro, ma come un figlio disperato.;5;4;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Kha, con un balzo inatteso, lo raggiunge. La presa è salda. Ora Nefer non può più fuggire.  Kha si china su di lui, il suo respiro affannoso.  Il papiro è lì, stretto tra le mani del ragazzo. Nefer non alza lo sguardo. Ammette con voce rotta di aver rubato per bisogno, per la madre che giace malata.  Il cuore di Kha si stringe.  Comprende. Il prezioso papiro, ora, appare meno importante del tormento che gli sta di fronte.;5;5;5
+;;Gemma 3 27B Q4;La presa di Kha è salda, ma non crudele. Nefer sussulta, gli occhi sbarrati dal terrore. Non oppone resistenza quando il funzionario gli chiede il motivo del furto. La risposta è un sussurro spezzato, un racconto di febbre alta e rimedi irraggiungibili. La madre, la malattia, la disperazione che spinge un ragazzo a rischiare tutto per una speranza. Kha sente un nodo alla gola, un peso che non deriva dalla perdita del decreto, ma dalla sofferenza celata dietro quegli occhi smarriti. Il sole picchia implacabile, ma un'ombra di compassione vela lo sguardo del funzionario.;5;4;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+4;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Kha decide di aiutare Nefer. Propone al ragazzo di seguirlo al tempio e gli promette che intercederà per trovare un lavoro onesto per lui.
+
+TONO:
+Speranzoso
+
+AMBIENTAZIONE:
+Location: Vicolo (Quartiere Povero)
+Orario: Mezzogiorno
+Tempo: Soleggiato
+
+PERSONAGGI:
+Kha (Basso Funzionario - Scriba)
+Nefer (Popolano)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;"Kha si avvicina a Nefer con voce ferma, e gli offre parole piene di comprensione. Senza esitazione, invita il giovane a seguirlo, assicurandogli che al tempio conosce qualcuno disposto ad ascoltare la sua storia. Nefer, emozionato dalle parole dello scriba, sente nascere dentro di sé una nuova fiducia. Kha gli mette una mano sulla spalla, promettendo che farà quanto è in suo potere affinché trovi un lavoro onesto. Insieme si incamminano, lasciando alle spalle il vicolo e i mormorii della gente; davanti a loro, la promessa di una possibilità reale comincia a prendere forma.";5;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Il respiro di Kha si placa. Una nuova luce gli attraversa lo sguardo. Stringe la spalla di Nefer, non più per trattenerlo, ma quasi in un gesto di conforto. Parla con voce ferma, una promessa che risuona come una possibilità inattesa in quel vicolo soleggiato. Lo invita a seguirlo, al tempio, dove le sue parole di scriba, di basso funzionario, possono forse aprire una strada diversa per il ragazzo. Promette di intercedere, di trovare un lavoro onesto, un modo per Nefer di sostenere la madre senza più ricorrere a gesti disperati. La speranza, sottile ma palpabile, si insinua tra di loro, nel calore del mezzogiorno.;5;5;5
+;;Gemma 3 27B Q4;"Kha guida Nefer attraverso il dedalo di vicoli, la luce del mezzogiorno che danza sulle pareti scrostate. ""Il tempio offre opportunità a chi è disposto a lavorare onestamente,"" afferma, la voce ferma ma gentile. Nefer, ancora scosso, segue il funzionario con passo incerto. Ogni svolta sembra allontanarlo dal baratro della disperazione. Kha rallenta, posando una mano sulla spalla del ragazzo. ""Non sarà facile, ma ti prometto che farò del mio meglio. Un uomo onesto può sempre trovare la sua strada, Nefer. Ricordalo."" Un barlume di speranza si accende nello sguardo del popolano, un piccolo fuoco che resiste all'ombra del vicolo.";4;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+5;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Kha arriva in ritardo al tempio e viene rimproverato da Amenemhat, che lo accusa di negligenza e minaccia di riferire al suo maestro.
+
+TONO:
+Teso, Conflittuale
+
+AMBIENTAZIONE:
+Location: Tempio di Amon (Esterno)
+Orario: Primo Pomeriggio
+Tempo: Nuvoloso
+
+PERSONAGGI:
+Kha (Basso Funzionario - Scriba)
+Amenemhat (Ministro della Fede - Sacerdote)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Amenemhat stringe la voce come una frusta, lasciando cadere le parole sulle spalle di Kha. Non c’è spazio per la giustificazione: il ministro elenca con fermezza le responsabilità mancate, sottolineando che la puntualità nel servizio degli dèi non è una virtù accessoria, ma un obbligo sacro. Kha, rabbuiato dal disappunto, abbassa lo sguardo e trattiene il fiato, consapevole che una sola replica potrebbe peggiorare la sua posizione. Amenemhat ripete la minaccia, scandita dalla promessa di informare il maestro: l’atmosfera si colma di tensione, e Kha è costretto a inchinarsi, il peso della colpa sulle spalle.;5;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Kha giunge al tempio. La calma del luogo sacro viene spezzata dalla voce di Amenemhat, risuona aspra e carica di biasimo. Il sacerdote lo accusa senza mezzi termini, punta il dito contro la sua negligenza, il ritardo ingiustificabile. Le parole si fanno minaccia: riferirà tutto al maestro. La tensione cresce, palpabile. Kha, da basso funzionario, è impotente di fronte all'autorità del ministro.;5;5;5
+;;Gemma 3 27B Q4;Il sole, nascosto da nubi plumbee, non attenua la furia di Amenemhat. “Kha! La tua negligenza è insopportabile!” tuona il Ministro, la voce che risuona tra le colonne del tempio. “Un ritardo inaccettabile, soprattutto con un nuovo iniziato al seguito. Il maestro si aspetta diligenza, non svogliatezza.” Lo sguardo di Amenemhat, tagliente come l’ossidiana, si posa su Nefer, poi torna su Kha. “Preparati a rendere conto, Scriba. Il tuo comportamento sarà riferito a colui che ti ha affidato questo incarico.” Un silenzio carico di tensione cala sul cortile, interrotto solo dal soffio del vento.;5;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+6;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Kha spiega la situazione al sacerdote. L'uomo, commosso, decide di visitare la madre malata di Nefer. 
+
+TONO:
+Rivelatore, Speranzoso
+
+AMBIENTAZIONE:
+Location: Tempio di Amon (Esterno)
+Orario: Primo Pomeriggio
+Tempo: Nuvoloso
+
+PERSONAGGI:
+Kha (Basso Funzionario - Scriba)
+Amenemhat (Ministro della Fede - Sacerdote)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Kha si inchina con rispetto e cerca le parole giuste. La sua voce si fa sommessa mentre racconta al sacerdote della sofferenza di Nefer, della madre che giace nel dolore. Amenemhat ascolta in silenzio, cogliendo tra le parole la gravità della situazione e la dignità con cui Kha affronta la richiesta. Un istante di sospensione, poi il sacerdote posa una mano benedicente sullo scriba e gli assicura che non può rimanere indifferente davanti al bisogno dei fedeli. Decide di seguire Kha senza indugi, portando con sé la speranza che la fede possa sollevare la malattia e portare nuova luce.;5;5;4
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Kha, il respiro affannoso, narra le sventure che affliggono la famiglia. Le sue parole, cariche di un dolore che va oltre il semplice ritardo, giungono al cuore del sacerdote. Amenemhat ascolta, l'espressione severa si stempera. Una pietà inaspettata prende il posto del biasimo. Di fronte a tale sofferenza, il ministro della fede non può voltarsi. Decide di lasciare l'ombra protettiva del tempio e di portare una luce di speranza dove il dolore ha oscurato ogni cosa. Si appresta a recarsi presso la madre malata di Nefer, un gesto che va oltre il suo ruolo, un segno di compassione che promette sollievo.;5;5;5
+;;Gemma 3 27B Q4;"La spiegazione di Kha, sussurrata e umile, raggiunge il cuore di Amenemhat. L'ira del sacerdote si placa, sostituita da un'ondata di compassione. ""Una madre malata… e tu hai esitato?"" domanda, la voce ora carica di tenerezza. Senza attendere risposta, Amenemhat annuisce, sollevato. ""Preparerò i miei migliori unguenti e un’offerta per Iside. Andrò io stesso a far visita alla madre di Nefer. Che gli dei le concedano sollievo."" Un raggio di speranza illumina il cortile, dissolvendo le ombre che ancora persistono tra le colonne del tempio.";5;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+7;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Il sacerdote esegue il rituale di guarigione nella casa del ragazzo, mentre Nefer assiste e prende appunti per imparare.
+
+TONO:
+Solenne, Spirituale
+
+AMBIENTAZIONE:
+Location: Casa Umile
+Orario: Sera
+Tempo: Sereno
+
+PERSONAGGI:
+Amenemhat (Ministro della Fede - Sacerdote)
+Nefer (Popolano)
+Madre di Nefer (Popolano)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;"Il silenzio si fa denso mentre Amenemhat intona le parole sacre, la voce che si innalza a lambire il mistero. La madre di Nefer guarda, col fiato sospeso; Nefer, seduto accanto, fissa ogni gesto, la cera delle lampade che tremola sull’ombra dei suoi pensieri. Tra le sue mani, la tavoletta d’argilla registra i passaggi del rituale: la purificazione delle acque, le parole costruite come ponti tra il visibile e l’invisibile. In quell’istante, la fede diventa respiro: Nefer comprende il potere che scorre, riverente, dalla conoscenza degli dèi alle mani dei giusti.";4;4;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Nella penombra della casa, Amenemhat eleva la voce in preghiera. Le parole del rituale fluiscono, antiche e potenti, invocando le energie divine. Ogni gesto è carico di significato, ogni sillaba un ponte verso il regno degli dèi. Nefer osserva con occhi attenti, il taccuino stretto tra le mani. Segue il sacerdote, memorizzando ogni passo, ogni sfumatura del rito. La sua intenzione è pura: apprendere per poter portare aiuto un giorno, per alleviare la sofferenza come ora si cerca di fare per la madre. L'aria è densa di attesa, permeata dalla solennità del momento. Fuori, la notte stellata veglia sul rito di guarigione.;5;5;5
+;;Gemma 3 27B Q4;Il fumo aromatico degli incensi danza nell'aria, avvolgendo la piccola casa. Amenemhat, con gesti lenti e precisi, recita le antiche formule di guarigione. Ogni sillaba vibra di potere, tessendo una rete di speranza attorno al corpo prostrato del ragazzo. Nefer, inginocchiata accanto al sacerdote, registra con attenzione ogni movimento, ogni invocazione. La sua mano stringe perennemente lo strumento di scrittura, pronta a immortalare la saggezza divina. Un silenzio solenne cala sulla stanza, interrotto solo dal sussurro delle parole sacre e dal flebile respiro della madre, custodita nel sonno. La fede, palpabile, riempie lo spazio, promessa di conforto e rinnovamento.;5;4;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+8;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Una settimana dopo, la madre guarisce. Nefer inizia il suo apprendistato al tempio, mentre Kha riceve il riconoscimento del suo maestro per aver mostrato saggezza.
+
+TONO:
+Gioioso
+
+AMBIENTAZIONE:
+Location: Tempio di Amon (Cortile)
+Orario: Mattina
+Tempo: Soleggiato
+
+PERSONAGGI:
+Kha (Basso Funzionario - Scriba)
+Ptahhotep (Basso Funzionario - Scriba)
+Nefer (Popolano)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Nel cortile silenzioso, punteggiato dal canto di uccelli invisibili, Nefer avanza con passo esitante ma fiero, mentre i primi raggi del sole accarezzano la pietra antica. Kha osserva il giovane, trattenendo a stento un sorriso di compiacimento: oggi è un giorno nuovo per entrambi. Ptahhotep, il maestro, proclama con voce solenne quanto saggezza e dedizione risplendano in Kha, affidandogli mansioni più importanti. Nefer ascolta, ispirato: ora anche lui apprenderà l’arte sacra degli scribi. Una calda gratitudine avvolge i tre, uniti nel sapere, mentre la vita si rinnova nel tempio di Amon.;5;4;4
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Trascorre una settimana, e la madre ritrova la salute. Nefer, finalmente, inizia il suo apprendistato nel cortile del tempio, dove la luce del mattino accarezza le pietre sacre. Ogni giorno porta con sé la promessa di conoscenza. Intanto, nella stanza degli scribi, il maestro Ptahhotep, con un gesto di approvazione, riconosce la saggezza dimostrata da Kha. Le sue parole sono un sigillo sul percorso intrapreso. Un’onda di gioia sottile pervade l’aria, fatta di soddisfazione e gratitudine.;5;5;5
+;;Gemma 3 27B Q4;Il sole accarezza il cortile del tempio, illuminando i volti sorridenti. Nefer, con passo leggero, si inchina dinanzi al sacerdote, iniziando il suo apprendistato. Una nuova era si apre per la giovane, colma di promesse e conoscenza. Poco distante, Ptahhotep, con sguardo orgoglioso, porge a Kha una tavoletta incisa. Il maestro riconosce la saggezza dimostrata dallo scriba, un segno di fiducia e stima. Un’ondata di gioia pervade l’aria, un canto silenzioso di speranza e prosperità. La guarigione della madre è completa, un dono degli dei che sigilla un giorno di festa.;5;4;5

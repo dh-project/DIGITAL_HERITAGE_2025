@@ -1,0 +1,232 @@
+﻿Text 09;;;;;;
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+1;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Il giovane medico Seti riceve la visita di un messaggero, è chiamato d'urgenza al palazzo per curare la figlia malata di un nobile.
+
+TONO:
+Sorpresa, Tensione
+
+AMBIENTAZIONE:
+Location: Casa della Vita (Scuola dei Medici)
+Orario: Alba
+Tempo: Fresco
+
+PERSONAGGI:
+Seti (Popolano - Medico)
+Messaggero (Servo)";ChatGPT 4.1;Seti si accinge a terminare i suoi rituali mattutini, ma un passo rapido irrompe nel silenzio della Casa della Vita. Il messaggero, ancora ansimante per la corsa, si prostra senza indugio. Con voce tremante, annuncia che la figlia di un potente nobile lotta tra le ombre della febbre, e solo Seti può tentare di riportarla alla luce. La notizia travolge il giovane medico, ben consapevole del peso della convocazione: una vita appesa, il destino sociale in bilico. Senza esitazione, Seti raccoglie i suoi strumenti, sentendo crescere sulle spalle la tensione e la responsabilità.;4;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";È l’alba fresca alla Casa della Vita. Seti, assorto nei suoi studi, ode un bussare affrettato. Un messaggero, col respiro affannato, si presenta. Parla con urgenza, la voce rispettosa ma carica di un pressante bisogno. Seti ascolta, il suo volto si vela di sorpresa, poi di una tensione quasi impercettibile. È chiamato al palazzo, per la figlia di un nobile, gravemente malata. L’urgenza del suo intervento è manifesta.;4;5;5
+;;Gemma 3 27B Q4;L'alba filtra tra le colonne della Casa della Vita, portando con sé un'aria fresca e un'ombra di preoccupazione. Seti, intento a preparare i suoi unguenti, è interrotto da un messaggero del palazzo. La notizia lo coglie di sorpresa: la figlia di un potente nobile è gravemente malata e richiede immediatamente le sue cure. Un brivido percorre la schiena del giovane medico. Nonostante la sua preparazione, la chiamata lo getta in uno stato di tensione, consapevole del peso che grava sulle sue spalle e delle possibili conseguenze di un errore. Lascia ogni cosa, pronto a seguire il messaggero verso l'ignoto.;5;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+2;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Giunto al palazzo, Seti esamina la giovane Neferuptah, che soffre di una febbre misteriosa che ha già sconfitto medici esperti.
+
+TONO:
+Misterioso, Triste
+
+AMBIENTAZIONE:
+Location: Camera da letto (Palazzo Nobile)
+Orario: Mattina
+Tempo: Soleggiato
+
+PERSONAGGI:
+Seti (Popolano - Medico)
+Neferuptah (Nobile)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Seti si avvicina al giaciglio in silenzio, sentendo il peso degli occhi vigili dei servitori. Sa di essere solo un popolano, convocato per disperazione dove altri hanno fallito. Si concentra su ciò che non si vede e non si dice: la fragile speranza nei sospiri della giovane Neferuptah, il dolore nascosto dalle sue parole fioche. Seti ascolta il ritmo incerto del suo respiro, il battito sommesso contro il silenzio. Una domanda antica si fa strada dentro di lui: sarà davvero ancora possibile salvarla, o questa febbre appartiene a un male che sfugge persino agli dèi?;5;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Giunto al palazzo, Seti, il medico chiamato da lontano, viene condotto con deferenza. La camera è silenziosa, pervasa da un’inquietudine palpabile. Egli osserva attentamente la giovane Neferuptah, il cui respiro è affannoso. Una febbre incomprensibile l’ha colpita, una malattia che ha già piegato l’esperienza dei medici di corte. Seti si avvicina con la cautela del suo sapere, la sua presenza umile ma decisa. Esamina, cerca un segno, un indizio in questo enigma che minaccia una vita preziosa. L’aria è pesante, carica di una tristezza che attende un responso.;5;5;5
+;;Gemma 3 27B Q4;Il sole accarezza la stanza, ma non scalda il cuore di Seti. Osserva Neferuptah, il respiro affannoso, gli occhi velati da una febbre che resiste a ogni tentativo. Un silenzio pesante grava sulla stanza, interrotto solo dal lieve fruscio delle vesti di seta. Le mani del medico indugiano sulla fronte della giovane, cercando un segno, un indizio che sfugge ai più esperti. Un’ombra di tristezza si dipinge sul volto di Seti: la malattia non è del corpo, ma sembra avvolgere l’anima stessa di Neferuptah. La speranza, flebile, resiste a stento.;5;4;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+3;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Seti scopre che i sintomi non corrispondono a nessuna malattia nota. Sospettando un avvelenamento, chiede ai servi di ispezionare il cibo e le bevande della ragazza.
+
+TONO:
+Sospettoso, Investigativo
+
+AMBIENTAZIONE:
+Location: Camera da letto (Palazzo Nobile)
+Orario: Mattina
+Tempo: Soleggiato
+
+PERSONAGGI:
+Seti (Popolano - Medico)
+Servi (Servo)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Seti trattiene il respiro, la fronte aggrottata mentre ripassa mentalmente ogni sintomo. Nulla si accorda alle infermità che conosce. Si piega verso i servi, impartendo ordini con tono basso e deciso: “Controllate ogni anfora, ogni piatto. Nessun dettaglio deve sfuggirvi.” I servi, deferenti, si affrettano a eseguire, coscienti dell’importanza del compito affidato loro da chi, pur non nobile, sa affrontare il mistero con risolutezza. Ogni rumoroso scricchiolio rivela la tensione che serpeggia nella stanza: la ricerca della verità è appena cominciata.;5;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";La conoscenza di Seti è vasta, ma i sintomi di Neferuptah sfuggono ogni classificazione. Un sospetto oscuro sorge: un male che non è malattia. La sua voce, sebbene misurata, rivela urgenza mentre si rivolge ai servi presenti. L'ordine è chiaro e inequivocabile: ispezionare ogni cibo e ogni bevanda che la giovane ha consumato. Ogni bicchiere, ogni frutto, ogni porzione di pane diventa un potenziale indizio, un testimone silenzioso di una possibile minaccia nascosta tra le mura del palazzo. La ricerca ha inizio, meticolosa e perentoria.;5;5;5
+;;Gemma 3 27B Q4;"Seti stringe lo sguardo, il silenzio della stanza amplificato dal respiro irregolare di Neferuptah. Non è malattia conosciuta, questo è chiaro. Un veleno, forse? L’idea lo turba, ma la necessità di scoprire la verità è impellente. ""Ispezionate ogni cosa,"" ordina ai servi, la voce ferma ma carica di preoccupazione. ""Il cibo, le bevande… ogni frutto, ogni goccia che è giunta alle sue labbra. Cercate qualsiasi anomalia, qualsiasi segno che possa rivelare l'origine di questo male. Non trascurate nulla."" La sua mente lavora febbrilmente, intrecciando sospetti e possibili scenari. Ogni secondo è prezioso, ogni dettaglio potrebbe essere la chiave per salvare Neferuptah.";5;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+4;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Seti nota che il fiore di loto nel vaso accanto al letto di Neferuptah è una varietà rara e potrebbe essere tossica. L'interrogativo è come sia arrivato lì.
+
+TONO:
+Rivelatore, Allarmato
+
+AMBIENTAZIONE:
+Location: Camera da letto (Palazzo Nobile)
+Orario: Mattina
+Tempo: Soleggiato
+
+PERSONAGGI:
+Seti (Popolano - Medico)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Seti si irrigidisce. Quel fiore di loto non dovrebbe trovarsi qui. La sua mente corre veloce: riconosce nella varietà i segni che la rendono pericolosa, forse perfino letale. Un'ombra si insinua nei suoi pensieri. Chi ha scelto per Neferuptah un fiore tanto raro e ambiguo? La responsabilità di proteggere la casa nobile grava ora più che mai sulle sue spalle. Non può ignorare la minaccia: è suo dovere avvisare, indagare, capire se quell'offerta delicata nasconda invece un veleno silenzioso, celato sotto l'apparenza della devozione. La tensione cresce, il mistero si infittisce.;5;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Seti si muove con passo fermo nella stanza. Mentre osserva attentamente, il suo sguardo cade sul vaso di fiori accanto al letto. Tra le varietà comuni, ne riconosce una particolare. Un fiore di loto, splendido nella sua rarità, ma la sua presenza qui inquieta il medico. Questa varietà, ne è certo, possiede proprietà che non dovrebbero trovarsi in un ambiente domestico. Seti si avvicina, un brivido di consapevolezza gli corre lungo la schiena. La domanda è semplice, ma carica di timore: come è giunto fin qui questo fiore? Chi lo ha portato? E con quale scopo? Il sospetto si trasforma in allarme.;5;5;5
+;;Gemma 3 27B Q4;Seti si china sul vaso, il sole mattutino che illumina i petali del loto. Non è una varietà comune, bensì una specie rara, coltivata solo nelle paludi più remote e… tossica. Un brivido gli percorre la schiena. Come è possibile che un fiore simile si trovi nella camera di Neferuptah? Non è un semplice ornamento, ma un indizio inquietante. Chi l'ha portato qui, e perché? Un dono apparentemente innocuo, celato dietro una bellezza ingannevole. Seti avverte un crescente senso di pericolo, una rete di intrighi che si stringe attorno al nobile. La malattia non è casuale, è un atto deliberato.;4;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+5;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Seti prepara un antidoto e inizia il trattamento. Mentre veglia sulla paziente, un'ancella rivela che la giovane è promessa sposa a un anziano funzionario contro la sua volontà.
+
+TONO:
+Sorpresa, Compassionevole
+
+AMBIENTAZIONE:
+Location: Camera da letto (Palazzo Nobile)
+Orario: Pomeriggio
+Tempo: Sereno
+
+PERSONAGGI:
+Seti (Popolano - Medico)
+Neferuptah (Nobile)
+Ancella (Servo)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;"Seti mischia con attenzione gli ingredienti dell’antidoto, pronuncia sottovoce parole di incoraggiamento e poi somministra la pozione con gesti rapidi ma delicati. Mentre controlla il respiro di Neferuptah, l’ancella si avvicina, visibilmente agitata; la voce le trema mentre rivela il segreto che grava sulla stanza: la giovane padrona è stata promessa in sposa a un uomo che potrebbe esserle padre. Seti, colto di sorpresa dalla confessione, percepisce il peso della sua responsabilità, provando profonda compassione. Silenzioso, veglia sull’infelice, consapevole che ciò che cura il corpo non sempre risana il cuore.";5;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Seti prepara l'antidoto con cura, mescolando ingredienti preziosi. Inizia il trattamento, le sue mani esperte lavorano con precisione. Mentre veglia sulla giovane Neferuptah, l'attesa è carica di speranza. Un'ancella si avvicina timidamente e, con voce soffocata, rivela una verità inaspettata. La giovane è promessa sposa a un anziano funzionario, un'unione imposta contro il suo volere. Le parole dell'ancella risuonano nella stanza, aggiungendo una nuova dimensione di sofferenza al dramma in atto.;5;5;5
+;;Gemma 3 27B Q4;Seti mescola le erbe, il profumo dolce e amaro riempie la stanza. Neferuptah tossisce, un suono flebile che gli spezza il cuore. Mentre le applica la medicina, un sussurro rompe il silenzio. L'ancella, gli occhi bassi, rivela un segreto che gela il sangue nelle vene di Seti: la giovane è promessa sposa a un uomo potente, un funzionario anziano che la reclama come sua. Un matrimonio imposto, una prigione dorata. Seti percepisce il terrore muto di Neferuptah, la sua disperazione soffocata. La malattia, ora, assume un significato ancora più oscuro. Non è solo un corpo malato che ha tra le mani, ma un’anima in pericolo.;5;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+6;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Indagando di nascosto, Seti scopre che il fiore velenoso è stato portato da un giardiniere su ordine di Amenemhat, un giovane nobile innamorato di Neferuptah che voleva solo farle recapitare un dono esotico.
+
+TONO:
+Misterioso, Tensione
+
+AMBIENTAZIONE:
+Location: Giardini (Palazzo Nobile)
+Orario: Alba
+Tempo: Uggioso
+
+PERSONAGGI:
+Seti (Popolano - Medico)
+Giardiniere (Popolano)
+Amenemhat (Nobile)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Mentre la nebbia del mattino ancora avvolge i passi furtivi, Seti si avvicina al giardiniere, con la voce bassa e ferma di chi conosce il peso delle sue parole. Senza alzare lo sguardo, l’uomo si piega all’autorità silenziosa di chi cura i mali, confessando l’ordine ricevuto: portare quel fiore raro al palazzo. Il nome di Amenemhat emerge come un sussurro che incrina l’aria, ma al solo accenno del motivo—un dono per Neferuptah—la tensione si carica di domande rimaste sospese. Seti intuisce che la verità, qui, può essere ancora più pericolosa del veleno.;5;4;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Seti, spinto da un presentimento, si muove furtivamente nei giardini bagnati dalla rugiada. Ogni ombra sembra nascondere un segreto. Indagando nell'aria pesante dell'alba uggiosa, scopre la verità: il fiore, causa di tanta afflizione, è stato recato qui per mano di un giardiniere. Ma non è lui l'artefice del male. Dietro questo gesto si cela il volere di Amenemhat, un nobile ardente di passione per Neferuptah. Egli intendeva offrirle solo un dono esotico, un pegno del suo amore non corrisposto, ignaro del veleno che si annidava nei petali.;5;5;4
+;;Gemma 3 27B Q4;Il giardiniere trema, la pioggia gli bagna il viso mentre confessa. Non era malizia, ma un desiderio malriposto, un dono esotico per la signora Neferuptah, ordinato dal giovane Amenemhat. Un fiore velenoso, portato con innocenza, ma carico di conseguenze. Seti percepisce la rete di segreti che avvolge il palazzo. Un amore proibito, un matrimonio combinato, un’anima fragile intrappolata. Il medico comprende che la malattia di Neferuptah è solo la manifestazione esteriore di un veleno ben più profondo, un tormento che divora il cuore. La verità, come la pioggia, si insinua tra le pieghe del silenzio.;5;4;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+7;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Neferuptah si riprende grazie alle cure di Seti. Il medico spiega al padre Rahotep che la figlia è stata avvelenata accidentalmente, ma tace sul coinvolgimento di Amenemhat.
+
+TONO:
+Gioia, Mistero
+
+AMBIENTAZIONE:
+Location: Sala Ricevimento (Palazzo Nobile)
+Orario: Mezzogiorno
+Tempo: Soleggiato
+
+PERSONAGGI:
+Seti (Popolano - Medico)
+Rahotep (Nobile)
+Neferuptah (Nobile)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Seti accompagna Neferuptah nei primi respiri di sollievo, porgendole parole calme mentre la luce scivola nella sala. Rahotep, ancora teso, ascolta quando il medico dichiara che la giovane è stata vittima di un avvelenamento fortuito, rassicurandolo che adesso il peggio è passato. Un breve silenzio cade: il padre ringrazia il medico con voce colma di gratitudine, ma nelle sue parole si insinua una domanda non detta. Seti abbassa appena lo sguardo, conservando il segreto su ciò che non può rivelare. Intorno, la gioia di Neferuptah rinata si mescola a un’irrequietezza che nessuno osa nominare.;5;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";La luce intensa di mezzogiorno inonda la sala del ricevimento, accarezzando i segni di affanno sul volto di Rahotep. Neferuptah si riprende, un respiro leggero le anima il petto. Seti, il medico, espone la sua diagnosi al nobile padre: avvelenamento accidentale, causato da un fiore esotico. Un sospiro di sollievo aleggia nella sala, ma un mistero rimane. Seti, con l'esperienza di chi ha già decifrato il linguaggio dei sintomi, tace sulla provenienza del dono e sul suo legame con Amenemhat.;5;5;5
+;;Gemma 3 27B Q4;Il sole filtra dalle persiane, illuminando il volto di Neferuptah, ora colorato da una pallida salute. Seti sorride a Rahotep, rassicurandolo: “Un errore, mio signore, un infelice incidente. La giovane è stata vittima di un frutto esotico, un dono benintenzionato.” Rahotep stringe la mano della figlia, sollevato, ma un’ombra di dubbio gli vela lo sguardo. Nel silenzio della sala, un profumo inebriante si mescola al sollievo. Seti percepisce la tensione, il peso di parole non dette. Un segreto sussurra tra le colonne, un amore nascosto che avvelena l'aria, ben più del fiore fatale. Il cuore di Neferuptah, fragile e tormentato, sembra ancora avvolto da una nebbia misteriosa.;5;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+8;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Rahotep, grato per la guarigione della figlia, nomina Seti medico personale della famiglia. Neferuptah trova il coraggio di confessare del suo amore per Amenemhat al padre, che riconsidererà il matrimonio combinato.
+
+TONO:
+Gioioso, Risolutivo
+
+AMBIENTAZIONE:
+Location: Sala Ricevimento (Palazzo Nobile)
+Orario: Mezzogiorno
+Tempo: Soleggiato
+
+PERSONAGGI:
+Seti (Popolano - Medico)
+Rahotep (Nobile)
+Neferuptah (Nobile)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;"Nel silenzio che segue la nomina, Rahotep posa lo sguardo sulla figlia, il volto disteso. Neferuptah prende fiato, la voce tremante ma decisa: rivela al padre il sentimento che nutre per Amenemhat. Le sue parole scivolano tra i presenti come un dono inatteso; Rahotep ascolta, poi sorride, illuminato da un nuovo rispetto per il coraggio della figlia. La certezza delle antiche regole si allenta e, con un cenno benevolo, promette di riconsiderare il futuro della giovane. Gioia e gratitudine uniscono ora nobile e medico, gettando le basi di una rinnovata armonia familiare.";5;3;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Rahotep, sollevato e colmo di gratitudine, volge lo sguardo a Seti. Non ci sono parole sufficienti per esprimere la sua riconoscenza. Onora il medico, nominandolo custode della salute della sua famiglia, un riconoscimento inatteso per un popolano. In questo clima di risoluzione, Neferuptah, la sua voce ancora un sussurro, trova il coraggio di aprirsi al padre. Le sue parole portano un nuovo raggio di luce: il suo cuore appartiene ad Amenemhat. Rahotep ascolta, l'ombra del matrimonio combinato si dissolve sotto il sole splendente di mezzogiorno.;5;5;5
+;;Gemma 3 27B Q4;Rahotep, con un gesto magnanimo, proclama Seti medico di famiglia, riconoscendo la sua abilità e il suo cuore generoso. Un peso sembra alleggerirsi nell’aria. Neferuptah, incoraggiata dal benessere ritrovato, trova il coraggio di rivelare al padre i sentimenti che nutre per Amenemhat. Un silenzio carico di aspettativa avvolge la sala, interrotto solo dal canto degli uccelli oltre le finestre. Rahotep, meditando sulle parole della figlia, lascia intravedere un cambiamento. L’ombra del matrimonio combinato, un tempo ineluttabile, ora vacilla, lasciando spazio a una nuova speranza. Il sole splende, illuminando un futuro finalmente possibile.;5;5;5

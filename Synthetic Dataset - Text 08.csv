@@ -1,0 +1,230 @@
+﻿Text 08;;;;;;
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+1;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Nefertari trova un amuleto d'oro nei campi durante la stagione dell'inondazione. Kaemweset, anziano del villaggio, le consiglia di portarlo al tempio.
+
+TONO:
+Misterioso, Intrigante
+
+AMBIENTAZIONE:
+Location: Campi agricoli (Rive del Nilo)
+Orario: Mattina
+Tempo: Soleggiato
+
+PERSONAGGI:
+Nefertari (Popolano - Contadino)
+Kaemweset (Popolano - Anziano del Villaggio)";ChatGPT 4.1;Tra i solchi fecondi dei campi appena sfiorati dall’acqua del Nilo, Nefertari si china per cogliere ciò che brilla tra la terra umida. Un amuleto d’oro le pesa improvvisamente sul palmo, freddo e anomalo tra le mani ruvide di chi lavora la terra. Kaemweset, osservando da lontano con occhi attenti e pieni di memoria, si avvicina con passo lento. La sua voce, roca di saggezza e mistero, rompe il silenzio: “Non è cosa da tenere, figlia. Porta questo dono degli dèi al tempio, che siano loro a svelare il suo destino.”;5;5;3
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";"Sotto il sole implacabile, l'acqua che ha nutrito la terra comincia a ritirarsi, rivelando la ricchezza che porta con sé. Nefertari, con le mani segnate dal lavoro, china il capo verso il fango fertile. Tra i detriti portati dalla piena, un luccichio attira la sua attenzione. Un amuleto d'oro, come un dono inatteso dalle acque sacre. Il cuore le batte forte, un mix di meraviglia e apprensione. Kaemweset, con la saggezza che gli anni hanno depositato, la osserva. ""La terra ti ha fatto un dono, Nefertari,"" le dice con voce profonda. ""Ma certi doni appartengono agli dei. Portalo al tempio."" Un'ombra di mistero aleggia sulle sue parole. Cosa nasconde questo piccolo oggetto prezioso? E quale destino attende colei che lo ha trovato?";5;5;5
+;;Gemma 3 27B Q4;"Il sole accarezza i campi alluvionati, donando luce al ritrovamento di Nefertari. Tra il fango brilla un amuleto d'oro, la sua superficie liscia e fredda al tatto. La giovane contadina lo stringe, incerta sul suo significato. Kaemweset, il saggio del villaggio, osserva con sguardo penetrante. ""Portalo al tempio,"" consiglia con voce roca, ""quel metallo antico custodisce segreti che il Nilo stesso ha dimenticato. Potrebbe essere un dono, o un presagio. Solo i sacerdoti sapranno interpretarne il vero valore."" Un brivido percorre la schiena di Nefertari, mentre il peso dell'amuleto sembra farsi più consistente tra le sue mani.";5;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+2;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Userhet riconosce l'amuleto come appartenente alla collezione reale. Sospetta che Nefertari l'abbia rubato e chiama le guardie.
+
+TONO:
+Tensione
+
+AMBIENTAZIONE:
+Location: Tempio di Osiride (Esterno)
+Orario: Mezzogiorno
+Tempo: Soleggiato
+
+PERSONAGGI:
+Nefertari (Popolano - Contadino)
+Userhet (Ministro della Fede - Sacerdote)
+Guardie (Combattente - Guardia)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Userhet inspira piano, gli occhi fissi sull’amuleto che brilla alla luce del sole. In un attimo, la tensione si addensa tra lui e Nefertari. Con voce ferma, intona una formula di richiamo che richiama le guardie del tempio. Un pesante silenzio cala mentre i passi si avvicinano rapidi sulla pietra rovente. Nefertari, irrigidita, stringe a sé ciò che resta delle sue speranze. Le guardie compaiono subito ai lati del ministro, in attesa di ordini. Ogni gesto ora può decidere il destino di Nefertari. Il potere della fede e quello della legge sono pronti a scontrarsi.;4;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";"Nefertari si avvia al tempio, l'amuleto stretto nella mano. L’aria calda vibra di presagi non detti.  Userhet, immerso nei suoi doveri sacri, scruta l’oggetto. Un fremito lo percorre: questo non è un semplice manufatto, ma un pezzo della collezione regale. I suoi occhi si restringono mentre la realizzazione lo colpisce come un pugno: qualcuno ha rubato questo tesoro. Il suo sguardo ricade su Nefertari. La tensione sale, tagliente come una lama. ""Guardie!"", tuona, la sua voce risuona nell'atrio. Le guardie accorrono, pronte a eseguire l'ordine.";5;5;5
+;;Gemma 3 27B Q4;Userhet, con lo sguardo fisso sull’amuleto, avverte un’eco di sacrilegio. Il sigillo reale, inconfondibile, brilla sotto il sole. Un’ombra gli vela il volto. “Questo… questo è un artefatto della corona!” esclama, la voce carica di sospetto. Gli occhi saettano verso Nefertari, scrutandola come un insetto sotto una lente. “Tu… come hai ottenuto questo?” La domanda, più un’accusa, risuona nel silenzio del tempio. Un gesto brusco, e il ministro della fede ordina: “Guardie! Fermate quella donna! Che nessuno lasci il tempio!” La contadina, colta di sorpresa, stringe l'amuleto, intrappolata in un vortice di paura e incertezza.;5;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+3;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Nefertari viene portata davanti al giudice locale. Racconta la sua storia ma senza testimoni, rischia di essere condannata.
+
+TONO:
+Tensione, Paura
+
+AMBIENTAZIONE:
+Location: Sala della Giustizia
+Orario: Pomeriggio
+Tempo: Uggioso
+
+PERSONAGGI:
+Nefertari (Popolano - Contadino)
+Nakhtmin (Alto Funzionario - Capo della Giustizia)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;"Nefertari si ritrova di fronte al giudice, la voce incerta ma decisa. Racconta la sua storia, ogni parola pesa come una supplica, mentre gli occhi di Nakhtmin restano impassibili. Non c’è nessuno a sostenerla, nessun braccio amico su cui contare: le sue speranze si sgretolano tra il silenzio austero della sala. Nakhtmin ascolta senza fretta, annotando ogni dettaglio; le dita scandiscono il ritmo delle sue paure. Un cenno rapido, poi il verdetto si preannuncia duro: senza prova o testimoni, Nefertari percepisce che la sua sorte potrebbe essere già segnata.";5;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Eccola, Nefertari, trascinata al cospetto di Nakhtmin, capo della giustizia. Non un sussurro la accompagna, solo il pesante silenzio del pomeriggio che filtra nel tempio. Davanti a lui, l’accusa le pende sul capo come la spada di Ma’at. Racconta la sua verità, una voce solitaria che si alza nel vasto ambiente, priva di testimoni che possano confermare le sue parole. Rischia tutto, un destino segnato dal peso dell'accusa, nell'attesa del verdetto che potrebbe spezzare la sua vita. La paura è palpabile, un freddo sudore che le imperla la fronte.;5;5;5
+;;Gemma 3 27B Q4;La sala è greve, l'umidità del pomeriggio si insinua nelle ossa. Nefertari si trova di fronte a Nakhtmin, il cui sguardo la trafigge come un dardo. Racconta la sua storia, parole spezzate che lottano contro il terrore. Nessun testimone, solo il silenzio pesante delle accuse che incombono su di lei. Ogni frase è un passo sull'orlo del baratro, un tentativo disperato di spiegare l'inspiegabile. Nakhtmin ascolta impassibile, il peso della giustizia – o della condanna – nelle sue mani. Un respiro trattenuto, un battito accelerato: il destino di Nefertari pende da un filo.;5;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+4;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Ahmose, lo scriba che assiste il giudice, si offre di indagare sul caso. Crede all'innocenza di Nefertari e ottiene tre giorni per dimostrarlo.
+
+TONO:
+Speranzoso, Determinato
+
+AMBIENTAZIONE:
+Location: Sala della Giustizia
+Orario: Pomeriggio
+Tempo: Uggioso
+
+PERSONAGGI:
+Nefertari (Popolano - Contadino)
+Ahmose (Basso Funzionario - Scriba)
+Nakhtmin (Alto Funzionario - Capo della Giustizia)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;"Ahmose si inchina con rispetto dinanzi a Nakhtmin, la voce ferma mentre garantisce sulla retta condotta di Nefertari. Il capo della giustizia accoglie la supplica senza celare una certa severità, concedendo allo scriba tre giorni per far luce sul mistero. Appena il permesso è accordato, Ahmose si avvicina a Nefertari, sussurrando parole che infondono coraggio; i loro ruoli sociali restano netti, eppure una comune determinazione li unisce. Mentre le sorti di Nefertari pendono in bilico, la speranza si riaccende: ora il tempo diventa prezioso alleato, e la verità può ancora essere affermata.";5;5;4
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";E mentre il giudizio sembra ormai scritto, un inatteso raggio di speranza squarcia l’ombra. Ahmose, lo scriba dall’animo inquieto, si alza, il suo sguardo fisso su Nefertari. Le sue parole risuonano nella sala, un’eco di fiducia che rompe il silenzio carico di tensione. Si offre di indagare, convinto dell’innocenza della contadina, e chiede a Nakhtmin, con voce ferma ma rispettosa, il tempo necessario. Tre giorni. Tre brevi giorni per svelare la verità e liberare Nefertari dall’ombra dell’accusa. La sala della giustizia trattiene il fiato, mentre il destino sembra sospeso, in attesa della luce che Ahmose si propone di portare.;5;5;5
+;;Gemma 3 27B Q4;"Ahmose, lo scriba, avanza con passo sicuro. ""Nakhtmin, concedimi tre giorni,"" dichiara con voce ferma, ""per sondare la verità su questa donna. Credo nell'innocenza di Nefertari e giuro di portare prove a sostegno della sua versione."" Il suo sguardo si posa sulla contadina, infondendole un barlume di speranza. Nakhtmin, pur mantenendo un’espressione indecifrabile, accenna un cenno del capo. La pioggia continua a tamburellare, ma nella sala sembra essersi acceso un piccolo fuoco, alimentato dalla determinazione di Ahmose. Il destino di Nefertari, per ora, è sospeso tra l'ombra e la luce.";5;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+5;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Ahmose esamina l'amuleto e scopre un'iscrizione nascosta. Consultando gli archivi reali, apprende che l'amuleto fu un dono del Faraone a un guerriero valoroso molti anni prima.
+
+TONO:
+Investigativo, Rivelatore
+
+AMBIENTAZIONE:
+Location: Archivio Reale
+Orario: Mattina
+Tempo: Nuvoloso
+
+PERSONAGGI:
+Ahmose (Basso Funzionario - Scriba)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;"Tra le mani di Ahmose, l’amuleto rivela la propria enigmatica iscrizione: segni appena percettibili tra le linee sottili del metallo antico. Con meticolosa cautela, il giovane scriba confronta i caratteri con i pergameni polverosi degli archivi. Le sue dita tremano quando trova la corrispondenza in un registro sigillato: il nome di un guerriero che, secondo l’annotazione, ricevette l’amuleto direttamente dal Faraone quale ricompensa per un atto di straordinario coraggio. Ahmose trattiene il respiro; la verità emerge dalle ombre della storia, cambiando per sempre il significato di quell’umile reliquia.";4;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";L'inchiesta ha inizio. Ahmose si immerge nell'ombra silenziosa dell'Archivio Reale. Tra volumi impolverati e rotoli dimenticati, esamina l'amuleto. Le sue dita esperte percepiscono un dettaglio inconsueto, un leggero rilievo. Con cura meticolosa, rimuove la sottile patina del tempo, rivelando un'iscrizione nascosta. La sua mente di scriba decifra i simboli, le parole svelano un segreto antico. L'amuleto, apprende Ahmose consultando gli annali, non è un semplice ornamento. È un dono prezioso, conferito dal Faraone stesso a un guerriero che si distinse per il suo coraggio in battaglia, molti anni or sono. Un collegamento inaspettato, un filo sottile che potrebbe condurre alla verità.;5;5;5
+;;Gemma 3 27B Q4;Ahmose scruta l’iscrizione rivelata dall’amuleto, le dita che tracciano gli antichi geroglifici. Un nome emerge dagli archivi reali: Senmut, guerriero di fiducia del faraone, insignito di onori per il suo coraggio. L’amuleto, dunque, non è un semplice ornamento, ma un simbolo di lealtà e valore. Un dono concesso a chi si è distinto in battaglia, un segno di favore divino. Ahmose avverte un fremito. Senmut… un nome dimenticato, sepolto sotto la polvere dei secoli. Un legame inaspettato, che potrebbe riscrivere la storia di Nefertari e svelare una verità nascosta tra le pieghe del tempo.;5;5;3
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+6;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Ahmose visita il villaggio di Nefertari e scopre che suo nonno era un famoso guerriero. Gli anziani raccontano che morì in battaglia e che il suo corpo non fu mai recuperato.
+
+TONO:
+Commovente, Rivelatore
+
+AMBIENTAZIONE:
+Location: Villaggio (Rive del Nilo)
+Orario: Pomeriggio
+Tempo: Ventoso
+
+PERSONAGGI:
+Ahmose (Basso Funzionario - Scriba)
+Anziani (Popolano - Contadino)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Mentre le parole degli anziani si disperdono nel vento, Ahmose sente il cuore stringersi. I vecchi parlano a bassa voce, narrando con rispetto e orgoglio del coraggio del nonno perduto. Le loro mani segnano nell’aria antiche battaglie, tracce che il tempo non ha cancellato. Ahmose ascolta, avvertendo che la memoria del nonno vive ancora nei racconti del villaggio. Un silenzio carico di emozione segue la rivelazione: il corpo del guerriero non fu mai ritrovato, ma il suo spirito veglia ancora su chi cammina lungo il Nilo.;3;4;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Il vento soffia tra i capelli mentre Ahmose giunge al villaggio. Qui, tra le rive del Nilo, incontra gli anziani, volti segnati dal tempo e dalla sapienza. Li interroga con deferenza, mostra l'amuleto. I loro occhi si illuminano di un ricordo lontano. Narrano di un guerriero, di un eroe. Rivelano che quel guerriero era il nonno di Ahmose, morto in battaglia. La sua fine fu valorosa, ma il suo corpo non fu mai recuperato dalle sabbie del deserto. Una verità amara, un lutto mai compiuto che si svela ora.;4;5;4
+;;Gemma 3 27B Q4;Il vento sussurra tra le canne, portando con sé le parole degli anziani. Ahmose ascolta, il cuore stretto in una morsa di emozioni. Senmut, il nonno di Nefertari, non fu un semplice contadino, ma un guerriero valoroso, pilastro dell’esercito reale. Combatté con onore, guidando gli uomini in battaglie sanguinose, finché un giorno, il destino lo strappò alla vita. Il corpo non fu mai ritrovato, inghiottito dalle sabbie del deserto, ma la sua leggenda sopravvive nei racconti tramandati di generazione in generazione. Un eroe dimenticato, un esempio di coraggio e lealtà. Ahmose percepisce un legame profondo, un’eredità che lo chiama a proteggere il villaggio e a onorare la memoria di quel guerriero perduto.;5;4;3
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+7;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Ahmose visita campo dove è stato trovato l'amuleto. Indagando, scopre i resti di un'antica barca da guerra sepolta nelle sabbie del Nilo durante un'inondazione.
+
+TONO:
+Sorpresa, Mistero
+
+AMBIENTAZIONE:
+Location: Rive del Nilo
+Orario: Tramonto
+Tempo: Nuvoloso
+
+PERSONAGGI:
+Ahmose (Basso Funzionario - Scriba)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Ahmose, avvolto dallo stupore, si inginocchia accanto all’amuleto recuperato tra i detriti. I suoi gesti sono meticolosi: con dita abili da scriba, scosta sottili strati di sabbia umida. Sotto le sue mani emergono frammenti di legno annerito e anelli di rame corroso. Un sospetto gli attraversa la mente—questi resti non appartengono a semplici navi mercantili. La disposizione delle travi, le tracce di antiche imbarcazioni da guerra sepolte dal Nilo durante una remota inondazione, restituiscono alla memoria dell’Egitto un segreto dimenticato. Ahmose trascrive sigilli e simboli, il cuore tremante: cosa proteggeva davvero quell’amuleto?;5;5;3
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Ahmose si avventura verso il campo, il luogo indicato dagli anziani. L’aria si fa più densa, carica dell’odore del fiume mentre il sole si nasconde tra le nuvole. Scava con le mani nella sabbia umida, la speranza lo spinge. E poi, l’inatteso. Non solo le tracce del passato, ma il passato stesso emerge dalla terra: il legno scuro di un’antica imbarcazione. Non è un’ordinaria barca da pesca, è grande, imponente, segnata dal tempo e forse dalla lotta. Ahmose riconosce i segni di una nave da guerra, inghiottita dalle acque del Nilo in un’era lontana. Un brivido gli corre lungo la schiena. Cosa nasconde questo relitto? Quale storia racconta?;4;5;4
+;;Gemma 3 27B Q4;Il sole tinge di rosso le acque del Nilo, mentre Ahmose scruta il terreno smosso. Non sono semplici depositi alluvionali, ma le linee nette di una chiglia. La sabbia cede sotto i suoi piedi, rivelando resti di legno scuro, schegge di rame e un silenzio denso di storia. Non un relitto qualunque, ma i resti di una barca da guerra, inghiottita dal fiume in un’antica inondazione. Un barlume di sorpresa illumina il volto dello scriba: una nave di Senmut? Un segreto celato sotto la sabbia, un eco di battaglie perdute e un mistero che attende di essere svelato.;4;4;3
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+8;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Ahmose presenta le prove che scagionano Nefertari. Nakhtmin riconosce il valore del nonno di Nefertari e le permette di tenere l'amuleto come eredità di famiglia
+
+TONO:
+Trionfante
+
+AMBIENTAZIONE:
+Location: Sala della Giustizia
+Orario: Mattina
+Tempo: Nuvoloso
+
+PERSONAGGI:
+Nefertari (Popolano - Contadino)
+Ahmose (Basso Funzionario - Scriba)
+Nakhtmin (Alto Funzionario - Capo della Giustizia)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Ahmose, con voce ferma, espone davanti a tutti le testimonianze e i sigilli che provano l’innocenza di Nefertari. La sala ammutolisce mentre Nakhtmin ascolta, scrutando ogni parola. Infine, il Capo della Giustizia si erge e, riconoscendo l’onore e il servizio reso alla comunità dal nonno di Nefertari, proclama la giovane libera da ogni accusa. Con gesto solenne, le permette di tenere l’amuleto, non più segno di sospetto ma preziosa eredità di famiglia. Un mormorio di approvazione si diffonde: la giustizia ha trionfato e la memoria degli antenati è onorata.;5;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Ahmose entra nella Sala della Giustizia, i suoi occhi brillano di un fuoco antico. Si rivolge a Nakhtmin, la voce ferma e risonante, e presenta le prove, il tesoro emerso dalla terra umida. Nakhtmin ascolta, la sua espressione si trasforma in stupore, poi in rispetto. Riconosce il valore del nonno di Nefertari, un uomo che ha servito l’Egitto con onore. Un gesto solenne, e l'amuleto passa nelle mani di Nefertari, non più segno di colpa, ma eredità di una stirpe valorosa. Giustizia è fatta, la verità trionfa.;5;5;5
+;;Gemma 3 27B Q4;Ahmose depone le tavolette di argilla, il sigillo reale risuona nella sala. Nakhtmin osserva le prove, lo sguardo severo si addolcisce. Il nome di Senmut, antenato di Nefertari, riecheggia tra le colonne. Un sussurro di rispetto si diffonde tra gli astanti. Nakhtmin alza lo sguardo, incontrando gli occhi supplicanti della giovane contadina. Un cenno del capo, un’affermazione solenne: “La memoria del nonno di Nefertari parla per lei.” L’amuleto, simbolo di un’antica stirpe guerriera, torna nelle mani di Nefertari. La giustizia è compiuta, un’eredità ritrovata, un futuro restituito.;4;5;3

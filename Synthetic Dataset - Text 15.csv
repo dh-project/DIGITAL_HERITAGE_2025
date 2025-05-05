@@ -1,0 +1,229 @@
+﻿Text 15;;;;;;
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+1;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Senbi decide di improvvisarsi ladro per pagare i debiti di famiglia. Durante il suo primo tentativo di furto nella casa di un ricco mercante sveglia tutti i servitori.
+
+TONO:
+Comico, Frenetico
+
+AMBIENTAZIONE:
+Location: Ingresso (Casa Lussuosa)
+Orario: Notte
+Tempo: Sereno
+
+PERSONAGGI:
+Senbi (Popolano - Operaio)
+Servitori (Servo)";ChatGPT 4.1;Senbi, con più entusiasmo che malizia, si convince che rubare sia come impastare il pane: basta essere silenziosi e veloci. Striscia goffamente tra tappeti che sembrano volerlo strozzare e, nel tentativo di afferrare qualcosa d’oro, urta una ciotola: crash! Un esercito di servitori si riversa nei corridoi come uno sciame. Alcuni urlano, altri inciampano, uno gli lancia addirittura uno zoccolo. Senbi, tremante, tenta di giustificarsi inventando una storia sui gatti randagi. I servitori confabulano tra risatine e occhiatacce, mentre lui, rosso in viso, sogna un buco dove nascondere sia sé che i suoi debiti.;4;3;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Senbi, spinto dalla necessità di salvare la famiglia, si avventura nell’oscurità. È il suo primo furto, un passo incerto nell’ignoto. L’ingresso della casa lussuosa è silenzioso, ma basta un passo falso, un rumore inatteso a rompere l’incantesimo. I servitori, addormentati nella penombra, sobbalzano. Un mormorio si alza, poi si trasforma in un coro confuso. Le torce si accendono, i passi si fanno frenetici. Senbi è intrappolato nel cuore pulsante della casa che voleva violare.;5;5;4
+;;Gemma 3 27B Q4;La notte avvolge la lussuosa dimora, ma la serenità è solo apparente. Senbi, con l’agilità di un gatto spaventato, si introduce nell’abitazione, determinato a risolvere i debiti familiari con un colpo ben assestato. Il piano, però, inizia a sfilacciarsi non appena un piede maldestro colpisce un vaso di terracotta, generando un frastuono che risveglia l'intera servitù. Urla, imprecazioni e il rumore di passi affrettati riempiono il corridoio mentre Senbi, colto di sorpresa, si ritrova a improvvisare una fuga degna di un trapezista, sperando di non finire incastrato tra le mura di quella casa, con le mani vuote e una storia imbarazzante da raccontare.;5;4;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+2;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Senbi si nasconde nel tempio per sfuggire agli inseguitori. Stanco e affamato, non resiste e mangia parte delle offerte destinate agli dei.
+
+TONO:
+Comico
+
+AMBIENTAZIONE:
+Location: Sala delle Offerte (Tempio di Amon)
+Orario: Notte
+Tempo: Sereno
+
+PERSONAGGI:
+Senbi (Popolano - Operaio)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Impaziente, Senbi ascolta il silenzio, mentre il suo stomaco brontola più forte dei sacerdoti durante una processione. Strizza gli occhi, lancia uno sguardo furtivo verso l’altare e, senza pensarci troppo, arraffa una focaccia destinata ad Amon. La addenta con foga, poi si blocca: e se il grande dio si offendesse? In quell’attimo una lucertola scappa via, come a informare le divinità. Senbi si lecca le dita, sperando che Amon preferisca condividere la cena piuttosto che scatenargli contro una nuvola di scarabei. Ma il pane è così buono… che Senbi rischia il bis!;4;3;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Il cuore di Senbi batte all’impazzata nel silenzio sacro della Sala delle Offerte. L'eco dei suoi inseguitori si attenua, ma un altro richiamo, ancestrale, si fa sentire: quello della fame. L'aria è densa del profumo dolce del pane e della frutta, offerte generose agli dei. Senbi, l’operaio, dimentica il sacro terrore e, con l’agilità di un topo di tempio, allunga la mano verso le prelibatezze divine. Un morso furtivo, poi un altro, e il sapore del pane consacrato gli riempie la bocca, un lusso inaspettato nella sua fuga disperata.;5;5;4
+;;Gemma 3 27B Q4;"La Sala delle Offerte, illuminata dalla luna, accoglie Senbi, ormai stremato. Il profumo di datteri e pane fresco è una tortura per il suo stomaco brontolante. Un piccolo cesto di offerte sembra fissarlo, quasi implorando di essere assaggiato. ""Solo un piccolo morso,"" sussurra Senbi, giustificandosi. Presto, però, un morso diventa due, poi tre, e il cesto si svuota rapidamente. ""Gli dei capiranno,"" pensa, con la bocca piena, mentre un leggero borbottio di disapprovazione sembra provenire dalle statue circostanti. Forse, però, è solo la fame che gli gioca brutti scherzi.";5;4;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+3;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Neferkare trova Senbi addormentato. Il Sommo Sacerdote anziché punirlo, gli propone di lavorare al tempio per ripagare quanto ha mangiato.
+
+TONO:
+Compassionevole
+
+AMBIENTAZIONE:
+Location: Sala delle Offerte (Tempio di Amon)
+Orario: Mattino
+Tempo: Sereno
+
+PERSONAGGI:
+Senbi (Popolano - Operaio)
+Neferkare (Ministro della Fede - Sacerdote - Sommo Sacerdote)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Neferkare si avvicina in silenzio, il passo leggero. Osserva Senbi, che ancora dorme disteso sotto il peso della stanchezza e del pane sottratto. Quando il giovane si ridesta, confuso e timoroso, attende che trovi il coraggio di alzare lo sguardo. Il Sommo Sacerdote, invece di adirarsi, offre parole ferme ma gentili: “Non vi saranno castighi, Senbi. Nel tempio si onora chi riconosce i propri bisogni. Lavora con noi tra queste mura sacre e ripaga ciò che hai preso. Così, il cuore di Amon sarà appagato quanto il tuo.” Senbi annuisce, incredulo e sollevato.;5;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";"Il morso furtivo lascia spazio a un sonno profondo, indotto dalla stanchezza e dal senso di sazietà. Senbi si addormenta tra le offerte divine. Al mattino, la luce del sole che filtra nella Sala delle Offerte sveglia Neferkare, il Sommo Sacerdote, che si accorge subito dell'intruso. Un popolano, un operaio, che ha osato profanare la sacralità del luogo cibandosi delle offerte. Non c’è ira negli occhi del Sommo Sacerdote, solo un’espressione di serena compassione. Egli osserva Senbi, ancora immerso nel sonno, e una decisione matura nella sua mente. ""Alzati, figlio mio,"" dice Neferkare con voce calma e gentile. ""Hai offeso gli dei con la tua fame. Ma la giustizia divina è anche misericordia. Lavorerai qui, nel tempio, per ripagare il tuo debito. Così potrai nutrire il tuo corpo e purificare la tua anima.""";5;5;5
+;;Gemma 3 27B Q4;Il sole filtra dalle alte aperture del Tempio di Amon, illuminando la Sala delle Offerte. Neferkare, il Sommo Sacerdote, osserva Senbi ancora assopito tra i sacchi di grano. Non lo rimprovera, ma un’ombra di compassione gli vela lo sguardo. Senbi, colto da sorpresa, si desta impaurito. Neferkare gli offre una possibilità: ripagare con il lavoro al tempio ciò che ha consumato. Un’opportunità per espiare la sua mancanza, trasformando la colpa in dedizione. Senbi, sollevato, accetta con gratitudine, pronto a servire gli dei con rinnovato impegno.;4;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+4;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Senbi inizia il suo lavoro al tempio, ma la sua goffaggine causa più problemi che aiuto.
+
+TONO:
+Comico, Caotico
+
+AMBIENTAZIONE:
+Location: Gran Cortile (Tempio di Amon)
+Orario: Mattina
+Tempo: Soleggiato
+
+PERSONAGGI:
+Senbi (Popolano - Operaio)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Appena entra nel cortile, Senbi si lancia con entusiasmo nel trasportare un cesto di papiri, ma inciampa sul gradino sacro: i rotoli volano in aria come colombe spaventate. Tenta di raccoglierli in fretta, ma uno rotola dritto verso i piedi del sacerdote anziano, che lo scruta con sufficienza. Senbi si inchina così velocemente che urta una brocca d’acqua, innescando un piccolo fiume improvvisato tra le offerte. I colleghi ridacchiano alle sue spalle, mentre lui, rosso come il sole del mattino, continua il suo goffo viaggio tra i doveri sacri.;5;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Il Gran Cortile del Tempio di Amon è inondata dalla luce del sole mattutino. Senbi, con un’espressione tra il timore e la goffaggine, cerca di dare una mano. Ma ecco che inciampa su una brocca d'acqua, versando il prezioso liquido sul pavimento di pietra. Un operaio sbuffa, raccogliendo i cocci. Poco dopo, Senbi urta una pila di lino appena piegato, che si disperde al vento. Le risate degli altri operai riempiono l'aria. Un fardello di papiri gli scivola dalle mani, rotolando in tutte le direzioni. Senbi si scusa impacciato, mentre il caos regna.;4;5;4
+;;Gemma 3 27B Q4;Senbi, con zelo mal riposto, inizia a spolverare le statue divine. Un colpo di spazzola troppo energico e un vaso canopo precipita a terra, frantumandosi in mille pezzi. Il popolano si blocca, gli occhi sgranati, mentre un sacerdote anziano emette un gridolino strozzato. Senbi cerca freneticamente di raccogliere i cocci, pestando accidentalmente un piede al supervisore delle offerte. Il caos regna sovrano nel Gran Cortile, mentre Senbi, con aria contrita, sembra più un flagello che un servitore degli dei. Un’ape, attirata dal trambusto, si posa sulla sua fronte, sigillando il destino di una mattinata disastrosa.;5;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+5;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Neferkare assegna Senbi alla pulizia delle cripte sotterranee, dove nessuno potrà vederlo combinare guai. Proprio qui, Senbi scopre per caso un ladro che sta trafugando oggetti preziosi.
+
+TONO:
+Tensione, Comico
+
+AMBIENTAZIONE:
+Location: Cripta (Tempio di Amon)
+Orario: Pomeriggio
+Tempo: Nuvoloso
+
+PERSONAGGI:
+Senbi (Popolano - Operaio)
+Ladro (Popolano)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Nel silenzio rotto solo dal suo respiro affannato, Senbi trascina la scopa tra le ombre della cripta. Una risata strozzata lo fa sussultare: dietro un supporto di pietra, un uomo armeggia con scrigni e statuette d’oro, imprecando sottovoce. Senbi si blocca, stringendo il manico della scopa come fosse una lancia divina. Il ladro lo fissa con occhi spalancati: per un momento, nessuno osa muoversi. Poi Senbi schiarisce la voce, cercando autorità: «Ehi! Quella non è polvere preziosa da portare via, sai?» Le sue parole rimbalzano tra le pareti, cariche di una comica ingenuità e una tensione tangibile.;5;4;3
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Neferkare scuote il capo, gli affida la pulizia delle cripte. “Lì, nessuno potrà vederti combinare guai” dice con un sospiro.  Senbi si incammina, il silenzio lo avvolge.  Mentre rimuove la polvere millenaria, un rumore sottile cattura la sua attenzione.  Si ferma, il cuore gli batte forte.  Sbircia oltre una colonna. Non crede ai suoi occhi: un uomo, chino nell'oscurità, sta riempiendo un sacco con oggetti che brillano.  Un ladro! Qui, nelle cripte del tempio! Senbi si immobilizza, non sa cosa fare.;5;5;4
+;;Gemma 3 27B Q4;La polvere danza nei raggi fiacchi che filtrano dalle fessure. Senbi, esiliato nelle cripte per espiare le sue colpe, spazza con foga, sperando di non infrangere altro. Un movimento nell'ombra attira la sua attenzione. Non è un topo, né un riflesso. Un uomo, avvolto nel buio, si allontana frettolosamente stringendo un oggetto luccicante. Senbi, dimenticando la sua sfortuna, si lancia al suo inseguimento, inciampando su un sarcofago e rovesciando una pila di unguenti profumati. Il ladro accelza, lasciando dietro di sé una scia di profumo e un popolano determinato a non farsi sfuggire l'occasione di dimostrare il suo valore.;4;4;3
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+6;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Senbi tenta di catturare il ladro di soppiatto, ma fallisce dando vita ad un inseguimento. 
+
+TONO:
+Comico, Frenetico
+
+AMBIENTAZIONE:
+Location: Cripta (Tempio di Amon)
+Orario: Pomeriggio
+Tempo: Nuvoloso
+
+PERSONAGGI:
+Senbi (Popolano - Operaio)
+Ladro (Popolano)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Senbi, con l’aria di chi sta intraprendendo l’impresa del secolo, avanza in punta di piedi, trattenendo il fiato e lo starnuto. Ma un rumoroso scricchiolio sotto il piede rovina tutto: il ladro si volta, sgrana gli occhi e scatta via come una lucertola inseguita da un ibis. Senbi, spiazzato, inciampa sugli angoli della sua tunica e parte all’inseguimento zoppicando, tra urla e invocazioni agli dèi contro la mala sorte. Il ladro zigzaga tra le ombre, Senbi lo perde di vista a ogni svolta, ma non si arrende: nessun furfante batterà un figlio della valle, o almeno lui ci prova.;4;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Senbi prende coraggio. La sua mente corre, un piano si forma, semplice e geniale nella sua semplicità. Si muove, cauto, un’ombra nell’ombra, cercando di aggirare il malvivente. Ma un passo falso, un piccolo rumore che si perde nel silenzio, e il ladro alza lo sguardo. Per un istante, i loro occhi si incontrano nella penombra. È un attimo. Il ladro balza in piedi, il sacco stretto in una mano, e corre, un lampo nel buio. Senbi non ci pensa due volte, si lancia all'inseguimento.;5;5;4
+;;Gemma 3 27B Q4;Il clangore delle anfore rotte riecheggia tra le colonne. Senbi, con la tunica imbrattata di mirra, si lancia nel corridoio, le sue sandali che sollevano nuvole di polvere millenaria. Il ladro, agile come un gatto, sfreccia tra le statue, seminando una scia di unguenti al loto. Senbi, con un grugnito di determinazione, tenta di accorciare le distanze, ma la sua stazza lo tradisce. Inciampa in un canestro di offerte votive, finendo a gambe all'aria in una nuvola di petali appassiti. Il ladro, scoppiando a ridere, gli lancia un'occhiata beffarda prima di sparire nell'oscurità, lasciando Senbi a maledire la sua sfortuna e la sua goffa determinazione.;4;3;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+7;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Senbi riesce ad atterrare il ladro, anche se involontariamente. Tutti applaudono credendolo un eroe. 
+
+TONO:
+Comico, Trionfante
+
+AMBIENTAZIONE:
+Location: Gran Cortile (Tempio di Amon)
+Orario: Pomeriggio
+Tempo: Nuvoloso
+
+PERSONAGGI:
+Senbi (Popolano - Operaio)
+Ladro (Popolano)
+Sacerdoti (Ministro della Fede - Sacerdote)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Mentre il ladro rotola ancora a terra, Senbi si guarda attorno incredulo, le mani alzate a metà come per chiedere scusa a tutti gli dei. I sacerdoti, pomposi nei loro gesti, declamano lode al coraggio del popolo, mentre la folla si stringe su Senbi che, paonazzo ed esitante, si trova al centro di una pioggia di applausi. Un bambino gli porge una corona d’erba stropicciata: Senbi la indossa stortamente, suscitando risate e incitamenti. Il ladro mugugna dal suolo, mentre ormai tutti celebrano il nuovo, accidentalissimo eroe del Gran Cortile.;4;3;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";E Senbi, in un goffo tentativo di afferrarlo, inciampa e rovina a terra. Il ladro, ignaro, gli corre addosso e il peso li travolge entrambi. Cade a terra anche il sacco. Tra la folla accorsa, si levano grida di sorpresa. Poi, un istante di silenzio sbalordito, rotto da un fragoroso applauso. Dalle file dei sacerdoti si leva un coro di lodi, mentre gli operai esultano. Senbi si rialza, frastornato, mentre il ladro, stordito dalla caduta, viene bloccato. Senbi è acclamato come un eroe inaspettato.;3;5;5
+;;Gemma 3 27B Q4;"Un boato di applausi si leva dal Gran Cortile. Senbi, ancora sporco di mirra e petali, è acclamato come un eroe. Il ladro, nel tentativo di sfuggire all'ira della guardia, inciampa proprio addosso a Senbi, cadendo rovinosamente ai suoi piedi. La folla interpreta l'evento come un atto di coraggio, ignorando la totale casualità. I sacerdoti sorridono compiaciuti, ben lieti di avere un ""eroe"" da presentare al faraone. Senbi, confuso ma non contrario, si lascia osannare, godendosi l'inaspettata gloria. La sua goffaggine, per una volta, si rivela vincente.";4;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+8;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Neferkare loda Senbi davanti a tutti, cancella i suoi debiti e gli offre un impiego permanente come ""guardiano speciale"" del tempio. 
+
+TONO:
+Comico, Trionfante
+
+AMBIENTAZIONE:
+Location: Gran Cortile (Tempio di Amon)
+Orario: Sera
+Tempo: Sereno
+
+PERSONAGGI:
+Senbi (Popolano - Operaio)
+Neferkare (Ministro della Fede - Sacerdote - Sommo Sacerdote)
+Sacerdoti (Ministro della Fede - Sacerdote)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;"Un rullo di tamburi, poi il silenzio attento del cortile. Neferkare alza le braccia, la voce vibrante d’emozione: proclama Senbi come esempio di inesperta audacia, sottolineando come persino un umile operaio possa fare miracoli… ogni tanto. Le risate si mescolano agli applausi: senza esitazione, Neferkare cancella tutti i debiti di Senbi con un gran cenno teatrale, mentre i sacerdoti sussurrano fra loro, indecisi se applaudire o invocare l’intervento di Amon. “E da oggi — annuncia il sommo sacerdote — Senbi sarà il nostro ‘guardiano speciale’! E non per sorvegliare le anfore di birra!” Tutti ridono; Senbi, incredulo, fatica a piegarsi nel più goffo degli inchini.";5;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Nel Gran Cortile del Tempio di Amon, sotto il cielo sereno della sera, Neferkare, il Sommo Sacerdote, avanza tra la folla giubilante. Con voce tonante, elogia Senbi per il suo coraggio inatteso. I debiti del popolano, accumulati con fatica, vengono cancellati con un gesto magnanimo. E poi, l'offerta che lascia tutti a bocca aperta: un impiego fisso come “guardiano speciale” del tempio. Un operaio diventa custode dei segreti divini. L'incredulità lascia il posto a un'ovazione fragorosa. Senbi, l'eroe per caso, è trionfante!;4;5;4
+;;Gemma 3 27B Q4;Neferkare alza le mani, placando l'ovazione. “Popolo di Tebe!” esclama con voce tonante. “Il nostro Senbi, per puro caso, ha salvato il tempio da un malvagio! E io, umile servitore degli dei, decreto che tutti i suoi debiti siano cancellati!” Un mormorio di sorpresa e approvazione si diffonde tra la folla. “Ma non finisce qui!” Neferkare sorride maliziosamente. “Senbi è d’ora in poi ‘Guardiano Speciale’ del tempio! Il suo compito? Assicurarsi che nessun altro, per sbaglio, salvi il tempio!” Senbi, sbalordito, si gratta la testa, mentre i sacerdoti cercano di soffocare le risate. La sua vita, evidentemente, è appena diventata molto più interessante.;5;5;5

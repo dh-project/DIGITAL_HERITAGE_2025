@@ -1,0 +1,230 @@
+﻿Text 12;;;;;;
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+1;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Neferkare, annoiato dai suoi tutori e dalle lezioni quotidiane, decide di travestirsi da popolano e fuggire dal palazzo per esplorare il mercato di Tebe. 
+
+TONO:
+Avventuroso
+
+AMBIENTAZIONE:
+Location: Stanze Reali (Palazzo del Faraone)
+Orario: Prima Mattina
+Tempo: Soleggiato
+
+PERSONAGGI:
+Neferkare (Membro Famiglia Reale - Principe)";ChatGPT 4.1;Neferkare ascolta con finta attenzione la voce monotona dei suoi tutori, ma la sua mente vola ben oltre doveri e pergamene. L’occasione perfetta si presenta: con movimenti rapidi e sguardo furbo, si appropria di vesti comuni e nasconde i simboli della propria stirpe. Il giovane principe respira a fondo la libertà che assapora solo nei sogni, pronto a sfuggire alla sorveglianza e oltrepassare i confini tracciati dalla sua nascita. Il cuore batte forte: oggi il principe si fa popolano, lasciandosi alle spalle la regalità per scoprire i misteri e i brividi del mercato di Tebe.;5;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Le prime luci dell'alba filtrano nelle stanze regali, ma Neferkare non è dove dovrebbe essere. Le noiose lezioni attendono, i tutori lo cercano, ma il giovane principe ha un'altra idea. Lontano dagli sguardi guardinghi, Neferkare si muove con agilità. Non indossa più le vesti che lo identificano, ma abiti semplici, presi con cautela. La sua decisione è presa: il richiamo dell'avventura lo spinge fuori dalle mura dorate. Fuggire dal palazzo, esplorare il cuore vibrante di Tebe, il mercato che brulica di vita: questo è il suo vero desiderio.;5;5;5
+;;Gemma 3 27B Q4;Il sole penetra tra le pesanti cortine, ma non riesce a scalfire l'irrequietezza di Neferkare. Le parole dei tutori gli scivolano addosso, inutili come sabbia tra le dita. Oggi, il principe non sopporta più le rigide regole del palazzo. Un impulso lo spinge a liberarsi, a sentire il cuore pulsare al ritmo di una vita diversa. Con un gesto rapido, abbandona le vesti regali, indossando abiti semplici, consueti per un umile popolano. Un sorriso gli illumina il volto mentre, eludendo la sorveglianza, si avvia verso le porte di Teba, pronto a perdersi tra la folla e i profumi del mercato, in un’avventura che gli appartiene solo.;4;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+2;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Neferkare si aggira tra le bancarelle del mercato, meravigliandosi di usanze popolari mai viste. Quando tenta di aiutare una mercante a raccogliere frutta caduta, causa involontariamente un disastro tra le bancarelle.
+
+TONO:
+Comico, Leggero
+
+AMBIENTAZIONE:
+Location: Mercato (Città di Tebe)
+Orario: Mattina
+Tempo: Soleggiato
+
+PERSONAGGI:
+Neferkare (Membro Famiglia Reale - Principe)
+Henutsen (Popolano - Mercante)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Neferkare si china con solennità regale verso la frutta sparsa, deciso a dimostrare gentilezza. Ma il gesto, elegante tra i cortigiani, qui si trasforma in maldestro: la sua lunga tunica impiglia un cesto, la mercante Henutsen lancia un grido quando i meloni rotolano via come tartarughe impazzite. Un grappolo d'uva schizza tra le dita del principe e finisce stamattina in un'anfora di latte. I passanti trattengono il fiato, poi esplode una risata contagiosa: Neferkare, rosso d'imbarazzo, si trova al centro d’un piccolo, chiassoso naufragio tra sardine e datteri.;3;3;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Neferkare si addentra nel vivace mercato di Tebe, i suoi occhi di principe abituati alla quiete del palazzo si meravigliano di ogni bancarella, di ogni voce che si alza. Osserva incantato Henutsen, intenta a vendere la sua frutta. Vede un cestino traballare e, mosso da un impulso gentile e inaspettato per la sua condizione, tenta di aiutare la mercante a raccogliere i frutti caduti. Ma il suo gesto, maldestro nella sua inesperienza, innesca una reazione a catena: casse che si rovesciano, merci che volano, un pandemonio colorato e rumoroso che si scatena tra le bancarelle.;5;5;5
+;;Gemma 3 27B Q4;Un sospiro di sollievo, e poi il caos. Neferkare, con la migliore delle intenzioni, si china per aiutare Henutsen a raccogliere le melagrane rotolate. Ma la sua inesperienza nelle faccende mercantili si rivela fatale: un piede maldestro, un’onda di cesti rovesciati, e ben presto l’aria si riempie di grida e frutta sparpagliata. Henutsen, più sorpresa che arrabbiata, scoppia a ridere. Il principe, imbarazzato, realizza che la vita tra il popolo è molto più complicata – e divertente – di quanto immaginasse.;4;3;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+3;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Per rimediare al danno causato, Neferkare si offre di aiutare Henutsen a trasportare le sue merci verso il tempio. Durante il tragitto, il principe scopre la vita quotidiana del popolo e le loro preoccupazioni.
+
+TONO:
+Rivelatore
+
+AMBIENTAZIONE:
+Location: Strade di Tebe
+Orario: Tarda Mattina
+Tempo: Soleggiato
+
+PERSONAGGI:
+Neferkare (Membro Famiglia Reale - Principe)
+Henutsen (Popolano - Mercante)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Mentre Neferkare afferra con cura le ceste che Henutsen tiene pronte, tra loro si scambiano poche parole, ma negli sguardi e nei gesti scorre una comprensione nuova. Camminando tra chi chiama, contratta e lavora senza sosta, il principe nota le mani screpolate dei lavoratori, ascolta frammenti di conversazioni su raccolti sperati e tributi sempre più gravosi. Henutsen, con voce ferma, racconta quanto il prezzo della farina decida la sorte di un’intera famiglia. Neferkare, avvolto nel brusio delle strada, coglie finalmente il peso invisibile che opprime la gente che governa.;5;4;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Per rimediare al danno, Neferkare propone il suo aiuto a Henutsen.  Con un cenno di accettazione, la mercante acconsente e insieme si dirigono verso il tempio. Lungo le vie assolate di Tebe, il principe ascolta le parole di Henutsen, un racconto semplice ma sincero della vita di tutti i giorni. Apprende delle fatiche, delle speranze legate al raccolto, delle piccole gioie e delle grandi preoccupazioni che scandiscono l'esistenza lontano dalle mura del palazzo. È un mondo nuovo che si svela ai suoi occhi, un’eco del popolo che fino a quel momento era rimasto un concetto lontano.;5;5;5
+;;Gemma 3 27B Q4;Il sole picchia sulle strade di Tebe mentre Neferkare affianca Henutsen nel trasporto delle merci. Ogni passo rivela un mondo sconosciuto: sguardi stanchi, mani callose, richieste sommesse. Il principe ascolta, per la prima volta, le vere preoccupazioni del popolo: il prezzo del grano, la salute dei figli, la speranza di un buon raccolto. Henutsen, abituata a barattare e a contrattare, spiega con pragmatica saggezza le difficoltà quotidiane. Neferkare comprende che il lusso del palazzo lo aveva tenuto lontano dalla vera essenza della sua terra, e che il potere non risiede solo nello scettro, ma nel benessere del popolo.;5;4;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+4;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Al tempio, Neferkare assiste alla preparazione di una festa in onore del dio Amon. Quando Paser chiede un volontario per partecipare al rituale il principe, forte del suo travestimento da popolano, si fa avanti.
+
+TONO:
+Comico, Leggero
+
+AMBIENTAZIONE:
+Location: Cortile (Tempio di Amon)
+Orario: Mezzogiorno
+Tempo: Soleggiato
+
+PERSONAGGI:
+Neferkare (Membro Famiglia Reale - Principe)
+Paser (Ministro della Fede - Sacerdote)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;"Mentre tamburi e canti invadono il cortile, Paser solleva le braccia con aria solenne—ma basta uno starnuto del giovane scriba perché la cerimonia sfiori la comicità. ""Chi desidera onorare Amon nel rituale della frutta sacra?"" esclama il sacerdote, abbozzando un sorriso che cerca di essere ieratico. Silenzio generale, finché Neferkare, visibilmente divertito, si fa avanti con passo regale ma impacciato, inciampando quasi su una cesta di datteri. Il principe si china con una riverenza esagerata: ""Sarà un onore... soprattutto se il dio gradisce l’improvvisazione!"" Paser trattiene una risata: la cerimonia promette sorprese.";5;4;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Ed eccoci qui, al tempio di Amon, proprio nel pieno dei preparativi per una festa in grande stile! L'aria è vibrante di attesa, si respira l'atmosfera solenne eppure allegra che precede queste celebrazioni. Il ministro Paser, con la sua solita, inappuntabile compostezza, dirige le operazioni. È un momento cruciale, serve un volontario per un rituale fondamentale. Chi si farà avanti? Ebbene sì, forte del suo geniale travestimento da popolano, Neferkare, il nostro principe, si fa avanti, un passo decisivo verso l'inatteso.;5;5;5
+;;Gemma 3 27B Q4;Il cortile del tempio risuona di voci e preparativi. Paser, con fare solenne, cerca un volontario per il rituale propiziatorio. Neferkare, travestito da umile popolano, si fa avanti con entusiasmo, spinto da un improvviso spirito di iniziativa – o forse dalla voglia di dimostrare a Henutsen di saper fare qualcosa di più che limitarsi a osservare. Il sacerdote lo scruta, perplesso. Un principe che si offre per un compito del popolo? A Teba, anche gli dei devono sorridere. Henutsen, dal canto suo, scoppia in una risata sguaiata, consapevole che il suo giovane protettore sta per combinare un bel guaio.;4;5;4
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+5;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Durante il rituale, Neferkare riesce a impressionare tutti con la sua naturale grazia. Improvvisamente, una guardia reale entra nel tempio annunciando che il figlio del Faraone è scomparso. Neferkare, in preda al panico, cerca di nascondersi tra la folla.
+
+TONO:
+Tensione
+
+AMBIENTAZIONE:
+Location: Cortile (Tempio di Amon)
+Orario: Mezzogiorno
+Tempo: Soleggiato
+
+PERSONAGGI:
+Neferkare (Membro Famiglia Reale - Principe)
+Guardia (Combattente - Guardia)
+Paser (Ministro della Fede - Sacerdote)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;"Un brusio elettrico si diffonde tra i presenti; i sacerdoti sospendono i canti, le offerte restano in bilico tra le mani tremanti degli accoliti. La voce della guardia, colma d’urgenza, scuote l’aria calda: il figlio del Faraone è scomparso. Senza osare alzare lo sguardo, Paser si fa avanti per placare la folla, ma l’ordine vacilla e la tensione cresce. Neferkare, il cuore martellante, si muove furtivo, sfruttando ogni spiraglio tra i dignitari inquieti. Ogni gesto è silenzio e paura; la sua nobiltà ora è solo un peso che cerca di celare.";4;4;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Neferkare si muove con una fluidità inaspettata, quasi regale, nel cuore del rituale.  Sotto il sole di mezzogiorno che inonda il cortile del tempio, ogni suo gesto colpisce chi osserva. Un'improvvisa irruzione rompe la quiete solenne: una guardia reale irrompe nella folla. L'annuncio è lapidario, la voce si diffonde come un'onda d'urto: il figlio del Faraone è scomparso.  Il panico afferra Neferkare, il sangue gli gela nelle vene.  Si ritrae, cerca di fondersi con la folla circostante, sperando di non essere notato.;4;5;5
+;;Gemma 3 27B Q4;"Il brusio del cortile si spezza. La voce tonante della guardia echeggia tra le colonne: ""Il principe ereditario è scomparso!"". Neferkare, il cuore in gola, avverte gli sguardi che si posano su di lui. Un sudore freddo gli imperla la fronte mentre cerca disperatamente un riparo tra la folla di fedeli, sperando di confondersi tra i volti comuni. Paser, con espressione severa, scruta l'assembramento, mentre il panico inizia a serpeggiare tra i presenti. Ogni ombra sembra nascondere un sospetto, ogni sussurro un’accusa. Neferkare sa che, se scoperto, la sua finzione crollerà e le conseguenze saranno terribili.";5;4;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+6;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Neferkare scappa dal tempio e si perde nei quartieri meno conosciuti della città. Incontra un gruppo di bambini che giocano e si unisce a loro. 
+
+TONO:
+Scanzonato, Leggero
+
+AMBIENTAZIONE:
+Location: Quartiere Popolare (Città di Tebe)
+Orario: Pomeriggio
+Tempo: Soleggiato
+
+PERSONAGGI:
+Neferkare (Membro Famiglia Reale - Principe)
+Bambini (Popolano)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Neferkare, con il fiato corto e il cuore in tumulto per la folle corsa, si lascia alle spalle il tempio. Vagando tra stradine intrecciate e suoni nuovi, inciampa nel vivace baccano di un gruppetto di bambini che, tra risate e rincorse, inseguono una palla di stoffa. Per un attimo il principe dimentica tutto: ridendo, accetta la sfida di chi lancia più lontano. I bambini, ignari del suo rango, lo tirano per mano e gli insegnano regole a modo loro. Neferkare, scoprendo un gioco semplice, assapora una libertà che fino a poco prima sembrava impossibile.;5;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Neferkare sfreccia via dal tempio, il cuore in gola, lasciandosi alle spalle il clamore. Si infila in stradine mai viste prima, un labirinto di voci e profumi sconosciuti, sempre più lontano dal cerimoniale soffocante.  Ecco che un coro di risate lo attira: un nugolo di bambini gioca per strada.  Qualche esitazione, poi un sorriso spontaneo si dipinge sul suo volto.  Neferkare, il principe, si getta nella mischia, unendosi senza pensarci due volte al loro vivace gioco.;5;5;5
+;;Gemma 3 27B Q4;Il principe, trafelato, si ritrova in un dedalo di vicoli polverosi. Un grido acuto rompe il silenzio: è il richiamo di una partita a rimpiattino. Neferkare osserva un gruppo di bambini che corrono e ridono, incuranti di tutto. Un sorriso gli increspa le labbra. Abbandonando ogni velleità di nobile contegno, si unisce al gioco, spingendo un ragazzino e urlando: “Preso!”. Per un attimo, è solo un bambino tra i bambini, libero dal peso di un regno e dai suoi obblighi. La guardia lo troverà mai in mezzo a questa allegra confusione?;5;4;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+7;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Menna riconosce Neferkare nonostante il travestimento e, anziché denunciarlo, decide di aiutarlo a tornare a palazzo.
+
+TONO:
+Leggero, Comprensivo
+
+AMBIENTAZIONE:
+Location: Quartiere Popolare (Città di Tebe)
+Orario: Tardo Pomeriggio
+Tempo: Soleggiato
+
+PERSONAGGI:
+Neferkare (Membro Famiglia Reale - Principe)
+Bambini (Popolano)
+Menna (Popolano - Capo degli Operai)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Menna si avvicina con passo deciso, ma nei suoi occhi non c’è minaccia, solo una gentile complicità. Neferkare abbassa lo sguardo, pronto a confessare, ma Menna posa una mano rassicurante sulla sua spalla. Parlando piano, gli promette discrezione: la sua posizione di capo tra gli operai pesa quanto una parola data. Intorno, i bambini continuano i giochi, ignari del segreto. Menna suggerisce strade sicure e qualche invisibile aiuto: chi lavora il fango ogni giorno sa come muoversi senza destare sospetti. Il principe accetta, e tra loro nasce un accordo silenzioso, fatto di rispetto e reciproca fiducia.;5;4;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Un capo degli operai, Menna, osserva la scena.  Tra i bambini che corrono e ridono, qualcosa nel movimento di uno di loro, nell'aria che lo circonda, attira la sua attenzione.  Nonostante il travestimento, Menna riconosce il volto del principe.  Anziché allertare le guardie, un lampo di comprensione attraversa i suoi occhi.  Con un cenno discreto, si avvicina e sussurra poche parole, offrendo la sua guida per un ritorno sicuro, lontano da occhi indiscreti.;5;5;5
+;;Gemma 3 27B Q4;Il sole cala su Tebe, tingendo di rosa i muri sbrecciati. Menna, osservando il principe tra i bambini, riconosce lo sguardo smarrito dietro l’improvvisa allegria. Non lo denuncia, ma gli si avvicina con un cenno del capo. “Seguimi”, dice, la voce roca ma gentile. “Conosco passaggi che ti riporteranno a palazzo, senza destare sospetti.” Il principe, sorpreso, accetta. I bambini, ignari, continuano a giocare, mentre Menna guida Neferkare tra i vicoli, un patto silenzioso stretto tra un uomo del popolo e un erede al trono. Un aiuto discreto, un gesto di umanità in una città che pulsa di vita.;5;4;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+8;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Neferkare rientra a palazzo. Anziché rimproverarlo, il Faraone ascolta con interesse le avventure del figlio e decide che da quel giorno potrà visitare regolarmente la città per conoscere meglio il suo popolo.
+
+TONO:
+Caloroso, Risolutivo
+
+AMBIENTAZIONE:
+Location: Sala Banchetti (Palazzo del Faraone)
+Orario: Sera
+Tempo: Sereno
+
+PERSONAGGI:
+Neferkare (Membro Famiglia Reale - Principe)
+Faraone (Membro Famiglia Reale - Faraone)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Mentre la sala si riempie di silenzio rispettoso, Neferkare si accosta al trono, il cuore ancora colmo di emozioni. Il Faraone, con uno sguardo che mescola autorevolezza e affetto paterno, chiede al figlio di raccontare. Neferkare narra le sue esperienze tra la gente, i dialoghi e i gesti semplici che ha incontrato. Il Faraone ascolta con sincera partecipazione, poi proclama che è giusto che il principe conosca chi un giorno guiderà. Da ora, Neferkare è incoraggiato a camminare tra il suo popolo, perché solo chi sa ascoltare può davvero governare.;5;4;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";È sera nella Sala Banchetti, il profumo di spezie e frutti maturi aleggia nell'aria serena. Neferkare rientra, l'eco dei suoi passi risuona sul pavimento lucido. Il Faraone attende, un calice tra le mani. Non c’è rimprovero nel suo sguardo, solo un’attesa curiosa. Il principe racconta le sue avventure inattese, ogni parola dipinge quadri vividi. Il Faraone ascolta, un sorriso si schiude sul suo volto. “Da oggi,” decreta con voce ferma ma gentile, “potrai visitare la città. È tempo che tu conosca il tuo popolo.”;4;5;5
+;;Gemma 3 27B Q4;Le fiamme danzano nei bracieri, illuminando i volti nella Sala dei Banchetti. Neferkare espone i racconti della città, il Faraone lo ascolta assorto, un sorriso increspando le labbra. Non rimproveri, non prediche, solo un vivo interesse per le vite che il figlio ha osservato. Un decreto risuona solenne: da quel giorno, Neferkare potrà varcare le porte di Teba in incognito, per conoscere il volto del suo popolo, per comprendere le loro gioie e i loro dolori. Un ponte si crea tra il trono e la città, un legame forgiato dalla curiosità e dalla saggezza. Il principe, finalmente libero, accoglie la decisione con un rinnovato senso di responsabilità.;4;4;5

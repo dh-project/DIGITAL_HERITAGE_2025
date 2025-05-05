@@ -1,0 +1,235 @@
+﻿Text 11;;;;;;
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+1;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Nel tempio di Thoth l'oracolo Meritaten inizia a pronunciare profezie inquietanti sulla siccità del Nilo e la carestia imminente
+
+TONO:
+Tensione, Paura
+
+AMBIENTAZIONE:
+Location: Camera dell'Oracolo (Tempio di Thoth)
+Orario: Notte
+Tempo: Ventoso
+
+PERSONAGGI:
+Meritaten (Ministro della Fede - Oracolo)";ChatGPT 4.1;Nel buio animato dal vento, Meritaten solleva la voce tra i sussurri degli dèi. Parole spezzano il silenzio e cadono come sassi nello spirito di chi ascolta: il Nilo si prosciugherà, la fame toccherà ogni casa, la disperazione serpeggerà tra i fedeli. Le sue profezie si susseguono, ognuna più cupa della precedente, e l’atmosfera si carica di un’ansia palpabile. Meritaten, custode dei segreti divini, intona il presagio con solennità, il suo ruolo di oracolo impone che nessuna lacrima muti ciò che il destino ha già scritto. L’eco delle sue parole mette in ginocchio la speranza.;5;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Il vento ulula oltre le pareti del tempio. Nella camera dell'Oracolo, Meritaten, la prescelta di Thoth, comincia a tremare. Un sussurro si diffonde, una voce che non è la sua. Parole si liberano nell'aria densa di incenso, parole cariche di presagi funesti. Il Nilo, fonte di vita, si ritira, le terre si inaridiscono. La carestia incombe, un’ombra scura sulla terra dei faraoni. La paura gela il sangue, mentre la profezia si snoda, inesorabile.;5;5;5
+;;Gemma 3 27B Q4;La fiamma tremula danza sulle pareti della camera dell'oracolo, mentre il vento ulula attorno al tempio di Thoth. Meritaten, ministro della fede, è in preda a visioni. La sua voce, un tempo melodiosa, ora risuona roca e profetica. Parla di un Nilo assetato, di terre screpolate, di granai vuoti. Ogni sillaba è un presagio di carestia, un annuncio di giorni oscuri per l'Egitto. Le sue parole, intrise di paura, si propagano tra i presenti, seminando sgomento e premonizioni di sventura. Il futuro, un tempo promessa di prosperità, si tinge di un'ombra minacciosa.;5;4;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+2;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Paser, inviato dal Visir per indigare, interroga Meritaten. L'oracolo è in stato di trance, parla di acque contaminate da sostanze provenienti dalle terre dei nubiani, lasciando tutti confusi e spaventati.
+
+TONO:
+Enigmatico, Inquietante
+
+AMBIENTAZIONE:
+Location: Camera dell'Oracolo (Tempio di Thoth)
+Orario: Mattina
+Tempo: Soleggiato
+
+PERSONAGGI:
+Meritaten (Ministro della Fede - Oracolo)
+Paser (Alto Funzionario - Consigliere)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Il silenzio cala dopo le parole di Meritaten, mentre il respiro dell’oracolo si fa sospeso tra mondi invisibili. Paser, voce ferma ma occhi accesi d’inquietudine, domanda del significato di quelle acque corrotte. Meritaten, ancora preda del trance, risponde con frasi spezzate, nomi di fiumi sconosciuti e presagi inquietanti gridati dalle rive remote del sud. I presenti trattengono il fiato: il dubbio serpeggia fra le colonne, la minaccia di una contaminazione si insinua nei pensieri di tutti, come se il destino del tempio fosse ormai legato a quelle acque oscurate dal mistero.;5;3;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";"Paser, inviato dal Visir, osserva Meritaten, mentre un tremore convulso la scuote. La sua voce, ora profonda e aliena, squarcia il silenzio teso della Camera dell'Oracolo. Parole enigmatiche sgorgano come acqua torbida: ""Acque contaminate... da terre lontane... terre di Nubia... veleno..."". Un brivido corre tra i presenti. Il Nilo, la linfa vitale, avvelenato? Da dove proviene questa minaccia oscura? L'inquietudine si diffonde, mentre l'oracolo, intrappolato nella trance, continua a tessere il suo presagio di sventura.";5;5;5
+;;Gemma 3 27B Q4;La voce di Meritaten si fa più acuta, quasi un lamento. “Le acque… non sono più pure. Vengono dall’estremo sud, portano con sé la malattia e la discordia.” Uno spasmo percorre il suo corpo. “Sostanze oscure, versate nella corrente… un’offesa agli dei.” Paser osserva, impassibile, mentre l'oracolo continua a parlare in frammenti sconnessi. “Il Nilo si ribella, rifiuta il dono della vita. La terra assetata invoca vendetta.” Un silenzio pesante cala nella camera. Le parole di Meritaten non sono semplici profezie, ma accuse velate, sussurri di un complotto che minaccia l'equilibrio del regno. La paura serpeggia tra i presenti, mentre il sole, alto nel cielo, sembra testimone di un oscuro presagio.;5;3;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+3;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Paser si reca al villaggio di pescatori dove scopre che molti sono malati e le acque del Nilo hanno un colore innaturale; Nebamun gli mostra piante morte e pesci deformi. 
+
+TONO:
+Inquietante, Investigativo
+
+AMBIENTAZIONE:
+Location: Villaggio dei Pescatori (Riva del Nilo)
+Orario: Mezzogiorno
+Tempo: Soleggiato
+
+PERSONAGGI:
+Paser (Alto Funzionario - Consigliere)
+Nebamun (Popolano - Pescatore)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;"Nel silenzio spezzato solo dai lamenti sommessi, Paser segue Nebamun tra le capanne. L’aria porta odore acre e piagato. Nebamun, le mani segnate dal lavoro e dall’ansia, solleva una cesta: piante avvizzite e pesci dalla pelle screziata rotolano davanti agli occhi attenti del funzionario. Paser prende un pesce; il suo corpo è molle, gli occhi spenti. Il mormorio dei pescatori si fa lamento, tra paura e rabbia trattenute. Il consigliere si china sull’acqua: il Nilo riflette una luce sbiadita, innaturale. L’angoscia serpeggia: la normalità si è spezzata, e solo domande senza risposta affiorano sulla riva.";5;3;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Paser giunge al villaggio dei pescatori, dove un'aria malsana incombe. Molti giacciono infermi, e l'acqua del Nilo, solitamente fonte di vita, ora riflette una luce innaturale. Nebamun, prostrato dalla preoccupazione, lo accoglie. Con voce rotta, indica le rive, dove piante morte e disseccate giacciono abbandonate. I pesci, deformi e moribondi, si dibattono debolmente nell'acqua torbida, testimoni silenziosi di un male che si insinua. L'ombra dell'oracolo si allunga, confermando il presagio di sventura.;5;5;5
+;;Gemma 3 27B Q4;Il sole picchia sulla schiena di Paser mentre Nebamun gli mostra le sue reti, vuote e lacere. “Guarda, funzionario,” dice l’uomo, la voce roca, “un tempo qui pullulava di vita. Ora… solo queste.” Nebamun solleva un pesce deforme, la schiena curva, gli occhi spenti. “Le acque sono amare, avvelenate. Le piante muoiono prima ancora di germogliare.” Paser osserva le sponde del Nilo, un colore verdastro che macchia la trasparenza dell’acqua. Un’aria pesante, quasi irrespirabile, aleggia sul villaggio. Qualcosa è cambiato, un male oscuro si è insinuato nel cuore del fiume, e con esso, nelle vite degli uomini. Il silenzio è rotto solo dal lamento del vento, che sembra sussurrare un’antica maledizione.;5;3;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+4;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Tornato al tempio, Paser trova l'oracolo in stato di agitazione estrema. Amenemhat lo accusa di eresia e cerca di impedire ulteriori indagini sulla contaminazione del Nilo.
+
+TONO:
+Conflitto, Drammatico
+
+AMBIENTAZIONE:
+Location: Corte del Tempio (Tempio di Thoth)
+Orario: Pomeriggio
+Tempo: Ventoso
+
+PERSONAGGI:
+Paser (Alto Funzionario - Consigliere)
+Meritaten (Ministro della Fede - Oracolo)
+Amenemhat (Ministro della Fede - Sommo Sacerdote)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Paser si arresta di fronte all’oracolo, i suoi passi sovrastati dalle voci scomposte dei sacerdoti. Meritaten, scossa e in preda al terrore, supplica che la verità venga ascoltata. Amenemhat, rigido nella sua autorità, alza la voce: lo accusa pubblicamente, gridando che solo uno straniero alla fede può dubitare degli déi e contaminare la loro sacralità. Le accuse si moltiplicano tra le raffiche di vento. Paser tenta di parlare, ma i ministri lo cingono, impedendo a ogni spiraglio di dubbio di attraversare la corte. L’eco di un conflitto insanabile si insinua tra gli dèi e gli uomini.;4;4;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Ritornato al tempio, Paser trova l'oracolo in stato di agitazione estrema. Le parole di Meritaten sono spezzate, piene di angoscia. Amenemhat si erge imponente, la sua voce è un tuono che accusa Paser di eresia, di aver osato mettere in dubbio la volontà divina. L’alto funzionario tenta di parlare, di spiegare ciò che ha visto al villaggio, ma il Sommo Sacerdote lo interrompe bruscamente. Amenemhat cerca di impedirgli ulteriori indagini sulla contaminazione del Nilo, la sua opposizione è ferma, inappellabile.;5;4;4
+;;Gemma 3 27B Q4;Il vento sferza la corte del tempio, portando con sé granelli di sabbia e presagi di tempesta. Paser ritrova Meritaten in preda a spasmi, le mani strette sulle orecchie come a voler soffocare un grido. Amenemhat, il volto contratto dall’ira, si erge tra i due, la figura imponente che oscura la luce del tramonto. “Eresia!” tuona il sommo sacerdote, puntando un dito accusatore contro Paser. “Le tue indagini sono blasfeme, un affronto agli dei! Vuoi screditare la purezza del Nilo con le tue vane speculazioni?” Meritaten, tra un sussulto e l’altro, tenta di placare la furia del collega, ma Amenemhat è irremovibile. “Non permetterò che tu profani questo luogo con la tua ricerca del male. Il Nilo è sacro, e la sua volontà è insondabile.” La tensione è palpabile, un filo sottile che rischia di spezzarsi sotto il peso delle accuse e delle minacce.;4;4;4
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+5;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Durante la notte, Meritaten conduce segretamente Paser in una camera nascosta del tempio dove antiche iscrizioni raccontano di simili calamità verificatesi secoli prima, rivelando che la contaminazione proviene da miniere di rame abbandonate.
+
+TONO:
+Rivelatore, Misterioso
+
+AMBIENTAZIONE:
+Location: Camera segreta (Tempio di Thoth)
+Orario: Notte 
+Tempo: Ventoso
+
+PERSONAGGI:
+Paser (Alto Funzionario - Consigliere)
+Meritaten (Ministro della Fede - Oracolo)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;"Mentre il vento si insinua come un sussurro tra le lastre, Meritaten solleva la lucerna e la luce danza sulle pareti. Con voce bassa ma decisa, conduce Paser davanti alle antiche iscrizioni. Le dita dell’Oracolo scorrono sulle formule incise, evocando narrazioni di antiche sciagure. Sussurra a Paser che la storia si ripete: la fonte della corruzione è descritta nei dettagli, riconducendo tutto alle miniere abbandonate a oriente. Lo sguardo di Paser si fa grave; ora comprende quanto sia antico e tenace il male tornato tra loro, e che una risposta si nasconde tra quelle stesse pietre.";5;4;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Nascosti nell'oscurità, guidati solo dalla flebile luce di una torcia, Meritaten conduce Paser in una camera segreta. L’aria è immobile, quasi densa di segreti millenari. I muri, incisi con simboli dimenticati, sussurrano storie di terre aride, di acque avvelenate. Meritaten indica le iscrizioni, le parole scolpite nella pietra narrano di una calamità speculare a quella che ora affligge le genti, una pestilenza nata nelle profondità della terra, dalle miniere abbandonate. La verità si svela, antica e terribile.;3;4;4
+;;Gemma 3 27B Q4;Le torce proiettano ombre danzanti sulle pareti della camera nascosta, rivelando geroglifici che narrano di un’ombra simile, caduta sul regno secoli prima. Meritaten guida Paser tra le incisioni, la voce un sussurro nel silenzio del tempio. Le antiche scritture parlano di miniere di rame abbandonate, fonti di contaminazione che avvelenarono le acque e portarono pestilenza. Un’eco lontana di ciò che affligge il Nilo oggi. Paser percepisce un brivido, non dovuto al vento che ulula fuori, ma alla rivelazione: la calamità non è un capriccio divino, ma una ferita antica, risvegliata dal tempo. Una verità scomoda, celata per secoli.;4;4;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+6;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Paser si reca nelle terre nubiane con una piccola scorta e scopre che un gruppo di mercanti ha riaperto illegalmente le miniere, riversando sostanze velenose nel Nilo per estrarre il rame più velocemente.
+
+TONO:
+Rivelatore
+
+AMBIENTAZIONE:
+Location: Miniere di rame (Terre nubiane)
+Orario: Mattina
+Tempo: Afoso
+
+PERSONAGGI:
+Paser (Alto Funzionario - Consigliere)
+Soldati (Combattente - Soldato)
+Mercanti (Popolano - Mercante)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;"Davanti alla scena che si rivela, Paser coglie l’odore acre nell’aria e ascolta il mormorio impaurito dei soldati. La sua voce, ferma e autoritaria, interrompe il frenetico lavoro dei mercanti; li accusa apertamente di aver contaminato le acque sacre per il loro profitto. I mercanti, colti di sorpresa, tentano timide giustificazioni, mentre uno di loro abbassa gli occhi sotto il peso della colpa. Paser ordina ai suoi uomini di interrompere ogni attività e di prelevare campioni d’acqua, conscio che la giustizia del faraone dovrà ora calare sulle terre profanate.";5;3;3
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Paser, accompagnato dalla sua scorta, si addentra nel cuore delle terre nubiane. L’aria è pesante e carica di un odore acre. Si avvicinano alle miniere abbandonate e una vista inattesa si svela ai loro occhi. Un gruppo di mercanti lavora alacremente, ignari della storia che i muri circostanti conoscono bene. Estraggono il rame con rapidità inquietante, utilizzando metodi che inquinano le acque del Nilo. Paser comprende subito la gravità della situazione, la minaccia antica descritta nelle iscrizioni ora ha un volto. I soldati si preparano ad agire.;4;4;4
+;;Gemma 3 27B Q4;Il sole picchia sulle terre nubiane, ma Paser non sente il calore. Davanti a lui, le miniere di rame riprese illegalmente vomitano schiuma velenosa nel Nilo. I mercanti, avidi e senza scrupoli, accelerano l’estrazione con metodi che la terra stessa rifiuta. Soldati armati sorvegliano l’operazione, pronti a reprimere ogni dissenso. Paser osserva, il cuore pesante. Non è solo avidità a muovere questi uomini, ma una cieca indifferenza verso le conseguenze. La pestilenza del passato si profila all’orizzonte, un’ombra lunga che minaccia di inghiottire il regno. L’antica ferita è stata riaperta, e il Nilo, linfa vitale dell’Egitto, si ammala lentamente.;4;4;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+7;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Il giorno seguente Paser trova il tempio in subbuglio. Amenemhat, evidentemente in combutta con i mercanti delle miniere, ha ordinato l'arresto di Meritaten.
+
+TONO:
+Drammatico, Tensione
+
+AMBIENTAZIONE:
+Location: Gran Cortile (Tempio di Thoth)
+Orario: Sera
+Tempo: Uggioso
+
+PERSONAGGI:
+Paser (Alto Funzionario - Consigliere)
+Meritaten (Ministro della Fede - Oracolo)
+Amenemhat (Ministro della Fede - Sommo Sacerdote)
+Guardie (Combattente - Guardia)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Paser avanza, il cuore martellante mentre il brusio cresce intorno a lui. Le guardie circondano Meritaten, le catene tintinnano inquietanti. Amenemhat, impassibile, detta ordini secchi: nessuna pietà, nessun dubbio. I fedeli si stringono ai margini, attoniti e incapaci di intervenire di fronte all’autorità del Sommo Sacerdote. Paser lotta tra la rabbia e il dovere, consapevole che un passo falso potrebbe condannare anche lui. Meritaten, ferma e fiera nella sua fede, incrocia per un istante lo sguardo di Paser: non c’è paura nei suoi occhi, solo la dignità silenziosa di chi sa di aver sfidato il potere.;5;3;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";La sera cala sul Gran Cortile del Tempio di Thoth, ma la quiete è un ricordo lontano. Paser, rientrato dalla sua missione, trova il sacro luogo scosso da un'inquietudine palpabile. Un brusio sommesso riempie l'aria mentre Amenemhat, la cui alleanza con i mercanti delle miniere è ora inequivocabile, impartisce ordini perentori. Le guardie eseguono senza esitazione. Meritaten, il cui ruolo la poneva al di sopra di tali turbamenti terreni, è raggiunta e le sue mani vengono legate. La tensione si taglia con un coltello, l'antica tranquillità del tempio è spezzata dall'ombra della cospirazione.;5;5;5
+;;Gemma 3 27B Q4;La pioggia sferza il Gran Cortile, lavando via la polvere, ma non il caos. Paser trova il tempio in preda al tumulto. Amenemhat, il volto di pietra, ordina alle guardie di stringere Meritaten, le mani legate, lo sguardo perso nel vuoto. Le sue parole, fredde come la notte, accusano la Ministra della Fede di tradimento, di complotto contro il Faraone. Un mormorio di incredulità serpeggia tra i presenti, ma nessuno osa opporsi. Paser avverte una scossa, un presagio funesto. Non è giustizia ciò che sta accadendo, ma una spietata manovra di potere. L'ombra dell'avidità si allunga sul tempio, offuscando la luce della verità.;3;4;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+8;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Paser racconta del suo viaggio alle miniere e fa arrestare Amenemhat, sospettando un suo coinvolgimento. Meritaten profetizza che le acque torneranno pure dopo la chiusura delle miniere.
+
+TONO:
+Trionfante, Solenne
+
+AMBIENTAZIONE:
+Location: Gran Cortile (Tempio di Thoth)
+Orario: Sera
+Tempo: Uggioso
+
+PERSONAGGI:
+Paser (Alto Funzionario - Consigliere)
+Meritaten (Ministro della Fede - Oracolo)
+Amenemhat (Ministro della Fede - Sommo Sacerdote)
+Guardie (Combattente - Guardia)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Il silenzio gravita sul Gran Cortile mentre Paser, con voce ferma, rivela i dettagli del suo viaggio tra le dure genti delle miniere, gettando sospetti su Amenemhat con parole pesanti come sentenze. Al solo cenno del Consigliere, le guardie si avvicinano e, senza esitazione, stringono le mani ai polsi dell’alto sacerdote. Meritaten avanza, gli occhi levati verso l’invisibile, proclamando che la dannazione delle acque cesserà e che benedizioni torneranno a scorrere, quando l’empià sarà finalmente chiusa. Sul cortile grava una solenne attesa: giustizia e speranza si intrecciano, trionfanti, nel destino del Tempio.;4;4;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Paser, con voce che risuona nel Gran Cortile, narra del suo viaggio alle miniere, le sue parole cariche della gravità della scoperta. Punta il dito contro Amenemhat, l'accusa implicita nel suo sguardo, il sospetto un veleno che si diffonde. Immediatamente, le guardie si muovono, le loro azioni riflettono l'autorità di chi comanda. Amenemhat viene raggiunto e bloccato, la sua immobilità un contrasto con il tumulto interiore. In quel momento solenne, Meritaten, con lo sguardo rivolto oltre il visibile, eleva la sua voce. Le sue parole sono una profezia: le acque, ora impure, torneranno chiare solo quando le miniere cesseranno la loro opera. È una sentenza divina pronunciata in un momento di trionfo terreno.;5;5;5
+;;Gemma 3 27B Q4;"La pioggia tamburella sul cortile mentre Paser, con voce squillante, interrompe l’ordine di Amenemhat. “Arrestatelo!” tuona, indicando il Sommo Sacerdote. Le guardie, sorprese, obbediscono, ammanettando un Amenemhat sbigottito. Paser rivela il suo viaggio alle miniere, le prove di un coinvolgimento oscuro, il tradimento sventato. 
+Un silenzio solenne cala. Meritaten, liberata, alza lo sguardo al cielo plumbeo. “Le acque torneranno pure,” proclama con voce vibrante, “la chiusura delle miniere segnerà la rinascita della nostra terra.” Un fremito di speranza percorre l’assemblea, mentre la pioggia, incessante, lava via le colpe del passato.";5;5;5

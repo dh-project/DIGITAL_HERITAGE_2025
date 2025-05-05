@@ -1,0 +1,238 @@
+﻿Text 13;;;;;;
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+1;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Ahmose assiste all'arresto di suo padre accusato di tradimento contro il Faraone. Prima di essere portato via, il padre gli sussurra di cercare una statuetta nascosta che proverebbe la sua innocenza.
+
+TONO:
+Drammatico, Tragico
+
+AMBIENTAZIONE:
+Location: Cortile (Casa Nobiliare)
+Orario: Alba
+Tempo: Nebbioso
+
+PERSONAGGI:
+Ahmose (Nobile)
+Padre di Ahmose (Nobile)
+Guardie (Combattente - Guardia)";ChatGPT 4.1;Nel cortile avvolto dalla nebbia, Ahmose assiste, impotente, mentre le guardie afferrano suo padre con mani rigide e sguardi freddi. Il silenzio è spezzato solo dal fruscio dei sandali sulla pietra. Prima che venga trascinato via, il padre si china verso di lui, la voce strozzata: «Cerca la statuetta, figlio mio. Solo così la verità verrà alla luce». Ahmose rimane immobile, il peso della parola dell’onore nobiliare sulle spalle, mentre le guardie si allontanano, lasciando dietro di sé un giovane cuore sospeso tra angoscia e speranza.;4;4;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";"L'aria è pesante nel cortile all'alba. Un'ombra cala sul cuore di Ahmose mentre assiste impotente. Le guardie stringono saldamente il padre, l'accusa di tradimento risuona tagliente come una lama. Gli sguardi si incrociano per un istante. Prima di essere trascinato via, un sussurro disperato raggiunge l'orecchio di Ahmose: ""La statuetta... cerca la statuetta... dimostrerà la mia innocenza."" La porta si chiude, lasciando dietro di sé un silenzio assordante.";4;5;5
+;;Gemma 3 27B Q4;L'alba si vela di nebbia nel cortile. Ahmose osserva, impotente, le guardie stringere il padre. L'accusa, sussurrata come un anatema: tradimento. Un'onta che macchia l'onore della famiglia. Prima di essere condotto via, il padre, con lo sguardo perso, gli affida un segreto: una statuetta, nascosta chissà dove, l'unica prova della sua innocenza. Ahmose stringe i pugni, il cuore colmo di angoscia e rabbia. Deve trovarla, deve discolpare il padre, anche a costo di sfidare il Faraone stesso. Il destino della sua famiglia è appeso a un frammento di pietra.;4;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+2;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Ahmose non riesce a trovare la statuetta e decide di recarsi dal Visir Senenmut, un tempo amico di suo padre, per implorare il suo aiuto. Il Visir appare nervoso e lo congeda rapidamente, sussurrandogli di incontrarsi al tempio quella notte.
+
+TONO:
+Tensione, Misterioso
+
+AMBIENTAZIONE:
+Location: Sala Ricevimento (Palazzo del Visir)
+Orario: Mezzogiorno
+Tempo: Soleggiato
+
+PERSONAGGI:
+Ahmose (Nobile)
+Senenmut (Alto Funzionario - Visir)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Ahmose si ritrova ora solo nella sala, con il peso delle parole di Senenmut che vibra nell’aria immobile. Sa che rivolgersi a un visir comporta rischi, ma la promessa di risposte lo inquieta più del silenzio ricevuto. Intuisce nelle reticenze del funzionario qualcosa di più profondo, forse un pericolo celato dietro la maschera della cortesia obbligata. Mentre lascia la stanza, ogni passo risuona dell’urgenza e del sospetto che ormai lega indissolubilmente i loro destini. L’invito al tempio è una lama a doppio taglio: la verità lo aspetta, ma potrebbe costargli molto più della statuetta scomparsa.;5;3;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";"Ahmose, col peso del mattino ancora addosso, cerca invano. Ogni angolo familiare, ogni nascondiglio conosciuto, non rivela ciò che il padre ha implorato. Non c’è tempo per la disperazione; si dirige verso il palazzo del Visir. La sala di ricevimento è immersa nella luce del mezzogiorno quando Ahmose si presenta a Senenmut, un tempo amico, ora figura distante nell’ombra del potere. Supplica, esponendo la sua richiesta. Senenmut appare teso, le mani irrequiete. Non attende risposte o spiegazioni dettagliate. Lo congeda in fretta, con un sussurro appena udibile, carico di urgenza: ""Al tempio... questa notte.""";5;5;5
+;;Gemma 3 27B Q4;Ahmose si presenta nel salone del Visir, il sole a picco che illumina la scena. Senenmut lo accoglie con un cenno distratto, lo sguardo che sfugge il contatto. Le parole del nobile, imploranti aiuto per la ricerca della statuetta, sembrano irritare l'alto funzionario. Un’ombra vela il volto di Senenmut, un nervosismo palpabile. Congeda Ahmose frettolosamente, sussurrando un invito al tempio, quella notte. Un patto oscuro si cela dietro quelle parole, una promessa che lascia Ahmose in preda a un crescente sospetto. La ricerca della statuetta si trasforma in un gioco pericoloso, avvolto nel mistero e nella tensione.;4;4;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+3;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Ahmose attende di fronte al tempio, quando viene improvvisamente aggredito da sconosciuti. È salvato dall'intervento di Nefertari, che dice di conoscere la verità sul padre e lo conduce in un passaggio segreto.
+
+TONO:
+Tensione, Misterioso
+
+AMBIENTAZIONE:
+Location: Tempio di Amon (Esterno)
+Orario: Notte
+Tempo: Sereno
+
+PERSONAGGI:
+Ahmose (Nobile)
+Nefertari (Ministro della Fede - Sacerdote)
+Aggressori (Popolano - Malvivente)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Il respiro di Ahmose resta sospeso mentre i passi frettolosi si allontanano alle sue spalle. Nefertari si avvicina rapida e decisa, la sua voce è un sussurro che taglia il silenzio: «Non c’è più tempo, devi fidarti di me». Senza attendere risposta, stringe il braccio del giovane nobile e lo trascina verso l’ombra di un antico muro. Mani esperte trovano una fessura nascosta: una pietra scivola via, rivelando un corridoio buio. Nefertari lo precede, la promessa di rivelazioni gravita tra di loro, mentre i rumori all’esterno si affievoliscono. Le risposte attendono nelle profondità del segreto.;5;3;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";"L'aria notturna avvolge Ahmose nell'attesa. Davanti al maestoso tempio, l'oscurità sembra nascondere ogni cosa, tranne la sua ansia crescente. All'improvviso, figure indistinte emergono dalle tenebre, un attacco rapido e brutale. La sorpresa lo immobilizza, ma prima che possa reagire, una presenza inaspettata interviene. È Nefertari, la cui autorità si impone sugli aggressori. Li respinge con poche, decise parole. Poi, rivolgendo lo sguardo ad Ahmose, sussurra: ""Conosco la verità su tuo padre. Seguimi."" Indica un punto nel muro del tempio, un passaggio nascosto che si apre nell'ombra.";5;4;5
+;;Gemma 3 27B Q4;Il silenzio della notte avvolge il temio quando Ahmose viene colto di sorpresa. Ombre si avventano su di lui, pugnali che brillano alla luce della luna. Prima che possa reagire, un intervento inaspettato lo salva. Nefertari, Ministro della Fede, respinge gli aggressori con ferma decisione. Il sacerdote rivela di conoscere la verità sul padre di Ahmose, una verità che si cela dietro segreti ancestrali. Con un gesto enigmatico, Nefertari conduce Ahmose in un passaggio nascosto, un labirinto di pietra che promette risposte, ma anche nuovi pericoli. La notte si fa ancora più oscura, carica di presagi.;4;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+4;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Nefertari rivela ad Ahmose che suo padre aveva scoperto un complotto contro il Faraone ordito da Amenhotep e Senenmut. La statuetta che cerca contiene un papiro con le prove della cospirazione.
+
+TONO:
+Rivelatore, Drammatico
+
+AMBIENTAZIONE:
+Location: Cripta (Tempio di Amon)
+Orario: Notte
+Tempo: Sereno
+
+PERSONAGGI:
+Ahmose (Nobile)
+Nefertari (Ministro della Fede - Sacerdote)
+Amenhotep (Ministro della Fede - Sommo Sacerdote)
+Senenmut (Alto Funzionario - Visir)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;La voce di Nefertari trema appena, ma le sue parole colpiscono come il tuono. Ahmose ascolta, incredulo, mentre la sacerdotessa svela la verità: suo padre aveva scoperto il tradimento di Amenhotep e Senenmut, celato nei sotterranei della fede stessa. Il silenzio gravido della cripta si incrina quando Nefertari offre la statuetta: al suo interno, un papiro arrotolato custodisce le prove della cospirazione. Ahmose esita solo un istante, poi afferra il manufatto, sentendo sulle spalle il peso del destino del faraone e della giustizia che ora dipende dalle sue prossime scelte.;4;5;2
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Nella cripta del Tempio di Amon, l'aria si fa densa. Nefertari rivela la verità: il padre di Ahmose aveva scoperto un complotto contro il Faraone. Amenhotep e Senenmut ne sono gli artefici. Le prove di questa cospirazione sono nascoste in una statuetta. Ora, Ahmose comprende la posta in gioco: non è solo la ricerca di un oggetto, ma la salvezza del regno. Il peso di questa rivelazione cala su di lui.;5;5;5
+;;Gemma 3 27B Q4;"Il vento sussurra tra le colonne, portando echi di antiche profezie. Nefertari conduce Ahmose nel cuore della cripta, un luogo dimenticato dagli uomini, ma non dagli dei. ""Tu sei figlio di un uomo coraggioso,"" inizia il sacerdote, la voce un sussurro solenne, ""che ha scoperto un tradimento celato tra le ombre della corte. Un complotto ordito da coloro che dovrebbero servire il Faraone con onore.""
+Una statuetta di basalto viene posta tra le mani di Ahmose. ""Questo oggetto è la chiave. Contiene la prova del tradimento di Amenhotep e Senenmut, uomini corrotti dal potere e assetati di dominio. Tu devi portare questa verità alla luce, prima che l'Egitto precipiti nel caos."" Il sacerdote fissa Ahmose con occhi penetranti. ""Ma attenzione, nobile. La verità ha un prezzo, e coloro che tramano nell'ombra non esiteranno a eliminare chiunque si opponga ai loro piani.""";4;5;2
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+5;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Ahmose e Nefertari si infiltrano nel palazzo del Visir per cercare la statuetta. La trovano, ma vengono scoperti dal Visir che confessa parzialmente il complotto accusando il solo Sommo Sacerdote.
+
+TONO:
+Tensione, Conflitto
+
+AMBIENTAZIONE:
+Location: Studio (Palazzo del Visir)
+Orario: Notte
+Tempo: Sereno
+
+PERSONAGGI:
+Ahmose (Nobile)
+Nefertari (Ministro della Fede - Sacerdote)
+Senenmut (Alto Funzionario - Visir)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Ahmose stringe la statuetta tra le mani, il respiro interrotto dal tonfo improvviso della porta. Nefertari si volta, la preghiera sulle labbra appena sussurrata, quando Senenmut si staglia di fronte a loro. Il Visir, voce fredda, ammette che il Sommo Sacerdote ha tramato nell’ombra, scaricando il peso della colpa su di lui. Ahmose incalza, la sua parola pesa come un giudizio, ma Nefertari percepisce la menzogna. Senenmut, spalle dritte, difende il proprio onore, negando ogni coinvolgimento. Nella stanza l’aria vibra di sospetti: le verità restano celate, il pericolo non è ancora svanito.;4;4;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Sotto la luna che splende chiara, Ahmose e Nefertari si muovono come ombre nel cuore del palazzo del Visir. La statuetta è a portata di mano. Appena la toccano, una voce tuona nell'aria: è Senenmut. “Avete osato entrare nella mia dimora!”. Il Visir li guarda, il suo sguardo carico di astuzia. “È Amenhotep l'artefice di tutto, lui solo!”. Le sue parole sono un colpo, una parziale confessione che accende la notte di nuovi interrogativi e pericoli.;5;5;5
+;;Gemma 3 27B Q4;La statuetta di basalto pulsa un calore inaspettato tra le mani di Ahmose. Un silenzio denso cala sullo studio, interrotto solo dal crepitio delle lampade a olio. Senenmut, il Visir, entra nella stanza, il volto impassibile. “Ho udito sussurri di una scoperta,” esordisce, la voce vellutata ma tagliente. “Un oggetto di valore, immagino. Spero che non si tratti di un’altra delle vostre stravaganze, Ahmose.” Nefertari si pone tra i due, lo sguardo fisso sul Visir. “Si tratta di giustizia, Senenmut. Ahmose ha scoperto prove di un complotto che minaccia la stabilità del regno.” Il Visir scoppia in una risata fredda. “Complotto? Sciocchezze. Sono solo le fantasie di un sacerdote visionario e un nobile in cerca di gloria.” La tensione nello studio si fa palpabile, un filo invisibile pronto a spezzarsi. Ahmose stringe la statuetta, consapevole che ogni sua mossa potrebbe decidere il destino dell'Egitto.;5;4;4
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+6;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Mentre fuggono dal palazzo, Nefertari viene ferita gravemente da una freccia. Ahmose è costretto ad abbandonare la donna per non essere catturato
+
+TONO:
+Tragico, Drammatico
+
+AMBIENTAZIONE:
+Location: Strade di Tebe
+Orario: Alba
+Tempo: Nebbioso
+
+PERSONAGGI:
+Ahmose (Nobile)
+Nefertari (Ministro della Fede - Sacerdote)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;La nebbia avvolge i passi incerti di Ahmose e Nefertari mentre si allontanano in silenzio dal palazzo. Un sibilo improvviso lacera l’alba: una freccia si conficca nel fianco della sacerdotessa, che soffoca un grido. Ahmose si china su di lei, le mani tremanti, la voce spezzata dal dolore e dalla paura. “Devi andare,” mormora Nefertari, il volto segnato dalla sofferenza ma fiero. I soldati si avvicinano: Ahmose esita, poi obbedisce, lasciando indietro chi, fino a quell’istante, era stata la sua unica alleata. La nebbia lo inghiotte, mentre alle sue spalle si spegne il respiro di una fede sacrificata.;5;4;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";L’aria dell’alba è pesante sulle strade nebbiose di Tebe mentre la fuga ha inizio. Un fischio secco, un colpo sordo. Ahmose sente la donna vacillare tra le sue braccia. Nefertari emette un gemito, una freccia le ha reciso il respiro. Il nobile comprende l’ineluttabilità: le grida si fanno più vicine, i passi risuonano sull’acciottolato bagnato.  Abbandonare Nefertari, lasciarla al suo destino segnato dal dolore, è l’unica via per non condividere la sua sorte. Il peso della scelta cala su Ahmose, un fardello più gravoso del pericolo che lo incalza.;5;4;5
+;;Gemma 3 27B Q4;La nebbia avvolge le strade di Tebe, attutendo i rumori della città che si risveglia. Ahmose corre, il cuore martellante nel petto, stringendo la statuetta di basalto. Dietro di lui, il galoppo furioso delle guardie di Senenmut si fa sempre più vicino. Un grido squarcia l’aria: una freccia sibila, colpendo Nefertari al fianco. La ministra della fede vacilla, le mani premute sulla ferita che si tinge di rosso. Ahmose si volta, gli occhi pieni di terrore. Non può fermarsi, deve portare a termine la sua missione, ma il dolore lancinante di Nefertari lo tormenta. La nebbia si dirada, rivelando la figura incombente del Visir, il volto segnato da un’espressione di trionfo. La speranza sembra svanire, inghiottita dall’ombra del tradimento.;4;4;4
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+7;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Ahmose riesce a raggiungere il palazzo reale e chiede udienza al Faraone, consegnando il papiro come prova delle sue accuse. 
+
+TONO:
+Drammatico, Tensione
+
+AMBIENTAZIONE:
+Location: Anticamera (Palazzo Reale)
+Orario: Mattina
+Tempo: Soleggiato
+
+PERSONAGGI:
+Ahmose (Nobile)
+Faraone (Membro Famiglia Reale - Faraone)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;"Ahmose entra nell’anticamera, il cuore martellante contro le costole, la voce dei ricordi ancora rovente nella mente. Si inginocchia davanti al Faraone e tende il papiro con mani sporche d’ansia. Le parole non servono: il rotolo è già denuncia, minaccia. Ogni respiro trattiene la sala nel silenzio, la tensione si attorciglia tra gli sguardi. Dall’alto del suo rango, il Faraone solleva il papiro senza fretta, osserva Ahmose; il comando si misura con la paura del nobile. In quell’istante sospeso, le sorti della verità e della colpa traballano sul filo invisibile della giustizia.";4;4;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Ahmose varca la soglia, il respiro affannoso. L’anticamera del palazzo reale accoglie la sua figura provata.  Chiede udienza al Faraone, la voce un sussurro roca che si impone sul silenzio reverenziale.  Tra le mani stringe il papiro, la prova inconfutabile del tradimento che brucia nell'anima.  Lo porge al sovrano, un gesto carico del peso degli eventi che lo hanno condotto fin qui, degli addii forzati, del sangue versato.  L’attesa si fa insopportabile.;5;5;5
+;;Gemma 3 27B Q4;Il silenzio dell’anticamera pesa come un macigno. Ahmose, esausto, deposita il papiro ai piedi del trono. L’aria vibra di un’attesa carica di sospetto. Il Faraone lo scruta, il volto impassibile, mentre i suoi consiglieri si scambiano sguardi eloquenti. Ogni parola, ogni gesto, è calcolato. L’accusa, incisa sulla pergamena, risuona muta ma potente, minacciando di infrangere l’equilibrio del regno. Ahmose trattiene il respiro, consapevole che il suo destino, e forse quello di tutta Tebe, è appeso a un filo. Il sole, alto nel cielo, illumina l’oro del palazzo, ma non riesce a scaldare il gelo che pervade l’ambiente.;4;4;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+8;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Ahmose assiste all'esecuzione del Visir e del Sommo Sacerdote e alla liberazione di suo padre. Il Faraone offre di reintegrare la famiglia nei suoi antichi privilegi ma Ahmose, segnato dalla vicenda, sceglie di partire per terre lontane.
+
+TONO:
+Drammatico, Risolutivo
+
+AMBIENTAZIONE:
+Location: Sala del Giudizio (Palazzo Reale)
+Orario: Mezzogiorno
+Tempo: Soleggiato
+
+PERSONAGGI:
+Ahmose (Nobile)
+Padre di Ahmose (Nobile)
+Faraone (Membro Famiglia Reale - Faraone)
+Senenmut (Alto Funzionario - Visir)
+Amenhotep (Ministro della Fede - Sommo Sacerdote)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;"Il silenzio grava quando il Faraone, con voce solenne, annuncia la sentenza: il Visir e il Sommo Sacerdote pagano con la vita i tradimenti commessi. Ahmose osserva, gli occhi fissi sulle conseguenze della giustizia regale; le catene di suo padre cadono, la libertà restituita, ma nulla basta a cancellare la cicatrice della perdita e del sospetto. Il Faraone apre le braccia nell’offerta di un ritorno agli onori, ma Ahmose, carico di dolore e determinazione, ringrazia con voce ferma: rifiuta i privilegi, preferendo scrivere il proprio destino lontano dalla corte, dove possa finalmente cercare pace.";5;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Un grido spezza la solennità della Sala del Giudizio. Senenmut e Amenhotep vengono condotti al loro destino, l'ombra del giusto castigo si abbatte su di loro. Il padre di Ahmose, finalmente libero, incrocia lo sguardo del figlio, un legame ritrovato nell'epilogo di tanto dolore. Il Faraone parla, le sue parole offrono il ritorno all’antico splendore, un balsamo per le ferite inferte. Ma l'anima di Ahmose è cambiata, segnata per sempre dagli eventi. Il passato brucia troppo intensamente. Le sue parole sono poche ma ferme: parte, verso terre lontane, lasciandosi alle spalle ciò che è stato.;5;5;5
+;;Gemma 3 27B Q4;Il Faraone emette il verdetto: Senenmut e Amenhotep, colpevoli di alto tradimento, vengono condotti al supplizio. Ahmose osserva, il cuore gravato, mentre suo padre viene liberato dalle catene. L’offerta di riabilitazione e antichi privilegi risuona nella sala, ma lo sguardo del nobile è perso nell’ombra. La vista del sangue versato ha infranto un’illusione. Senza una parola, Ahmose rifiuta l’onore, scegliendo l’esilio volontario. Si volge, lasciando alle spalle la corte e il peso di un regno macchiato, diretto verso un orizzonte di terre inesplorate, alla ricerca di un nuovo destino.;5;5;5

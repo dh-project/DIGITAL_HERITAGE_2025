@@ -1,0 +1,228 @@
+﻿Text 07;;;;;;
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+1;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Amenhotep riceve l'ordine di completare una tomba reale entro la prossima luna piena da Sennefer. Le risorse sono scarse e il tempo è poco.
+
+TONO:
+Preoccupazione
+
+AMBIENTAZIONE:
+Location: Villaggio degli Operai (Deir el-Medina)
+Orario: Mattina
+Tempo: Soleggiato
+
+PERSONAGGI:
+Amenhotep (Popolano - Capo degli Operai)
+Sennefer (Basso Funzionario - Sopraintendente del Lavoro)";ChatGPT 4.1;Il sole è già alto quando Sennefer convoca Amenhotep e, con voce ferma, gli comunica l’ordine: la tomba reale deve essere ultimata entro la prossima luna piena. Amenhotep ascolta, percependo tutto il peso delle parole del sopraintendente. Non osa protestare, consapevole della distanza tra i loro ruoli. Mentre gli operai fremono attorno a lui, sa che le scorte non basteranno e il tempo stringe. Il villaggio avverte la tensione che nasce da questa richiesta, troppo ambiziosa per mani stanche e materiali che scarseggiano. Amenhotep si inchina e acconsente, la preoccupazione che serra il suo animo rimane celata dietro il rispetto.;5;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";"Il sole sorge sul villaggio degli operai. Amenhotep, capo degli operai, riceve un visitatore inaspettato: Sennefer, il Sopraintendente del Lavoro. Le parole di Sennefer gelano il sangue: ""La tomba reale deve essere completata entro la prossima luna piena."" Amenhotep annuisce, la preoccupazione gli serra la gola. Le risorse scarseggiano, il tempo è inesorabile. Il peso della responsabilità grava sulle sue spalle, come le pietre che gli operai dovranno trasportare. Il compito è arduo, quasi impossibile, ma non può fallire.";5;5;5
+;;Gemma 3 27B Q4;Il sole picchia già forte su Deir el-Medina, ma Amenhotep non ha tempo per cercare l'ombra. L'ordine di Sennefer risuona ancora nelle sue orecchie: completare la tomba entro la prossima luna piena. Un compito arduo, con risorse che si assottigliano giorno dopo giorno. I suoi uomini lavorano senza sosta, ma la pietra sembra resistere, il tempo stringe. Ogni scalpellata è una corsa contro l'impossibile, una preoccupazione che gli attanaglia il cuore. Riusciranno a onorare la memoria del faraone prima che il cielo si oscuri?;4;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+2;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Amenhotep riunisce gli operai e spiega la situazione. Alcuni sono scettici, altri temono l'ira degli dei se il lavoro sarà affrettato.
+
+TONO:
+Tensione
+
+AMBIENTAZIONE:
+Location: Villaggio degli Operai (Deir el-Medina)
+Orario: Mattina
+Tempo: Soleggiato
+
+PERSONAGGI:
+Amenhotep (Popolano - Capo degli Operai)
+Operai (Popolano - Operaio)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Mentre il silenzio persiste, Amenhotep solleva la voce, annunciando con fermezza la necessità di lavorare più rapidamente. Un mormorio sovrasta l’aria: alcuni operai, accigliati, scuotono il capo e si scambiano sguardi sospettosi, incapaci di celare lo scetticismo. Altri, stringendo tra le dita talismani consunti, invocano silenziosi la protezione degli dei, temendo che un simile ardire possa attirare sventura. Amenhotep cerca di rassicurarli, ma la tensione cresce mentre richiama ciascuno al proprio dovere. Il timore dell’ira divina, palpabile come il sole che cuoce le schiene, serpeggia tra i presenti.;5;4;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Amenhotep si pone di fronte agli operai riuniti, il viso segnato dalla gravità delle notizie. Espone la richiesta, le parole misurate, ma il peso della scadenza incombe come il caldo del mattino. Un mormorio serpeggia tra la folla: alcuni volti si stringono nello scetticismo, dubbiosi di fronte all’impresa. Altri, con timore reverenziale, sussurrano dell'ira degli dei, preoccupati che l’affrettarsi del lavoro possa offendere le divinità e attirare sventura sulla loro comunità.;4;5;5
+;;Gemma 3 27B Q4;"Amenhotep alza la voce, cercando di sovrastare il martellare incessante. Spiega la fretta, l'ordine diretto di Sennefer. Sguardi incerti si incrociano tra gli operai. Un mormorio di disapprovazione serpeggia tra le file. Qualcuno teme che accelerare i lavori significhi trascurare la precisione, offendere gli dei con imperfezioni. Un vecchio scalpellino scuote il capo: ""La pietra non si piega alla nostra volontà, Amenhotep. E gli dei non perdonano la fretta."" La tensione è palpabile, un peso che grava su ogni braccio sollevato, su ogni colpo di scalpello. Il silenzio, rotto solo dal lavoro, è più eloquente di mille parole.";5;4;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+3;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Durante il lavoro, lo scalpellino Ipuy scopre una fessura nella roccia che potrebbe compromettere l'intera struttura. Condivide la sua scoperta con Amenhotep. 
+
+TONO:
+Tensione
+
+AMBIENTAZIONE:
+Location: Interno della Tomba
+Orario: Mezzogiorno
+Tempo: Sereno
+
+PERSONAGGI:
+Amenhotep (Popolano - Capo degli Operai)
+Ipuy (Popolano - Operaio)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;"Ipuy resta immobile, il freddo sudore gli imperla la fronte. Dalla fessura nella roccia proviene un sussurro sottile, quasi un respiro. Sa che segnalare il problema potrebbe fermare i lavori per giorni, ma tentenna soltanto un attimo. Amenhotep si avvicina, occhi duri e voce autoritaria. Ipuy, con voce tremante, gli confida la sua scoperta. Amenhotep stringe le labbra, pesa il rischio sulle spalle di tutti. Un solo ordine sbagliato potrebbe condannare l’opera. I due uomini si scambiano uno sguardo, il destino della tomba sospeso tra esitazione e urgenza; il tempo sembra improvvisamente rallentare.";5;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Ipuy, con passi incerti, si avvicina al suo Capo. Le mani, che poco prima brandivano gli strumenti, tremano leggermente mentre indica la parete rocciosa. Le sue parole spezzate rompono il silenzio teso, rivelando la fessura che si nasconde tra le pietre. Amenhotep si acciglia, il peso della responsabilità si abbatte su di lui. L'impresa già ardua si complica, la scadenza sembra allontanarsi ancora di più. Un'ombra di preoccupazione si diffonde, mentre la consapevolezza del pericolo si insinua tra gli operai.;5;5;5
+;;Gemma 3 27B Q4;Lo scalpello di Ipuy si arresta. Non contro la pietra, ma in essa. Un suono sordo, anomalo, spezza il ritmo della tomba. Ipuy chiama Amenhotep, la voce roca e carica di preoccupazione. Indica la fessura appena scoperta, una linea sottile che si insinua nel cuore della roccia. Amenhotep si china, studiando la crepa con occhi che si stringono. Un sudore freddo gli imperla la fronte. Non è un semplice difetto, ma una frattura che minaccia di inghiottire giorni di lavoro, forse l'intera struttura. Il capo degli operai trattiene il respiro, consapevole che la fretta di Sennefer potrebbe aver aperto una breccia ben più pericolosa di quella che vede davanti a sé.;5;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+4;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Amenhotep si reca al tempio e consulta un sacerdote per determinare se il problema è un segno degli dei. Il sacerdote esegue un rituale di divinazione e rivela che la fessura nasconde un segreto. 
+
+TONO:
+Mistico, Solenne
+
+AMBIENTAZIONE:
+Location: Piccolo Tempio (Valle dei Re)
+Orario: Primo Pomeriggio
+Tempo: Ventoso
+
+PERSONAGGI:
+Amenhotep (Popolano - Capo degli Operai)
+Khaemwaset (Ministro della Fede - Sacerdote
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Il sacerdote Khaemwaset, con voce profonda, pronuncia parole antiche che si perdono nel vento. Il silenzio diventa sacro mentre Amenhotep trattiene il respiro. L’incenso si dissolve nell’aria, e il suono dei sistri scandisce il battito di ciò che è nascosto. Khaemwaset, solenne, annuncia che la volontà degli dei indica un segreto celato nella fessura. Il sacerdote ammonisce Amenhotep: solo la purezza d’animo consente di penetrare l’enigma, poiché ciò che riposa nella fenditura appartiene sia agli uomini che agli spiriti. Amenhotep, riverente, china il capo e si prepara ad affrontare il mistero.;5;4;4
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Amenhotep si dirige verso il piccolo tempio, il vento gli scompiglia il lino.  Entra nel sacro recinto, dove Khaemwaset lo attende.  Amenhotep espone la sua preoccupazione. Il sacerdote, con gesti misurati, inizia il rito.  Si volge agli dei, le parole del rituale riempiono lo spazio.  Attende il responso, il silenzio carico di aspettativa.  Infine, Khaemwaset si rivolge ad Amenhotep, le sue parole sono gravi: la fessura non è semplice roccia, ma un velo che cela un segreto.;4;5;5
+;;Gemma 3 27B Q4;"Amenhotep si prostra nel piccolo tempio, il vento della valle sussurra antiche profezie. Khaemwaset, il sacerdote, depone incenso sull’altare, gli occhi chiusi in profonda concentrazione. Le dita affusolate tracciano simboli arcani sulla pietra, invocando gli spiriti guardiani. Il fumo danza, rivelando immagini sfuggenti. Una rivelazione scende: la fessura non è frutto del caso, né semplice cedimento della roccia. Essa cela un segreto, un enigma sigillato da ere. Un avvertimento risuona nel tempio: ciò che giace celato sotto la pietra è potente, e la sua scoperta cambierà il corso del destino. Il sacerdote apre gli occhi, lo sguardo fisso su Amenhotep: ""Il faraone non riposa in pace. La verità è nascosta, e il suo risveglio è imminente.""";5;4;4
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+5;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Amenhotep riporta le parole del sacerdote a Sennefer, ma questo ordina di sigillare tutto e continuare come previsto.
+
+TONO:
+Conflittuale, Misterioso
+
+AMBIENTAZIONE:
+Location: Interno della Tomba
+Orario: Pomeriggio
+Tempo: Sereno
+
+PERSONAGGI:
+Amenhotep (Popolano - Capo degli Operai)
+Sennefer (Basso Funzionario - Sopraintendente del Lavoro)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Amenhotep, con il tono teso di chi porta un fardello, riferisce a Sennefer le parole cariche d’avvertimento del sacerdote. Un breve silenzio si apre tra loro, denso come l’attesa di una tempesta. Sennefer, senza esitazione, impone che tutto venga sigillato: nessuno interromperà il lavoro, nessuna voce, nemmeno quella dei sacerdoti, turberà l’ordine che egli difende. Amenhotep esita un istante, gli occhi colmi di paura e di dubbio, mentre intorno cresce un’inquietudine palpabile. Ordini e sguardi si incrociano: l’obbedienza prevale, ma un’ombra di mistero si insinua tra gli operai, pronta a serpeggiare silenziosa nella tomba.;5;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Amenhotep torna alla tomba, il responso del sacerdote ancora gli risuona nella mente. Si rivolge a Sennefer, riferisce le parole di Khaemwaset, l'avvertimento sul segreto celato dietro la fessura. Ma Sennefer, sprezzante del presagio divino e forte della sua autorità, lo interrompe bruscamente. Senza esitazione, ordina di sigillare tutto, di ignorare il monito del sacerdote. La sua volontà prevale, un oscuro disegno si compie nell'ombra della tomba.;5;5;5
+;;Gemma 3 27B Q4;Amenhotep riferisce a Sennefer le parole del sacerdote, ma il funzionario reagisce con fredda determinazione. Un ordine secco spezza il silenzio della tomba: sigillare ogni discorso, continuare il lavoro come da programma. Sennefer non concede spazio a dubbi o paure. Le sue mani, abituate a controllare ogni dettaglio, stringono il sigillo reale. Un’ombra di inquietudine serpeggia tra gli operai, ma nessuno osa opporsi. Il sacerdote parla di un faraone inquieto, di un risveglio imminente, ma Sennefer non vuole sentire ragioni. La tomba deve essere completata, il segreto sepolto, il destino sigillato.;5;5;4
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+6;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Amenhotep torna alla tomba e ispeziona il passaggio, scoprendo antichi tesori e iscrizioni che raccontano di un principe dimenticato.
+
+TONO:
+Sorpresa
+
+AMBIENTAZIONE:
+Location: Interno della Tomba
+Orario: Notte
+Tempo: Ventoso
+
+PERSONAGGI:
+Amenhotep (Popolano - Capo degli Operai)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Un sussurro, quasi portato dal vento notturno, accompagna Amenhotep mentre avanza nel passaggio. Le sue mani sfiorano i rilievi delle pareti, tremanti di stupore: tra le ombre emergono oro, amuleti scintillanti, offerte consumate dal tempo. Ma sono le iscrizioni che fermano il fiato: raccontano di un giovane principe, cancellato dalla memoria e dall’onore, il cui nome è inciso con rabbia e speranza. Amenhotep, capace solo di umile reverenza, intuisce il peso del segreto: chi ha voluto che tutto questo venisse nascosto? Un timore sacro lo invade, avvertendo che la storia della tomba è appena iniziata.;5;4;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Eppure, qualcosa spinge Amenhotep a disobbedire all'ordine del supervisore. Tornato alla tomba, la fessura ancora lo attira.  Con circospezione, si introduce nel passaggio nascosto. La debole luce della sua lampada svela un mondo segreto. Tesori dimenticati brillano flebilmente, antiche iscrizioni ricoprono le pareti polverose. Le sue dita seguono i geroglifici, decifrando storie di un principe di cui nessuno ha memoria, una figura cancellata dal tempo. Una rivelazione inattesa si svela nel cuore dell'oscurità.;5;5;5
+;;Gemma 3 27B Q4;Amenhotep, rientrato nel cuore della tomba, scruta il passaggio appena rivelato. La polvere danza in un vortice, sollevata da un vento freddo che sembra provenire dalle viscere della terra. Non sono solo pietre e oscurità ad accoglierlo, ma un tesoro dimenticato: vasi d'alabastro, bracciali d'oro e, incise nella roccia, iscrizioni che narrano di un principe erede, caduto nell’oblio. Un nome sussurrato dal tempo, una storia celata. Amenhotep avverte un brivido, non per il freddo, ma per la scoperta inattesa. Chi era questo principe? E perché la sua memoria è stata cancellata? La tomba, un tempo solo pietra e segreti, ora rivela un enigma.;4;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+7;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Il giorno seguente Amenhotep si presenta al Visir e rivela la scoperta. Il Visir ordina un'indagine e sospende temporaneamente i lavori della tomba reale.
+
+TONO:
+Neutro
+
+AMBIENTAZIONE:
+Location: Sala delle Udienze (Palazzo Reale)
+Orario: Mattina
+Tempo: Soleggiato
+
+PERSONAGGI:
+Amenhotep (Popolano - Capo degli Operai)
+Rekhmire (Alto Funzionario - Visir)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Amenhotep, con voce salda, espone ogni dettaglio della scoperta davanti al Visir Rekhmire, che ascolta senza tradire emozione. La sala resta silenziosa mentre il Visir pondera le implicazioni, consapevole del proprio dovere verso la giustizia e la sicurezza del sovrano. Dopo un breve cenno, Rekhmire ordina che venga immediatamente avviata un’indagine e che i lavori nella tomba reale siano sospesi sino a nuovo ordine. Amenhotep si inchina in segno di rispetto e, su invito del Visir, si ritira tra gli sguardi attenti dei presenti, lasciando la sala carica di attesa e inquietudine.;5;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Il sole del mattino illumina la sala delle udienze. Amenhotep si presenta al cospetto del Visir Rekhmire e, con il dovuto rispetto, espone la sua scoperta.  Il Visir ascolta con attenzione le parole del caposquadra. Dopo un breve silenzio, Rekhmire impartisce i suoi ordini. Dispone l’avvio di un’indagine approfondita sulla questione e, per garantire l'integrità della scoperta e il corretto svolgimento degli accertamenti, ordina la sospensione temporanea di tutti i lavori nella tomba reale.;5;5;5
+;;Gemma 3 27B Q4;Amenhotep si prostra dinanzi al Visir Rekhmire, esponendo la scoperta avvenuta nel cuore della tomba reale. Un principe dimenticato, un nome cancellato dalla storia, riemerso dalle tenebre. Rekhmire ascolta in silenzio, il volto impassibile. Un sospiro appena percettibile rompe il silenzio della sala. L'indagine è immediata, i lavori sospesi. Il Visir ordina di sigillare l'accesso, di preservare ogni dettaglio. La scoperta è sconvolgente, un'ombra sul regno. Chi osò cancellare un erede al trono? E quali conseguenze porterà questa rivelazione? Il segreto del principe erede è ora nelle mani del Visir, un enigma da svelare.;5;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+8;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Il Faraone in persona visita il sito e decreta che la tomba del principe dimenticato sarà restaurata. Amenhotep viene nominato Sopraintendente del nuovo progetto.
+
+TONO:
+Trionfante, Solenne
+
+AMBIENTAZIONE:
+Location: Ingresso della Tomba (Valle dei Re)
+Orario: Mezzogiorno
+Tempo: Soleggiato
+
+PERSONAGGI:
+Amenhotep (Popolano - Capo degli Operai)
+Faraone (Membro Famiglia Reale - Faraone)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Un improvviso silenzio carico di rispetto cala tra gli astanti mentre il Faraone dichiara la sua volontà: la tomba del principe dimenticato vivrà di nuova gloria. Davanti al suo decreto, Amenhotep si inchina con profonda riverenza, consapevole della grande responsabilità affidatagli. Il popolo assiste commosso mentre tra le mani callose di un umile capo operaio viene posto il destino della memoria reale. Nell’aria si sente il peso della Storia: il restauro non è solo un lavoro, ma un onore concesso dall’autorità più alta. Così, sotto il sole implacabile, il progetto prende vita destinato all’eternità.;5;4;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Il sole di mezzogiorno batte implacabile sulla Valle dei Re. Giunge il Faraone in persona e, con voce che riverbera nell’aria assolata, proclama la sua volontà: la tomba dimenticata del principe sarà restituita al suo splendore. Il capo degli operai, Amenhotep, viene onorato con un nuovo e gravoso incarico: Sopraintendente del maestoso progetto di restauro. Un sussulto di eccitazione serpeggia tra i presenti.;4;5;5
+;;Gemma 3 27B Q4;Il sole raggiunge il suo zenit, illuminando l'ingresso della tomba dimenticata. Il Faraone stesso giunge, maestoso, decretando la restaurazione del sepolcro del principe perduto. Un boato di voci accoglie l'annuncio, un eco di speranza nella Valle dei Re. Amenhotep, nominato Sopraintendente del progetto, si erge, il cuore colmo di onore. Un compito arduo, ma necessario, per restituire dignità a un nome cancellato dalla storia. La luce del sole sembra benedire l'impresa, mentre gli operai si preparano a ridare vita a un passato dimenticato. Il regno intero celebra la decisione del Faraone, un atto di giustizia che risuona tra le sabbie del tempo.;5;5;5

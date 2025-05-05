@@ -1,0 +1,230 @@
+﻿Text 02;;;;;;
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+1;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Nefertari riceve l'incarico dal Visir Menkheperure di recuperare un antico papiro medico scomparso dalla Biblioteca del Tempio. Il documento contiene rimedi essenziali per combattere un'epidemia che minaccia la città.
+
+TONO:
+Urgente, Introspettivo
+
+AMBIENTAZIONE:
+Location: Sala delle Udienze (Palazzo del Visir)
+Orario: Alba
+Tempo: Sereno
+
+PERSONAGGI:
+Nefertari (Basso Funzionario - Scriba)
+Menkheperure (Alto Funzionario - Visir)";ChatGPT 4.1;"Nel silenzio teso dell’alba, Nefertari ascolta ogni parola del Visir Menkheperure, che le affida la missione con voce grave e occhi fermi. L’epidemia dilaga, la città è minacciata: il papiro perduto custodisce cure che nessuno ricorda più, speranza e salvezza per tutti. Di fronte all’autorità del Visir, Nefertari sente sulle spalle il peso di centinaia di vite: non può fallire, anche se la responsabilità la sovrasta. Mentre riceve l’ordine, il cuore le martella nel petto; la sua mente corre tra i doveri, la paura, e il coraggio che tenta di farsi strada.";5;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";All'alba, il sole filtra appena nella Sala delle Udienze. Menkheperure, il Visir, guarda Nefertari, la scriba. Le parole che pronuncia sono gravi, cariche dell'urgenza che avvolge la città. Un antico papiro medico, custode di segreti vitali per combattere l'epidemia, è scomparso dalla Biblioteca del Tempio. È un compito arduo, uno che solo pochi possono affrontare, ma la sorte della città è appesa a un filo. Nefertari accetta l'incarico, sentendo il peso della responsabilità ricadere sulle sue spalle. Il suo cuore batte forte, consapevole della sfida che l'attende.;5;5;5
+;;Gemma 3 27B Q4;L’alba filtra tiepida nella Sala delle Udenze, ma non porta sollievo. Menkheperure espone la gravità della situazione: un’ombra di malattia si allunga su Tebe, e con essa la paura. Il papiro, custodito tra le pergamene del Tempio, contiene la conoscenza perduta per arginare il male. Nefertari percepisce il peso di tale incarico, la responsabilità che le viene affidata. Non è una questione di prestigio, ma di vite. Ogni ora perduta è un’opportunità mancata, un sussurro di morte che si avvicina. Il Visir la osserva, scrutando la determinazione negli occhi di una scriba che, in quel momento, diventa l’ultima speranza.;4;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+2;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Nella Biblioteca del Tempio, Nefertari interroga il vecchio Ptahhotep che rievoca con nostalgia i giorni in cui il papiro scomparso veniva consultato dai medici della corte reale.
+
+TONO:
+Nostalgico, Contemplativo
+
+AMBIENTAZIONE:
+Location: Biblioteca (Tempio di Thot)
+Orario: Mattina
+Tempo: Soleggiato
+
+PERSONAGGI:
+Nefertari (Basso Funzionario - Scriba)
+Ptahhotep (Basso Funzionario - Bibliotecario)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Silenzio. Nefertari ascolta, mentre Ptahhotep lasciandosi trasportare dai ricordi, evoca sommessamente le mattine in cui i medici reali si inchinavano davanti ai volumi più venerati. Parla delle dita tremanti che sfioravano le parole antiche del papiro perduto, cercando conforto per la sofferenza degli uomini e il favore degli dèi. In quella memoria, la biblioteca vibra di passaggi sussurrati e preziose conoscenze condivise tra pochi, e Ptahhotep accenna appena a un sorriso: “Eravamo custodi di segreti… Oggi, restano solo domande.” Il peso della responsabilità passa ora silenziosamente nelle mani di Nefertari.;4;4;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Nella Biblioteca del Tempio, i raggi del sole mattutino danzano sulla polvere sospesa. Nefertari incontra Ptahhotep, il vecchio bibliotecario. La scriba interroga l'anziano sulla scomparsa del papiro. Ptahhotep sospira, la sua voce porta il peso degli anni e di un tempo che non c'è più. Ricorda i giorni in cui quel papiro, scrigno di sapienza millenaria, veniva consultato dai medici della corte reale. Un'era di conoscenza e guarigione, ora velata dal mistero e dalla perdita. Le sue parole creano un ponte tra il passato glorioso e il presente incerto.;5;5;5
+;;Gemma 3 27B Q4;La luce del mattino accarezza i rotoli di papiro, mentre Ptahhotep, con voce flebile, rievoca tempi passati. Ricorda le mani esperte dei medici reali che sfogliavano quel manoscritto, alla ricerca di rimedi per ogni afflizione. Ogni parola era un balsamo, ogni formula un’invocazione alla guarigione. Ora, il silenzio incombe su quelle pagine, un’eco di conoscenza perduta. Nefertari ascolta, assorbendo ogni ricordo, ogni sfumatura di un sapere che potrebbe ancora salvare vite. Il peso della sua missione si fa più intenso, un fardello di speranza avvolto nella nostalgia del tempo che fu.;5;4;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+3;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Seguendo gli indizi di Ptahhotep, Nefertari visita l'anziano medico reale Bahir ormai in pensione. L'uomo rivela che il papiro fu prestato a un nobile malato che forse non lo ha mai restituito.
+
+TONO:
+Rivelatore, Compassionevole
+
+AMBIENTAZIONE:
+Location: Giardino (Casa Umile)
+Orario: Mezzogiorno
+Tempo: Ventoso
+
+PERSONAGGI:
+Nefertari (Basso Funzionario - Scriba)
+Bahir (Popolano - Medico)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Nefertari ascolta le parole di Bahir, che con voce affaticata ma sincera le spiega come il papiro sia uscito dalla sua custodia tempo addietro, prestato a un nobile in preda alla malattia. Egli confida a Nefertari il peso del dubbio che lo accompagna da allora: forse il testo non è mai stato restituito, forse è rimasto dimenticato tra gli oggetti di chi aveva il potere, ma non la memoria. Nefertari ringrazia con rispetto, cogliendo nel racconto del medico non solo una traccia, ma anche la malinconia delle cose perdute che per qualcuno erano state preziose.;5;4;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Giunge Nefertari, gli indizi di Ptahhotep la guidano al cospetto dell'anziano Bahir. Il vento solleva la polvere del giardino. Bahir, con voce affaticata dal tempo, svela un segreto custodito. Il papiro, fonte di speranza per molti, fu affidato a un nobile malato. Un prestito forse mai onorato. Un eco di compassione si leva dalle sue parole, un rammarico per la sapienza andata perduta. La ricerca di Nefertari prosegue, un filo sottile la lega ora a un passato di sofferenza e forse di inganno.;4;5;5
+;;Gemma 3 27B Q4;Il vento sussurra tra le canne, mentre Nefertari attende con rispetto le parole di Bahir. L’anziano medico, con gli occhi velati, racconta di Senmut, un nobile potente, consumato da un male oscuro, che implorò il papiro per trovare sollievo. Bahir ricorda il suo sguardo febbrile, la disperazione celata dietro l’orgoglio. Non seppe mai se la conoscenza antica lo aiutò, né se il prezioso rotollo tornò nelle mani di chi ne custodiva il sapere. Un peso, confessa, lo tormenta ancora, l’incertezza di un debito mai saldato. Nefertari ascolta, consapevole che la ricerca si fa più complessa, un filo fragile che conduce a un uomo potente e forse dimenticato.;4;4;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+4;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Nefertari scopre che il nobile in questione è morto, ma sua figlia potrebbe sapere del papiro. La giovane Satiah accoglie Nefertari con sospetto, temendo accuse contro la memoria del padre.
+
+TONO:
+Teso, Diplomatico
+
+AMBIENTAZIONE:
+Location: Sala Ricevimento (Casa Lussuosa)
+Orario: Pomeriggio
+Tempo: Parzialmente nuvoloso
+
+PERSONAGGI:
+Nefertari (Basso Funzionario - Scriba)
+Satiah (Nobile)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;"Nefertari si avvicina con passo misurato; la notizia della morte aleggia pesante tra le mura silenziose. Satiah la fronteggia con sguardo chiuso, le parole pronte a difendere l’onore paterno. Nefertari si inchina appena, scegliendo con cura ogni frase, cosciente del fragile equilibrio: “Non cerco colpe, Satiah, ma verità. Il papiro smarrito può salvare molte persone.” Satiah stringe le mani, la voce sottile ma decisa: “Mio padre ha sempre servito il Ma’at. Non avrei tollerato menzogne sotto questo tetto.” La tensione resta sospesa, mentre Nefertari attende un segnale d’apertura, senza oltrepassare il rispetto dovuto.";5;4;4
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Il vento continua a sibilare mentre Nefertari apprende la notizia: il nobile che cercava non è più tra i vivi. Ma non tutto è perduto. Una scintilla di speranza si accende al pensiero di sua figlia, Satiah. Forse la giovane sa qualcosa del papiro.  Nefertari raggiunge la dimora. Satiah la accoglie, ma un’ombra di sospetto le vela lo sguardo. Teme che la visita di Nefertari nasconda accuse contro la memoria del suo defunto padre, un peso che Satiah fatica a sostenere. L’aria si fa tesa.;5;5;5
+;;Gemma 3 27B Q4;Il silenzio nella sala ricevimenti pesa come un’accusa. Satiah osserva Nefertari con uno sguardo che non concede nulla, un velo di sospetto che offusca il dolore. “Mio padre era un uomo rispettato,” dichiara, la voce ferma nonostante il tremito appena percettibile. Nefertari intuisce la paura che si cela dietro quelle parole, la difesa di un ricordo che teme sia macchiato. “Non intendo offendere la sua memoria, nobildonna,” risponde con cautela, “ma un antico papiro potrebbe essere la chiave per alleviare sofferenze.” Satiah incrocia le braccia, un gesto che parla di diffidenza e orgoglio ferito. Ogni parola è una prova, ogni sguardo un calcolo.;5;4;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+5;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Satiah confessa che suo padre, colpito dal valore del papiro, lo cedette a un mercante straniero in cambio di rarissimi unguenti curativi che sperava potessero salvarlo.
+
+TONO:
+Confidente, Triste
+
+AMBIENTAZIONE:
+Location: Giardino Interno (Casa Lussuosa)
+Orario: Tramonto
+Tempo: Sereno
+
+PERSONAGGI:
+Nefertari (Basso Funzionario - Scriba)
+Satiah (Nobile)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Un silenzio cade tra le due donne. Satiah, con voce rotta, spiega come la malattia si sia insinuata nella sua casa come un’ombra lenta. Rivolge lo sguardo a Nefertari e confessa che, spinto dalla disperazione e dal timore di perdere la vita, suo padre ha sacrificato il papiro più prezioso, cedendolo a un mercante straniero. In cambio, riceve quei rarissimi unguenti dagli aromi sconosciuti, riponendo in essi ogni speranza. La scelta grava tra loro, sospesa fra affetto e colpa, mentre Nefertari comprende il peso di un sacrificio che le parole non sanno lenire.;3;5;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Satiah, con un sospiro che tradisce tutto il suo dolore, le confessa la verità. Il padre, colpito dalla bellezza e dal valore di quel papiro, in un ultimo, disperato tentativo di salvarsi, lo cedette. Lo diede a un mercante venuto da terre lontane, in cambio di unguenti rari, sperando che potessero curarlo. Le parole di Satiah risuonano nel silenzio del giardino, mentre il sole scende all'orizzonte, tingendo il cielo di malinconia.;5;5;5
+;;Gemma 3 27B Q4;Il ricordo le sfugge di mano, un sussurro amaro nel crepuscolo che avanza. Satiah rivela che il papiro, prezioso sì, divenne moneta di scambio per la speranza. Unguenti rari, promessa di sollievo per un padre in declino, sigillarono il patto con il mercante. Un sacrificio silenzioso, compiuto nell'ombra del bisogno. Nefertari percepisce il peso di quella scelta, la ferita aperta di un orgoglio ferito. Non è la perdita del bene ad addolorare Satiah, ma il modo in cui è avvenuta, il prezzo pagato per un’illusione di guarigione.;4;5;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+6;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Al porto, Nefertari interroga i mercanti sullo straniero descritto dalla nobildonna. Kha ricorda l'uomo e rivela che si era diretto verso un piccolo tempio abbandonato nel deserto.
+
+TONO:
+Misterioso
+
+AMBIENTAZIONE:
+Location: Porto di Tebe
+Orario: Crepuscolo
+Tempo: Sereno
+
+PERSONAGGI:
+Nefertari (Basso Funzionario - Scriba)
+Kha (Popolano - Mercante)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;"Le dita di Nefertari scorrono rapide sul rotolo che tiene in mano, mentre la sua voce ferma esige risposte. Kha, ancora guardingo, soppesa le parole: confessa di aver notato lo straniero acquistare datteri in silenzio, uno sguardo furtivo rivolto al molo. Mormora che l’uomo, insolitamente attento a non essere seguito, si perde presto tra le carovane in partenza; la sua direzione è chiara—si avventura verso l’antico tempio che giace dimenticato dal vento del deserto. Un brivido attraversa i presenti: Nefertari intuisce che l’enigma si addensa nell’oscurità che cala.";4;4;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Mentre le ombre del crepuscolo si allungano sul porto di Tebe, Nefertari, con l'urgenza che le divora l'anima, interroga i mercanti ammassati tra i barconi. La sua voce, ferma ma carica di apprensione, ricerca notizie di un forestiero. Un vecchio mercante, Kha, tra i profumi salmastri e il rumore dei legni che cigolano, annuisce. Sì, ricorda quell'uomo, la sua presenza inusuale tra le merci esotiche. E poi, con un sussurro che sembra perdersi nel vento calante, rivela la sua destinazione: un tempio dimenticato, inghiottito dalla sabbia del deserto.;5;5;5
+;;Gemma 3 27B Q4;La polvere del porto si alza, danzando nel crepuscolo. Nefertari insiste, la voce un filo sottile che si perde tra le voci dei mercanti. Kha, le mani ruvide segnate dal sole, riconosce la descrizione. Un uomo solitario, avvolto nel silenzio, diretto verso le sabbie dimenticate. Un tempio abbandonato, sussurra, dove il vento scolpisce storie perdute. Lì, tra le pietre sbiadite, sembrava cercare qualcosa di più prezioso del commercio, un eco di un passato che non vuole morire. Un brivido percorre la schiena di Nefertari, un presentimento oscuro si insinua tra le ombre.;5;4;4
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+7;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Nel tempio abbandonato, Nefertari trova il mercante morente, colpito dall'epidemia. L'uomo le rivela dove ha nascosto il papiro, sperando che il suo gesto redima il male involontariamente causato.
+
+TONO:
+Drammatico, Speranzoso
+
+AMBIENTAZIONE:
+Location: Tempio Abbandonato (Deserto)
+Orario: Notte
+Tempo: Sereno
+
+PERSONAGGI:
+Nefertari (Basso Funzionario - Scriba)
+Shamash (Popolano - Mercante Straniero)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Il respiro di Shamash si fa più lento, ma la voce tremula riesce ancora a guidare Nefertari. Lei ascolta con attenzione, le dita strette attorno al rotolo di lino che il mercante le porge, perché le sue ultime parole possano davvero restituire pace a chi è stato colpito. Con umiltà, Nefertari promette che proteggerà ciò che lui confida e, nel silenzio, il giuramento si fonde alla speranza. Anche nella disperazione, la dignità di Shamash e il dovere di Nefertari s’incontrano, e tra le ombre il lascito del mercante trova finalmente una custode degna.;5;2;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Sotto la notte stellata del deserto, Nefertari penetra nel silenzio del tempio dimenticato. Tra le antiche colonne, trova finalmente l'uomo che cerca. Il mercante giace in preda al male che si propaga, la voce affannata spezzata dalla malattia. Spera nella redenzione. Con un ultimo respiro di speranza sussurra il luogo in cui ha celato il papiro: lì, tra le rovine, attende di essere trovato.;5;5;5
+;;Gemma 3 27B Q4;La mano di Shamash, fredda e tremante, afferra il braccio di Nefertari. Un rantolo spezza il silenzio del tempio, interrotto solo dal soffio del vento notturno. “Il papiro… è nascosto sotto la statua di Sekhmet,” sussurra il mercante, gli occhi velati dalla febbre. “Ho portato la malattia qui, involontariamente… questo gesto… possa placare gli dei.” Un ultimo respiro, un’ultima speranza affidata alla giovane scriba. Nefertari percepisce il peso di quella confessione, la responsabilità di un segreto che potrebbe cambiare il destino di molti. La luce della luna illumina il volto pallido del mercante, un ultimo sguardo che implora redenzione.;5;4;5
+;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence
+8;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Nefertari torna al palazzo con il prezioso papiro e assiste i medici nella preparazione della cura. Il Faraone in persona la ringrazia, nominandola custode della Biblioteca Reale per il suo coraggio e dedizione.
+
+TONO:
+Celebrativo, Speranzoso
+
+AMBIENTAZIONE:
+Location: Sala Medica (Palazzo Reale)
+Orario: Alba
+Tempo: Sereno
+
+PERSONAGGI:
+Nefertari (Basso Funzionario - Scriba)
+Medici (Popolano - Medico)
+Amenhotep (Membro Famiglia Reale - Faraone)
+
+SCENA PRECEDENTE:
+INSERIRE TESTO GENERATO DALLO STESSO MODELLO PER LA SCENA PRECEDENTE";ChatGPT 4.1;Nel silenzio dell’alba, Nefertari porge il papiro tra le mani tremanti dei medici, che lo srotolano con venerazione, leggendo le istruzioni salvifiche. Le erbe vengono miscelate in silenziosa concentrazione, guidati dalle sue precise indicazioni. Amenhotep osserva la scena con gratitudine: si avvicina e, davanti a tutti, pronuncia parole di lode che si imprimono nei cuori presenti. Con solennità, la nomina custode della Biblioteca Reale, affidandole il sapere più prezioso del regno. Un senso di rinnovata speranza si diffonde: oggi, la conoscenza e il coraggio ridanno forza al palazzo e al suo popolo.;5;4;5
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";All’alba, nella Sala Medica del Palazzo Reale, Nefertari arriva. Il prezioso papiro è stretto tra le sue mani. Aiuta i medici, mescolano ingredienti rari, preparano la cura con gesti precisi, carichi di speranza.  Amenhotep, il Faraone, si avvicina. Le sue parole risuonano di gratitudine. Per il suo coraggio, per la sua dedizione, la nomina custode della Biblioteca Reale. Un nuovo inizio si profila all'orizzonte.;4;5;5
+;;Gemma 3 27B Q4;Il profumo di mirra e incenso accoglie Nefertari al ritorno. Nella Sala Medica, i medici attendono, le mani esperte già immerse in unguenti e polveri curative. Un mormorio di speranza si alza quando la scriba depone il prezioso rotolo. Amenhotep, il Faraone, si avvicina, lo sguardo colmo di gratitudine. “Hai dimostrato coraggio e dedizione, Nefertari,” proclama con voce solenne. “Per il tuo valore, ti nomino custode della Biblioteca Reale. Che la saggezza antica sia al sicuro sotto la tua protezione, e che la luce della conoscenza illumini il nostro regno.” Un nuovo giorno sorge, portando con sé la promessa di guarigione e prosperità.;5;5;5

@@ -1,0 +1,1542 @@
+﻿Scenes from SCRIPT A;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence;;;;;;;;;;;;;;;;;;;
+01;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Nehesi informa Intef che gli Operai stanno protestando di fronte al Tempio poiché le razioni di grano sono ferme al porto. Alcuni di loro vogliono continuare la protesta, altri temono ritorsioni. 
+
+TONO:
+Tensione, Conflitto
+
+AMBIENTAZIONE:
+Location: Tempio di Amon (Esterno)
+Orario: Mattina
+Tempo: Soleggiato
+
+PERSONAGGI:
+Intef (Basso Funzionario - Scriba)
+Nehesi (Popolano - Anziano del Villaggio)
+Operai (Popolano - Operaio)";ChatGPT 4.1;Nehesi si avvicina a Intef con il volto segnato dall’ansia e sussurra con voce tremante: gli operai si sono radunati davanti al Tempio, protestano furiosi perché le razioni di grano sono ferme al porto. Alcuni guardano verso il cielo, pronti a continuare senza paura, mentre altri temono ritorsioni che potrebbero scatenare la collera del sovrano. L’aria si carica di tensione, il sole splende impietoso su questa scena di conflitto, dove il fragile equilibrio tra ordine e rivolta rischia di rompersi in ogni istante.;5;5;5;;;;;;;;;;;;;;;;;;;
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Il sole del mattino illumina la facciata del Tempio di Amon. Nehesi, con il fiato corto, si avvicina a Intef. Le sue parole rompono il silenzio: “Le razioni di grano sono bloccate al porto, Intef. Gli operai… protestano di fronte al Tempio”. Si percepisce la tensione nella sua voce. C’è chi invoca una protesta risoluta, chi invece teme le inevitabili conseguenze. Le loro voci si mescolano, un coro di frustrazione e incertezza.;4;5;5;;;;;;;;;;;;;;;;;;;
+;;Gemma 3 27B Q4;Il sole picchia già forte, ma la tensione è palpabile. Nehesi si avvicina a Intef, la voce roca, portando con sé l’eco di un mormorio crescente. “Gli operai… sono di fronte al tempio. Le razioni di grano non arrivano, Intef. Parlano di fermare il lavoro, di non tornare alle cave finché non vedranno il grano.” Un uomo si fa largo tra la folla, il volto segnato dalla fatica e dalla rabbia. “Abbiamo famiglie da sfamare! Non possiamo aspettare ancora!” Altri, più timorosi, lo richiamano. “Non sfidare il Faraone… le conseguenze sarebbero terribili.” Intef percepisce il peso della situazione: un’esplosione è imminente.;4;5;5;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence;;;;;;;;;;;;;;;;;;;
+01A;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Intef decide di parlare con gli Operai, che accusano lo scriba Panehsy di corruzione
+
+TONO:
+Tensione, Conflitto
+
+AMBIENTAZIONE:
+Location: Tempio di Amon (Esterno)
+Orario: Mattina
+Tempo: Soleggiato
+
+PERSONAGGI:
+Intef (Basso Funzionario - Scriba)
+Panhesy (Basso Funzionario - Scriba)
+Operai (Popolano - Operaio)
+
+SCENA PRECEDENTE:";ChatGPT 4.1;Intef si avvicina agli operai con passo deciso, il volto arcuato dal dubbio e dalla rabbia. La sua voce si fa severa mentre chiede spiegazioni sull’accusa a Panehsy, il suo sguardo intenso cattura l’attenzione di tutti. Gli operai, ancora tremanti, lanciano accuse e protestano, ma lui, fermo, domanda se ci siano prove che giustifichino questa sfiducia. Il sole brucia senza pietà, mentre il conflitto tra ordine e ribellione diventa palpabile, sospeso in una tensione che potrebbe scoppiare da un momento all’altro.;5;4;5;;;;;;;;;;;;;;;;;;;
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Intef si fa largo tra la folla in fermento. Gli operai, i volti tesi per la fame, lo accolgono con un mormorio che si trasforma in un coro di accuse. “Panehsy! È colpa sua!”, grida qualcuno. “Corrotto!”, aggiunge un altro. Le parole si accavallano, cariche di rabbia e disperazione. Intef alza la mano, un gesto per imporre silenzio, per farsi ascoltare. Ma il risentimento è palpabile, denso come la polvere che si solleva dai loro piedi. Il suo tentativo di calmare gli animi si scontra con un muro di frustrazione, una tensione che minaccia di esplodere.;5;5;5;;;;;;;;;;;;;;;;;;;
+;;Gemma 3 27B Q4;"Il sole inonda la piazza antistante il tempio, ma non scalda gli animi. Intef si fa largo tra la folla, lo sguardo fisso sui volti induriti degli operai. “Parlate!” esclama, la voce ferma. Un uomo si fa avanti, le mani strette a pugno. “Lo scriba Panhesy… ci deruba! Il grano destinato a noi finisce altrove, nelle case dei funzionari!” Le accuse volano, pesanti come pietre. Altri operai annuiscono, confermando le parole del compagno. Intef avverte la rabbia crescere, minacciando di sfociare in aperta rivolta. ""Panhesy deve rispondere di queste accuse,"" afferma, cercando di mantenere un barlume di controllo sulla situazione.";5;5;5;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence;;;;;;;;;;;;;;;;;;;
+01B;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Intef si reca ai Magazzini di Deir el-Medina. Qui parla con il Guardiano, che si lamenta del fatto che ci sia qualcosa di poco chiaro al porto
+
+TONO:
+Misterioso
+
+AMBIENTAZIONE:
+Location: Magazzini (Deir el-Medina)
+Orario: Mattina
+Tempo: Soleggiato
+
+PERSONAGGI:
+Intef (Basso Funzionario - Scriba)
+Guardiano (Popolano - Guardiano)
+
+SCENA PRECEDENTE:";ChatGPT 4.1;Intef si avvicina ai magazzini di Deir el-Medina, il sole splende implacabile e le ombre dei manufatti si allungano precariamente. Il Guardiano lo scruta con insospettabile attenzione, ma sembra nervoso. Con voce bassa e grave, il Guardiano si lamenta di un movimento sospetto al porto, qualcosa di oscuro che aleggia tra i magazzini, un segreto che minaccia di sconvolgere tutto. Intef percepisce la tensione, una presenza che sfugge alla comprensione, mentre il mistero si infittisce, rivelando che i confini tra ordine e caos sono più sottili di quanto si creda.;4;5;5;;;;;;;;;;;;;;;;;;;
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Intef si dirige ai Magazzini di Deir el-Medina. Il Guardiano lo accoglie con un’aria preoccupata. “Qualcosa non quadra al porto, signore,” esordisce, la voce bassa. “Movimenti strani… la gente non si spiega.” Non aggiunge altro, ma l’inquietudine traspare dai suoi gesti, dallo sguardo che fissa un punto lontano, oltre le mura. Intef percepisce il non detto, l'ombra che si allunga sul porto.;4;5;5;;;;;;;;;;;;;;;;;;;
+;;Gemma 3 27B Q4;Intef giunge ai Magazzini, il sole che filtra tra le pareti di fango. Il Guardiano, appoggiato al suo bastone, lo osserva con sguardo torvo. “Qualcosa non quadra al porto, Scriba. Le barche arrivano, certo, ma… non portano ciò che dovrebbero. C’è fretta nello scaricare, poca cura nel pesare. E le voci… le voci raccontano di sacchi sigillati che vengono sostituiti con sabbia. Non so chi osi tanto, ma è un affronto al Faraone, e al nostro lavoro. Un’ombra si allunga su Deir el-Medina, e io la sento.” Il Guardiano stringe la presa sul bastone, lo sguardo perso verso il Nilo.;4;5;4;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence;;;;;;;;;;;;;;;;;;;
+01C;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Intef parla con Hapuseneb, il quale si lamenta che le offerte al dio sono state interrotte. Implora quindi Intef si andare alla Necropoli a sedare la rivolta
+
+TONO:
+Drammatico
+
+AMBIENTAZIONE:
+Location: Tempio di Amon (Esterno)
+Orario: Mattina
+Tempo: Soleggiato
+
+PERSONAGGI:
+Intef (Basso Funzionario - Scriba)
+Hapuseneb (Ministro della Fede - Sacerdote)
+
+SCENA PRECEDENTE:";ChatGPT 4.1;"Hapuseneb si avvicina a Intef, occhi imploranti e voce vibrante di preoccupazione. ""Le offerte al dio si sono interrotte, il suo favore vacilla, e il popolo si agita,"" dice, stringendo le mani con urgenza. ""Devo andare alla Necropoli, cercare di sedare la rivolta prima che divampi in caos totale."" La tensione si fa palpabile; il ministro teme che senza un intervento deciso, l’ordine sacro e il fragile equilibrio tra divinità e uomini possano sfaldarsi sotto il peso della rabbia crescente. La scena si tinge di un “se” che grava sul presente, in attesa dell’azione.";3;5;5;;;;;;;;;;;;;;;;;;;
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";"Hapuseneb si fa largo tra la folla agitata. La sua voce risuona, carica di angoscia: ""Intef! Le offerte al dio! Interrotte! Il caos regna!"" Le sue mani si stringono al petto, quasi a contenere il tormento. ""Solo tu puoi farlo, Intef. Alla Necropoli! Sii tu a sedare questa follia prima che gli dei si adirino definitivamente!"" L'urgenza nella sua richiesta è palpabile, un lamento disperato che si unisce al brusio crescente della folla. Il destino delle offerte divine pende su un filo sottile, e Hapuseneb guarda a Intef con la speranza di chi non ha altra via.";4;5;5;;;;;;;;;;;;;;;;;;;
+;;Gemma 3 27B Q4;Il Ministro Hapuseneb stringe le mani, la voce un sussurro carico di angoscia. “Il dio è scontento, Intef. Le offerte si sono fermate con il lavoro, il suo potere vacilla. E ora… questa ribellione. Temo che il popolo confonda la fame con un segno divino, un castigo per i nostri peccati.” Gli occhi del sacerdote scrutano l’orizzonte, oltre le mura del tempio. “Devi andare, Intef. Devi recarti alla Necropoli, parlare con gli operai, sedare questa rivolta prima che divampi. Riporta la pace, ripristina l’ordine… e le offerte. Solo così potremo placare l’ira del dio.”;5;5;5;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence;;;;;;;;;;;;;;;;;;;
+02;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Intef si reca nella Casa dello scriba. Panehsy vive evidentemente nel lusso, ma sostiene di essere vittima di un complotto orchestrato dagli Operai
+
+TONO:
+Tensione, Misterioso
+
+AMBIENTAZIONE:
+Location: Sala Ricevimento (Casa Lussuosa)
+Orario: Mattino
+Tempo: Soleggiato
+
+PERSONAGGI:
+Intef (Basso Funzionario - Scriba)
+Panhesy (Basso Funzionario - Scriba)
+Operai (Popolano - Operaio)
+
+SCENA PRECEDENTE:";ChatGPT 4.1;Nella sala immersa nella luce calda del mattino, Intef si avvicina alla Casa dello scriba con passo pensa duro. Panehsy, avvolto nel suo lusso sfacciato, lo accoglie con un sorriso che nasconde un'ombra di paura. Panehsy insiste sulla sua innocenza, proclamando di essere vittima di un complotto orchestrato dagli Operai, i quali minacciano di squarciare il velo di apparenza che lo avvolge. La tensione si intensifica, il silenzio appare carico di segreti inconfessabili, mentre intrighi antichi sembrano emergere dall’ombra, pronti a rivelare verità proibite.;4;4;5;;;;;;;;;;;;;;;;;;;
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Intef varca la soglia, il clamore del mondo esterno si smorza alle sue spalle, sostituito da un silenzio che sa di privilegio. Si muove nella dimora, un luogo che parla di abbondanza. Trova Panehsy. L’altro lo accoglie con un misto di affettazione e nervosismo. Panehsy parla di accuse infondate, di un complotto ordito dagli Operai, di una vendetta senza ragione. Le sue parole sono un fiume in piena, un tentativo di convincere, di negare l'evidenza che Intef porta con sé, un’ombra sinistra che si allunga sulla sua ricchezza. La tensione cresce, alimentata da segreti sussurrati e verità taciute.;5;5;5;;;;;;;;;;;;;;;;;;;
+;;Gemma 3 27B Q4;Intef percepisce un’aria pregna di profumi sconosciuti varcando la soglia. Panhesy lo attende, seduto su uno sgabello intarsiato, un sorriso appena accennato sulle labbra. “Funzionario Intef, che onore,” esclama, la voce vellutata. “Siete qui per le assurde accuse che mi vengono rivolte, immagino.” Lo scriba si alza, offrendo un gesto ampio verso le ricche tappezzerie che adornano la sala. “Guardatevi intorno, funzionario. Questo è il frutto del mio lavoro, non di ruberie. Sono vittima di un complotto, ordito dagli Operai, invidiosi della mia posizione.” Un silenzio teso cala sulla sala, interrotto solo dal cinguettio degli uccelli nel giardino esterno. Intef osserva Panhesy, cercando un’incrinatura nella sua compostezza, un segno di verità o inganno.;5;5;5;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence;;;;;;;;;;;;;;;;;;;
+02A;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Intef perquisisce la casa e trova delle Tavolette che suggeriscono un contrabbando di grano destinato ai Nobili
+
+TONO:
+Rivelatore
+
+AMBIENTAZIONE:
+Location: Studio (Casa Lussuosa)
+Orario: Mattino
+Tempo: Soleggiato
+
+PERSONAGGI:
+Intef (Basso Funzionario - Scriba)
+Panhesy (Basso Funzionario - Scriba)
+Nobili (Nobile)
+
+SCENA PRECEDENTE:";ChatGPT 4.1;Intef scruta con attenzione le pareti della casa, e il suo sguardo si cristallizza su alcune tavolette nascoste tra gli scaffali. Con attenzione, svela simboli e annotazioni che collegano i nobili a un traffico illecito di grano, destinato alle loro tavole esclusive. La scoperta è un assalto di verità sconvolgente, un tradimento che scuote le fondamenta dell’aristocrazia. In quell’istante, si comprende che nulla è come appare: sotto il velo di rispettabilità si cela un complotto per sopravvivere, per mantenere il potere a ogni costo.;5;5;5;;;;;;;;;;;;;;;;;;;
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Mentre Panehsy protesta con enfasi, Intef comincia la sua ricerca. Ogni oggetto nella stanza viene esaminato con meticolosità. La mano scorre sui mobili, la vista penetra negli angoli più nascosti. Ed ecco, finalmente, il tocco rivelatore. Sotto uno scrigno intarsiato, la scoperta. Tavolette di argilla, incise con cura, non parlano di affari legittimi, ma di un commercio illecito. Grano destinato ai campi del Faraone, deviato verso le dispense dei Nobili. Le parole incise sulla fragile argilla svelano un gioco di potere, un tradimento che coinvolge coloro che dovrebbero garantire il benessere del popolo. Il silenzio cala nella stanza, interrotto solo dal fruscio delle tavolette tra le mani di Intef.;5;5;5;;;;;;;;;;;;;;;;;;;
+;;Gemma 3 27B Q4;Il sole filtra tra le pesanti cortine, illuminando la polvere che danza nell'aria. Intef, con meticolosa attenzione, esamina i rotoli sparsi nello studio. Non sono i conti commerciali che cercava, ma qualcosa di più celato. Tavolete d’argilla, nascoste sotto un tappeto persiano, rivelano un flusso costante di grano, non destinato al popolo, ma ai Nobili. Un commercio illecito, accuratamente mascherato. Panhesy, pur mantenendo un contegno impeccabile, stringe impercettibilmente le dita. La sua voce, quando parla, è un filo di seta teso: “Un errore, funzionario. Semplici registrazioni di debiti e crediti.” Ma Intef sa che il profumo di grano non inganna. E che la verità, come il sole, finirà per illuminare ogni angolo nascosto.;4;5;3;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence;;;;;;;;;;;;;;;;;;;
+02B;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Intef interroga con tatto Panehsy e questi gli rivela di avere debiti con un Mercante che opera al porto
+
+TONO:
+Rivelatore
+
+AMBIENTAZIONE:
+Location: Sala Ricevimento (Casa Lussuosa)
+Orario: Mattino
+Tempo: Soleggiato
+
+PERSONAGGI:
+Intef (Basso Funzionario - Scriba)
+Panhesy (Basso Funzionario - Scriba)
+Mercante (Popolano - Mercante)
+
+SCENA PRECEDENTE:";ChatGPT 4.1;Intef scruta con attenzione Panehsy, la sua voce è calma ma ferma, quasi un sussurro di scoperta. Il basso funzionario rivela che i debiti con il mercante al porto sono più di un semplice fardello, sono una chiave per qualcosa di più oscuro. La maschera di sicurezza di Panehsy comincia a traballare, i segreti più nascosti si muovono come ombre che si allungano. Il potere e la truffa si intrecciano nella verità, e l’interrogatorio si trasforma in un passo verso il cuore di una cospirazione che potrebbe sconvolgere tutto.;5;4;4;;;;;;;;;;;;;;;;;;;
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Intef attende con pazienza che il fiume di parole si esaurisca, poi, con studiato riguardo, pone le sue domande. Non preme, suggerisce, e le difese di Panehsy iniziano a cedere. L’affettazione si incrina, il nervosismo si trasforma in un sussurro carico di inquietudine. La verità, o almeno una parte di essa, emerge a fatica: debiti, un groviglio di obblighi contratti con un mercante, uno che si muove tra le merci e le navi al porto. La confessione è un respiro interrotto, una rivelazione che squarcia il velo di menzogne e getta una nuova luce sull'ombra che avvolge Panehsy.;5;5;5;;;;;;;;;;;;;;;;;;;
+;;Gemma 3 27B Q4;Il sorriso di Panhesy si affievolisce, la voce ora un sussurro appena udibile. “La verità, Intef, è ben diversa da ciò che sembra. Non sono gli Operai a tormentarmi, ma un uomo d'affari, un mercante che opera al porto. Ho contratto debiti, un errore che mi perseguita. Un prestito, inizialmente modesto, è cresciuto a dismisura, soffocando le mie finanze.” Lo scriba avverte una nota di disperazione celata sotto la compostezza. “Non si tratta di invidia, ma di necessità. Temo che, se non troverò una soluzione, perderò tutto ciò che ho costruito.” Un velo di tristezza offusca lo sguardo dello scriba, rivelando una vulnerabilità inaspettata.;5;4;5;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence;;;;;;;;;;;;;;;;;;;
+02C;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Intef si confronta minacciosamente con Panehsy. Questo nega di aver sottratto il grano e accusa Hapuseneb. Quando Intef si volta per uscire viene colpito alle spalle
+
+TONO:
+Tensione, Drammatico
+
+AMBIENTAZIONE:
+Location: Sala Ricevimento (Casa Lussuosa)
+Orario: Mattino
+Tempo: Soleggiato
+
+PERSONAGGI:
+Intef (Basso Funzionario - Scriba)
+Panhesy (Basso Funzionario - Scriba)
+Hapuseneb (Ministro della Fede - Sacerdote)
+
+SCENA PRECEDENTE:";ChatGPT 4.1;Intef, con sguardo glaciale, mantiene la tensione impadronendosi del confronto, accusando Panehsy di complicità. Panhesy tentenna, negando con veemenza, e invita alla calma, puntando il dito contro Hapuseneb per creare confusione. L’aria si fa pesante, il sole filtrando attraverso le finestre accentua l’atmosfera di confronto estremo. Quando Intef si gira deciso a uscire, un colpo improvviso lo colpisce alle spalle, facendolo vacillare. La scena si blocca, il silenzio si fa incalzante, mentre un segreto oscuro si avvicina, pronto a svelarsi tra tensione e mistero.;5;5;4;;;;;;;;;;;;;;;;;;;
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";La conversazione precipita. Intef si fa avanti, la sua voce è un ringhio basso. Incalza Panehsy, lo accusa apertamente della sparizione del grano. Panehsy nega con veemenza, le sue parole sono un torrente di indignazione simulata. Poi, con un rapido cambio di tono, devia la colpa, punta il dito verso Hapuseneb. Intef si volta per andare, pronto a cercare altrove le risposte che qui non trova. Un rumore alle sue spalle, un colpo sordo. Il mondo si capovolge.;5;4;5;;;;;;;;;;;;;;;;;;;
+;;Gemma 3 27B Q4;La mano di Intef si stringe a pugno, il tono di Panhesy suona come un insulto. “Non sono gli Operai a compiere furti, ma chi detiene il potere di nasconderli.” Un lampo di rabbia incrocia lo sguardo dello Scriba, che avanza minaccioso. “Menti! Sei tu a nascondere il grano, per arricchirti alle spalle del popolo!” Panehsy, impassibile, replica: “È Hapuseneb, il Ministro della Fede, che trama nell’ombra. Le sue offerte al Tempio richiedono ingenti quantità di grano…” Prima che Intef possa voltarsi, un dolore acuto gli squarcia la schiena. Un gemito strozzato, il corpo che cede. Il sole filtra dalle finestre, illuminando l’ombra che si profila alle sue spalle.;5;4;4;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence;;;;;;;;;;;;;;;;;;;
+03;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Intef si reca al Porto e scopre che le Imbarcazioni sono state sequestrate da un gruppo di Mercanti, che chiedono maggiori compensi per il trasporto
+
+TONO:
+Conflitto
+
+AMBIENTAZIONE:
+Location: Porto
+Orario: Mattina
+Tempo Atmosferico: Soleggiato
+
+PERSONAGGI:
+Intef (Basso Funzionario - Scriba)
+Mercanti (Popolano - Mercante)";ChatGPT 4.1;Intef si avvicina al porto, i raggi del sole accecano mentre cerca di capire cosa sia accaduto. Le imbarcazioni sono sequestrate dai mercanti, che urlano con fare minaccioso, pretendendo maggiori compensi. La tensione si taglia con il coltello: l’ufficiale tenta di mantenere la calma, ma sa che il conflitto rischia di esplodere da un momento all’altro. La sua voce, ferma ma decisa, cerca di negoziare, sperando di evitare un’ulteriore escalation. Il sole splende alto mentre il destino di molte vite si consuma in quella difficile richiesta.;5;5;5;;;;;;;;;;;;;;;;;;;
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Alle prime luci del mattino, Intef raggiunge il Porto, il sole già alto. La scena che si presenta ai suoi occhi è inaspettata: le Imbarcazioni, pronte per salpare, sono immobili, sorvegliate da un gruppo di Mercanti. Il loro atteggiamento è deciso, le parole ferme: chiedono maggiore considerazione per il loro lavoro, un compenso adeguato al rischio e alla fatica del trasporto. Intef, nella sua posizione di basso funzionario, si trova di fronte a un muro inatteso, la tensione nell'aria è palpabile come il caldo del sole.;4;5;4;;;;;;;;;;;;;;;;;;;
+;;Gemma 3 27B Q4;Il sole picchia sul porto, ma non scalda l'aria tesa. Intef si fa strada tra la folla, il cuore che batte più veloce. Le imbarcazioni, silenziose, giacciono immobili, bloccate da un muro di volti decisi. I mercanti, con la voce carica di pretese, contrattano aspramente con i funzionari del faraone. Ogni richiesta di Intef viene liquidata con uno sguardo sprezzante. La loro avidità non conosce limiti: chiedono compensi esorbitanti per ogni trasporto, paralizzando il commercio. La rabbia monta, la calma è un lusso che nessuno può permettersi. La situazione precipita, la tensione è palpabile, pronta a esplodere.;5;5;4;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence;;;;;;;;;;;;;;;;;;;
+03A;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Intef offre un compromesso ai Mercanti e sblocca le razioni. In segno di ringraziamento, un Operaio gli suggerisce di andare a parlare con Menna
+
+TONO:
+Risolutivo, Rivelatore
+
+AMBIENTAZIONE:
+Location: Porto
+Orario: Mattina
+Tempo Atmosferico: Soleggiato
+
+PERSONAGGI:
+Intef (Basso Funzionario - Scriba)
+Mercanti (Popolano - Mercante)
+Operaio (Popolano - Operaio)
+Menna (Popolano - Capo degli Operai)
+
+SCENA PRECEDENTE:";ChatGPT 4.1;Intef, saldo nel suo intento, annuncia il compromesso e sblocca le razioni, dissipando le tensioni tra i mercanti e i lavoratori. La tensione si placha, e la gratitudine si riflette negli sguardi dei presenti. Un operaio, avvicinandosi discreto, gli sussurra di rivolgersi a Menna per consolidare l’accordo. Intef, deciso, annuisce e si prepara a cercare il capo degli operai, consapevole che questa scelta potrebbe cambiare gli equilibri del porto e garantire un passo avanti in un momento di crisi. Il sole splende implacabile, mentre il destino si muove sotto i suoi raggi.;4;5;4;;;;;;;;;;;;;;;;;;;
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";"La proposta di Intef risuona nell'aria. Un compromesso, una via d'uscita che libera le razioni trattenute. I Mercanti, il cui volto si distende in un'espressione di sollievo, accettano l'accordo. L'Operaio, grato per l'intervento risolutore, si avvicina a Intef. Le sue parole sono un sussurro, un consiglio prezioso: ""Va' da Menna, il Capo degli Operai. Lui conosce i segreti di questo porto."" Un'informazione inaspettata, un nuovo sentiero che si apre sotto il caldo sole del mattino.";5;5;5;;;;;;;;;;;;;;;;;;;
+;;Gemma 3 27B Q4;Il porto riprende vita, un fremito di sollievo percorre la folla. Intef, con un gesto calcolato, ha sbloccato le razioni, aprendo un varco nella contrattazione. Un operaio, grato per la sua lungimiranza, gli si avvicina, la voce roca ma sincera: “Parla con Menna, Capo degli Operai. Lui sa come muovere le cose qui, conosce ogni anfratto e ogni necessità. Potrebbe esserti d’aiuto, se vuoi davvero che il porto torni a funzionare come prima”. Un suggerimento inatteso, un indizio su come districarsi in questa complessa rete di interessi e necessità. Intef intuisce che la chiave per risolvere la situazione potrebbe risiedere proprio tra la gente che vive e lavora il porto.;4;5;4;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence;;;;;;;;;;;;;;;;;;;
+03B;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Intef esamina i Registri del porto e trova le prove di un commercio clandestino tra il porto ed il tempio
+
+TONO:
+Rivelatore, Misterioso
+
+AMBIENTAZIONE:
+Location: Archivio (Porto)
+Orario: Mattina
+Tempo Atmosferico: Soleggiato
+
+PERSONAGGI:
+Intef (Basso Funzionario - Scriba)
+
+SCENA PRECEDENTE:";ChatGPT 4.1;Nel silenzio dell’archivio, Intef scruta i Registri del porto con occhi attenti. La luce solare filtra attraverso le feritoie, creando ombre fugaci sulle pagine ingiallite. Con sorprendente rapidità, scopre tracce di un traffico sconosciuto, un flusso di beni che attraversa i confini tra porto e tempio. Le parole scritte celano un'ombra di segretezza, un accordo nascosto che potrebbe minare la stabilità dell’intera regione. Il suo cuore batte più forte: questa scoperta potrebbe cambiare tutto, rivelando un segreto troppo pericoloso per essere lasciato impunito.;5;5;5;;;;;;;;;;;;;;;;;;;
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Costretto ad una sosta inattesa, Intef entra nell'Archivio. L'aria è densa dell'odore acre della polvere e di antiche pergamene. Si china sui Registri del porto, le dita scorrono sui simboli, decifrando annotazioni meticulous. Poi, una scoperta. Tra i carichi dichiarati e le spedizioni registrate, Intef trova le tracce di un flusso occulto. Prove inequivocabili di un commercio clandestino, un ponte segreto che lega le banchine affollate al sacro tempio, un'ombra di illegalità che si insinua nel cuore del regno.;4;5;4;;;;;;;;;;;;;;;;;;;
+;;Gemma 3 27B Q4;"Intef stringe tra le dita il papiro ingiallito. Non si tratta di semplici registri di carico, ma di un intricato gioco di ombre. I sigilli del porto sono stati manomessi, le quantità dichiarate non corrispondono alle merci sbarcate. Un flusso costante di beni preziosi, spezie rare e metalli lavorati, diretto non alle casse del Faraone, ma alle sacre mura del Tempio di Amon. 
+Un commercio segreto, condotto sotto il velo del sole, che alimenta un potere ben diverso da quello regio. Intef avverte un brivido lungo la schiena. Non è avidità ad animare questi mercanti, ma una devozione oscura, un patto silenzioso stretto con chi detiene il vero potere.";5;5;4;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence;;;;;;;;;;;;;;;;;;;
+03C;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Intef cerca di requisire il grano con la forza, ma questo scatena un conflitto con i Mercanti
+
+TONO:
+Conflitto, Drammatico
+
+AMBIENTAZIONE:
+Location: Porto
+Orario: Mattina
+Tempo Atmosferico: Soleggiato
+
+PERSONAGGI:
+Intef (Basso Funzionario - Scriba)
+Mercanti (Popolano - Mercante)
+
+SCENA PRECEDENTE:";ChatGPT 4.1;Intef alza la mano, deciso a requisire il grano per l’approvvigionamento dello Stato, ma i Mercanti si frappongono con grida e minacce. La folla si infiamma, il vento del porto solleva polvere e agitazione, mentre i loro volti si irrigidiscono in un muro di resistenza. Il funzionario, percependo il rischio di uno scontro, tenta con fermezza di mantenere il controllo, ma l’ira cresce, e il destino di quella mattina si fa incerto, col fragore dei contrasti che sovrasta il sole splendente.;5;3;5;;;;;;;;;;;;;;;;;;;
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Intef si avvicina, le sue parole non ammettono repliche: il grano appartiene al Faraone, la sua requisizione è un ordine. Ma i Mercanti non arretrano, la loro voce si alza, un coro di dinieghi che si infrange contro l'autorità dello scriba. Le mani si stringono su sacchi e casse, si creano barricate improvvisate. La trattativa è finita, si passa alla forza. Intef tenta di forzare il blocco, ma viene respinto. La calma apparente del porto è spezzata da grida e spinte, il conflitto divampa sotto il sole implacabile.;5;5;5;;;;;;;;;;;;;;;;;;;
+;;Gemma 3 27B Q4;La mano di Intef si stringe attorno al bastone. Un ordine, un semplice ordine, e il grano sarebbe stato liberato. Ma lo sguardo dei mercanti è sfida pura, un rifiuto sfacciato dell'autorità del faraone. Parole dure si scambiano, accuse di avidità e prepotenza. Un mercante spinge, poi un altro, e la folla trattiene il respiro. Il sole splende implacabile su una scena che muta in colluttazione. Mani si alzano, spintoni, imprecazioni. La calma è infranta, il porto risuona di rabbia e la promessa di violenza incombe su ogni cosa.;4;5;5;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence;;;;;;;;;;;;;;;;;;;
+04;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Intef giunge alla Necropoli dove trova Nehesi che cerca di mantenere la pace ed i Leader Radicali che fomentano la protesta
+
+TONO:
+Tensione, Conflitto
+
+AMBIENTAZIONE:
+Location: Necropoli (Deir el-Medina)
+Orario: Mattina
+Tempo: Soleggiato
+
+PERSONAGGI:
+""Intef (Basso Funzionario - Scriba)
+Nehesi (Popolano - Anziano del Villaggio)
+Leader Radicali (Popolano - Operaio)""
+
+SCENA PRECEDENTE:";ChatGPT 4.1;Intef avanza tra i mausolei, il sole che brucia impietoso. Nehesi, anziano con sguardo serio, cerca di placare i disordini, ma i Leader Radicali urlano, agitandosi con rabbia e sfidando l’autorità. La loro voce si innalza, alimentando il fuoco della protesta, mentre i fedeli più timidi si ritraggono in silenzio. La tensione sale: il fragile equilibrio tra obbedienza e rivolta si spezza davanti all’implacabile sfrontatezza dei rivoluzionari. In questa frammentata pace, ogni gesto può far esplodere la crisi, in un momento di attesa carico di minacce e sconvolgimenti.;5;5;5;;;;;;;;;;;;;;;;;;;
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Intef raggiunge la Necropoli. Il sole alto illumina le tombe, ma l’aria è tesa. Nehesi, con la voce ferma ma rassicurante che gli è propria, cerca di riportare la calma. I Leader Radicali, con gesti ampi e parole taglienti, fomentano la protesta tra gli operai. Si percepisce la rabbia, il malcontento che cova da tempo. Le loro voci si sovrappongono, creando un confuso mormorio di accuse e richieste. Nehesi alza le mani, un tentativo di mediazione che sembra quasi inutile di fronte all'ondata crescente di indignazione;5;5;5;;;;;;;;;;;;;;;;;;;
+;;Gemma 3 27B Q4;Il sole picchia sulla pietra, ma non scalda gli animi. Intef giunge alla Necropoli, trovando Nehesi in mezzo alla folla, le mani tese in un vano tentativo di placare gli operai. Le loro voci, rauche e cariche di rabbia, si alzano come un lamento. “Basta promesse!” urla uno di loro, stringendo il pugno. “Vogliamo cibo, vogliamo lavoro, vogliamo rispetto!” Nehesi cerca di rispondere, ma viene sovrastato dalla furia collettiva. Intef avverte la tensione crescere, un filo invisibile pronto a spezzarsi. La calma è un miraggio, la rivolta palpabile. Ogni sguardo è una sfida, ogni parola un atto di accusa.;5;4;5;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence;;;;;;;;;;;;;;;;;;;
+04A;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Intef sceglie di supportare Nehesi e convince gli Operai Rivoltosi e i Leader Radicali ad attendere le razioni
+
+TONO:
+Risolutivo
+
+AMBIENTAZIONE:
+Location: Necropoli (Deir el-Medina)
+Orario: Mattina
+Tempo: Soleggiato
+
+PERSONAGGI:
+Intef (Basso Funzionario - Scriba)
+Nehesi (Popolano - Anziano del Villaggio)
+Leader Radicali (Popolano - Operaio)
+Operai Rivoltosi (Popolano - Operaio)
+
+SCENA PRECEDENTE:";ChatGPT 4.1;Intef alza la mano con fermezza, la sua voce risuona calma e decisa nel silenzio carico di tensione. Con autorità, convince gli Operai Rivoltosi e i Leader Radicali ad attendere le razioni, sottolineando l’importanza di mantenere l’ordine e la solidarietà per il bene comune. L’aria si fa meno tumultuosa, egli sa che la pazienza può essere la chiave per evitare un definitivo collasso. Non c’è spazio per l’irrazionalità: la strategia di Intef si impone, portando un soffio di calma in questa scena dominata dal sole e dal cuore pulsante della rivolta.;5;5;5;;;;;;;;;;;;;;;;;;;
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Nel cuore della Necropoli, sotto il sole implacabile, Intef prende la sua decisione. Si unisce a Nehesi, il suo sostegno è un pilastro inatteso per l'anziano del villaggio. Le parole dello scriba, precise e misurate come i geroglifici che disegna, si fanno strada tra il clamore. Con pazienza, si rivolge agli Operai Rivoltosi, alle loro mani callose e ai loro cuori ardenti. Poi, affronta i Leader Radicali, la cui retorica infuocata ha acceso gli animi. Intef non minimizza la loro rabbia, ma indica una via. Li convince ad attendere. Non è una rinuncia, ma un rinvio. Le razioni arriveranno. Hanno la sua parola. L'aria vibra ancora di tensione, ma un fragile accordo si insinua tra le proteste. Per ora, l'attesa vince sulla rivolta.;5;5;5;;;;;;;;;;;;;;;;;;;
+;;Gemma 3 27B Q4;"Intef alza le mani, un gesto che impone il silenzio. La sua voce, ferma e decisa, squarcia il brusio della folla. ""Nehesi parla con la saggezza degli anziani, ascoltatelo."" Gli operai, sorpresi, abbassano lo sguardo. Il basso funzionario continua, rivolgendosi ai Leader Radicali: ""Le razioni arriveranno, è promesso. Ma l'ordine è necessario, la fretta genera solo caos."" Un mormorio di approvazione serpeggia tra i rivoltosi, indebolendo la spinta alla protesta. Nehesi annuisce, grato per l'intervento. Intef, con uno sguardo severo, impone il rispetto della decisione. La calma, fragile ma presente, torna a farsi strada tra le tombe silenziose.";5;5;5;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence;;;;;;;;;;;;;;;;;;;
+04B;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Intef sceglie di appoggiare i Leader Radicali e la rivolta cresce. In segno di ringraziamento, un Operaio gli suggerisce di andare a parlare con Menna
+
+TONO:
+Tensione, Conflitto
+
+AMBIENTAZIONE:
+Location: Necropoli (Deir el-Medina)
+Orario: Mattina
+Tempo: Soleggiato
+
+PERSONAGGI:
+Intef (Basso Funzionario - Scriba)
+Leader Radicali (Popolano - Operaio)
+Operaio (Popolano - Operaio)
+Menna (Popolano - Capo degli Operai)
+
+SCENA PRECEDENTE:";ChatGPT 4.1;Intef si ferma, il cuore martella forte. Un Operaio, con l’aria di chi si sente parte di qualcosa di più grande, gli sussurra di parlare con Menna, il capo degli operai. La proposta avvolge la sua mente, un vortice di ambizione e paura. Mentre il sole acceca, Intef si muove deciso, sapendo che questa scelta potrebbe cambiare tutto. La tensione palpabile si concentra ora in questa decisione, tra il rischio di mantenere l’ordine e l’onda di rivoluzione che cresce, pronta a travolgere ogni resistenza.;5;2;3;;;;;;;;;;;;;;;;;;;
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Intef, avverte il peso della sua scelta. Le parole dei Leader Radicali risuonano ancora, accese dalla promessa di un cambiamento. La rivolta, alimentata dal risentimento degli operai, prende forza attorno a lui. Un operaio, con uno sguardo di riconoscenza misto a urgenza, gli si avvicina. Le sue parole sono rapide, quasi sussurrate, suggeriscono un nome: Menna. Un contatto con il Capo degli Operai, un passo ulteriore in questo vortice di tensione che minaccia di travolgere tutto.;5;4;5;;;;;;;;;;;;;;;;;;;
+;;Gemma 3 27B Q4;La folla si dirada leggermente, lasciando spazio a un uomo robusto che si fa largo a gomitate. “Intef,” sibila l’operaio, la voce roca e impaziente, “hai fatto la scelta giusta. Ora ascolta me. Devi parlare con Menna. Lui capisce la forza del lavoro, sa come muovere le fila. È l’unico che può trasformare questa rabbia in qualcosa di… concreto.” L’uomo indica con un cenno del capo una figura solitaria che osserva la scena da un punto rialzato. Menna. Il capo degli operai. Un uomo che incarna la determinazione, ma anche la prudenza. Un incontro necessario, forse l’ultima speranza per incanalare la rivolta prima che diventi un caos incontrollabile.;5;2;2;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence;;;;;;;;;;;;;;;;;;;
+04C;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Intef tenta di ristabilire l'ordine imponendosi su Operai Rivoltosi e Leader Radicali, ma non viene ascoltato. Scoppia una rissa e viene tramortito
+
+TONO:
+Conflitto, Drammatico
+
+AMBIENTAZIONE:
+Location: Necropoli (Deir el-Medina)
+Orario: Mattina
+Tempo: Soleggiato
+
+PERSONAGGI:
+Intef (Basso Funzionario - Scriba)
+Leader Radicali (Popolano - Operaio)
+Operai Rivoltosi (Popolano - Operaio)
+
+SCENA PRECEDENTE:";ChatGPT 4.1;Intef si schiera con fermezza tra i rivoltosi, alza la mano nel tentativo di placare gli animi e ripristinare l’ordine, ma i Leader Radicali e gli operai agitano le armi e gridano più forte. La tensione cresce, le schiume di rabbia si scontrano, finché uno scoppio di violenza esplode: si scambiano pugni, calci e urla disperate. Intef, sopraffatto, cade a terra, tramortito. I rivoltosi si fermano per un istante, il sole impietoso svela un momento di caos e paura, mentre la minaccia di una crisi ancora più grande domina la scena;5;5;5;;;;;;;;;;;;;;;;;;;
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Intef si fa largo tra la folla, la sua voce si leva ferma, tenta di imporsi, di riportare l’ordine, ma le sue parole si perdono nel clamore. I Leader Radicali lo affrontano, lo scherniscono, il loro rancore esplode. Gli Operai Rivoltosi, aizzati dalla rabbia, si uniscono a loro. Le grida si trasformano in spintoni, in pugni. Intef viene travolto dalla foga della rivolta. Un colpo secco lo raggiunge, e cade a terra, inerte, mentre la rissa divampa.;5;5;5;;;;;;;;;;;;;;;;;;;
+;;Gemma 3 27B Q4;Il tentativo di Intef è un sussurro nel turbine della collera. Non ascolta ragioni, non concede spazio a suppliche. Le mani si alzano, non più in preghiera, ma in pugni. La pietra della Necropoli vibra sotto i colpi, eco di stomaci vuoti e dignità calpestate. Una spinta, un urlo soffocato, poi il silenzio improvviso. Intef cade, la fronte sbattuta contro la roccia. La folla, un mare in tempesta, lo sovrasta. Nehesi, impotente, osserva la scena, consapevole che l'ordine è spezzato, la rivolta è compiuta. Il sole, indifferente, continua a illuminare la Necropoli, teatro di un dramma che nessuno potrà dimenticare.;5;4;5;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence;;;;;;;;;;;;;;;;;;;
+05;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Intef si reca nella Casa di Menna. L'uomo dice di non sapere nulla delle merci mancanti e si lamenta del fatto che gli siano state rubate le Vesti per un funerale
+
+TONO:
+Misterioso
+
+AMBIENTAZIONE:
+Location: Sala Ricevimento (Casa Umile)
+Orario: Primo Pomeriggio
+Tempo: Nuvoloso
+
+PERSONAGGI:
+Intef (Basso Funzionario - Scriba)
+Menna (Popolano - Capo degli Operai)";ChatGPT 4.1;Intef entra nella Casa di Menna, il suo sguardo indaga con quieta fermezza. Menna, con voce carica di fastidio e mistero, confessa di non sapere nulla delle merci scomparse, ma si lamenta amaramente delle Vesti rubate, destinate a un funerale. Il silenzio della sala si fa palpabile mentre le ombre del cielo nuvoloso filtrano nella stanza, alimentando un senso di inquietudine. La tensione tra i due si avvicina al limite, lasciando intuire segreti nascosti e misteri che si celano dietro la semplice superficie di questa umile residenza.;4;4;5;;;;;;;;;;;;;;;;;;;
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Intef giunge alla dimora di Menna. La sala d'ingresso li accoglie, il pomeriggio filtra attenuato dalle nubi. Intef interroga Menna riguardo alle merci smarrite. L'operaio, scuotendo il capo, nega di sapere alcunché. Anzi, con tono di lamento, rivela che anche a lui è stato sottratto qualcosa di prezioso: le vesti destinate a una cerimonia funebre. Le parole di Menna si diffondono nell'aria densa di mistero, mentre la verità sembra svanire tra le ombre.;5;5;5;;;;;;;;;;;;;;;;;;;
+;;Gemma 3 27B Q4;Intef osserva le mani callose di Menna, intrecciate in un gesto di frustrazione. L'aria nella sala è pesante, satura di un'inquietudine che va oltre la semplice mancanza di merci. Menna nega ogni coinvolgimento, la voce roca che si perde tra le ombre del primo pomeriggio. Ma il suo lamento, insistente, riguarda un furto ben diverso: le vesti destinate al funerale. Un dettaglio strano, quasi dissonante. Intef percepisce una corrente nascosta, un filo sottile che lega queste due assenze. La risposta, sembra sussurrare il vento nuvoloso, non è così semplice come appare.;4;4;5;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence;;;;;;;;;;;;;;;;;;;
+05A;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Intef accusa Menna di ostacolare le indagini, quindi l'uomo lo caccia malamente dalla propria abitazione
+
+TONO:
+Conflitto
+
+AMBIENTAZIONE:
+Location: Sala Ricevimento (Casa Umile)
+Orario: Primo Pomeriggio
+Tempo: Nuvoloso
+
+PERSONAGGI:
+Intef (Basso Funzionario - Scriba)
+Menna (Popolano - Capo degli Operai)
+
+SCENA PRECEDENTE:";ChatGPT 4.1;Intef si avvicina con sguardo severo, accusando Menna di ostacolare le indagini. Menna, irritato e sorpreso, tenta di giustificarsi, ma l’ombra della colpa grava sul suo volto. Con voce più forte, Intef ordina di liberarsi immediatamente, cacciandolo con gesto deciso e senza pietà. Menna viene scacciato, le sue esitazioni tradiscono un senso di colpa nascosto. La porta si chiude con un tonfo secco, mentre il silenzio ritorna a regnare, lasciando un alone di tensione e mistero nell’aria plumbea del pomeriggio nuvoloso;5;3;3;;;;;;;;;;;;;;;;;;;
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";"Intef, con voce tesa, punta il dito contro Menna: ""Stai ostacolando le indagini, Menna! Lo so che sai più di quanto dici!"" L'accusa risuona nella sala, carica di tensione. Menna sgrana gli occhi, l'indignazione gli piega le labbra. ""Come osi accusarmi, scriba?!"" urla, la rabbia gli deforma il viso. ""Esci! Fuori dalla mia casa! Non sei il benvenuto qui!"" Il suo gesto è brusco, perentorio. Intef, colto di sorpresa dalla veemenza, non può fare altro che indietreggiare.";5;5;5;;;;;;;;;;;;;;;;;;;
+;;Gemma 3 27B Q4;La mano di Intef si alza, un gesto brusco che taglia le parole di Menna. L’accusa è netta: ostacolo alle indagini, reticenza. Manna stringe i pugni, le nocche sbiancate. Un lampo di rabbia oscura il suo volto. Intef non concede spazio a repliche, la sua voce tagliente risuona nella sala. L'uomo, umiliato, viene cacciato fuori, la porta sbatte con violenza, un eco sordo che amplifica il conflitto. Il silenzio che segue è denso, gravato da un’ostilità palpabile. Intef sa di aver rotto un fragile equilibrio, ma è determinato a scoprire la verità, a qualunque costo.;5;3;5;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence;;;;;;;;;;;;;;;;;;;
+05B;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Intef si reca al Tempio per interrogare l'Oracolo. Gli viene rivelato che le Vesti sono state rubate da una Guardia
+
+TONO:
+Rivelatore
+
+AMBIENTAZIONE:
+Location: Tempio dell'Oracolo 
+Orario: Primo Pomeriggio
+Tempo: Nuvoloso
+
+PERSONAGGI:
+Intef (Basso Funzionario - Scriba)
+Oracolo (Ministro della Fede - Oracolo)
+
+SCENA PRECEDENTE:";ChatGPT 4.1;Nel Tempio dell'Oracolo, sotto un cielo minaccioso, Intef si inchina con rispetto e attenta attenzione. L’Oracolo, avvolto da un’aura di saggezza e mistero, rivela che le Vesti, simbolo di prestigio e sacralità, sono state sottratte da una Guardia infida. La verità emerge come un sussurro, attraversando l’atmosfera pesante: il furto non è opera di semplici delinquenti, ma di chi doveva proteggerle. La rivelazione scuote le fondamenta della fede e del potere, lasciando Intef con un senso di inquietante rivelazione e una domanda irrisolta nel cuore.;4;4;4;;;;;;;;;;;;;;;;;;;
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Intef si dirige verso il Tempio dell'Oracolo, con il cielo annuvolato che si specchia nella sua inquietudine. Entra nel santuario, dove l'aria sa di incenso e di segreti millenari. Si trova al cospetto dell'Oracolo. Le parole iniziali sono rituali, ma presto la voce dell'Oracolo muta, si fa profonda, ultraterrena. La rivelazione giunge inattesa: le Vesti sacre non sono state smarrite, ma rubate. E non da un ladro qualunque, ma da una Guardia, qualcuno che dovrebbe proteggere il sacro, non profanarlo. La verità, come un fulmine, squarcia le nubi dell'incertezza.;5;5;4;;;;;;;;;;;;;;;;;;;
+;;Gemma 3 27B Q4;Il silenzio del Tempio pesa sulle spalle di Intef. L'Oracolo, immerso in una contemplazione profonda, parla con voce roca, scandendo parole che gelano il sangue. Non sono mercanti erranti, né ladri comuni ad aver compiuto l'oltraggio. Le Vesti, sacre e insostituibili, sono state sottratte da una Guardia. Un membro del corpo che giura di proteggere la città, ora si rivela carnefice. Intef avverte un brivido, un presagio oscuro che si insinua tra le colonne del Tempio. La fiducia, pilastro di ogni ordine, vacilla. Chi osa tradire la Fede, e per quale oscuro disegno?;5;4;4;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence;;;;;;;;;;;;;;;;;;;
+06;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Intef si reca al Tempio e nota la Guardia appoggiata ad una colonna con aria affranta
+
+TONO:
+Compassionevole
+
+AMBIENTAZIONE:
+Location: Sala Ipostila (Tempio di Amon)
+Orario: Primo Pomeriggio
+Tempo: Nuvoloso
+
+PERSONAGGI:
+Intef (Basso Funzionario - Scriba)
+Guardia (Combattente - Guardia)
+
+SCENA PRECEDENTE:";ChatGPT 4.1;Nel silenzio della sala Ipostila, sotto il cielo grigio che penetra tra le colonne, Intef si avvicina alla Guardia appoggiata alla colonna. Gli occhi dell'uomo, stanchi e privi di speranza, riflettono il peso di un tradimento. La sua presenza, così umile e rispettosa, trasmette compassione e comprensione. La Guardia, colpita dall'interesse sincero, solleva lo sguardo, come cercando conforto tra le parole di un funzionario della nobiltà. Nel loro volto si percepisce un intreccio di dolore e rassegnazione, mentre il primo pomeriggio si smorza nel grigiore di un’ingiustizia nascosta.;5;4;4;;;;;;;;;;;;;;;;;;;
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Intef, con l'eco delle parole dell'Oracolo ancora nelle orecchie, si muove nella penombra della Sala Ipostila. Tra il fitto susseguirsi di colonne che si perdono nell'ombra, vede un uomo. È una Guardia. Appoggiato a una colonna, il suo atteggiamento rivela un peso schiacciante. L'aria intorno a lui sembra farsi più greve, rispecchiando le nubi fuori. Intef si avvicina, il cuore che batte all'unisono con il destino che si dispiega in quel luogo sacro, sotto lo sguardo muto degli dei.;5;4;5;;;;;;;;;;;;;;;;;;;
+;;Gemma 3 27B Q4;Intef si avvicina alla colonna, il cuore colmo di pietà. La Guardia, appoggiata alla pietra, non alza lo sguardo. Le spalle curve, il respiro affannoso, tradiscono un tormento interiore ben più grave di una semplice fatica. Non è la stanchezza fisica a piegare quest’uomo, ma il peso di un segreto, di una colpa che lo divora. Intef percepisce il dolore, la disperazione che emanano da lui, un grido silenzioso che risuona nel silenzio del Tempio. Un combattente caduto, non per la spada del nemico, ma per le proprie mani.;5;4;5;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence;;;;;;;;;;;;;;;;;;;
+06A;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Intef accusa la Guardia di furto e questa decide di arrestarlo per l'aggressione subita
+
+TONO:
+Conflitto, Tragico
+
+AMBIENTAZIONE:
+Location: Sala Ipostila (Tempio di Amon)
+Orario: Primo Pomeriggio
+Tempo: Nuvoloso
+
+PERSONAGGI:
+Intef (Basso Funzionario - Scriba)
+Guardia (Combattente - Guardia)
+
+SCENA PRECEDENTE:";ChatGPT 4.1;Intef, con voce tremante e una ferma intensità, accusa la Guardia di aver nascosto il bottino, puntando il dito con segnale di tradimento. La Guardia, colta di sorpresa, reagisce con rabbia e frustrazione, minacciando di difendersi. La tensione cresce, e il giudizio sembra ormai deciso: l’arresto è inevitabile. In quel momento, il cielo grigio aumenta il senso di oppressione, lasciando intravedere un destino incerto e tragico, mentre il silenzio della sala Ipostila si fa peso di accuse e sospetti, avvolgendo tutto in un’oscura incertezza.;4;5;5;;;;;;;;;;;;;;;;;;;
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Mentre le ombre si allungano tra le possenti colonne, Intef punta il dito contro la Guardia.  Un'accusa risuona, tagliente, nel silenzio quasi surreale della Sala Ipostila.  La Guardia, scossa e ferita da quelle parole inattese, reagisce d'istinto.  Il peso sul suo animo cede il posto a un'ira improvvisa.  Alza la mano, pronunciando parole che sigillano il destino dello Scriba.  In quel luogo di preghiera, sotto il cielo plumbeo, la legge degli uomini prende il sopravvento.;5;3;5;;;;;;;;;;;;;;;;;;;
+;;Gemma 3 27B Q4;La voce di Intef rompe il silenzio ovattato della Sala Ipostila, un’accusa netta, inequivocabile. Le parole, come schegge, colpiscono la Guardia, che reagisce con furia offesa. La mano si stringe sull’elsa della spada, la giustizia si trasforma in vendetta. L’eco delle parole di Intef si perde tra le colonne, sovrastata dal clangore del metallo. Un’aggressione, dicono. Un affronto all’autorità. La Guardia, con passo pesante, ammanetta lo Scriba, spezzando il filo sottile che ancora legava l’ordine al caos. Il presagio oscuro si materializza: la Fede è stata tradita, e il Tempio, testimone silente, imprigiona un uomo innocente.;4;4;5;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence;;;;;;;;;;;;;;;;;;;
+06B;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Intef mostra compassione per la Guardia. L'uomo confessa di aver rubato le Vesti per il funerale della compagna. Inoltre, rivela di essere ricattato da Hapuseneb e costretto a collaborare con i Mercanti in cambio del suo silenzio. 
+
+TONO:
+Rivelatore, Tragico
+
+AMBIENTAZIONE:
+Location: Sala Ipostila (Tempio di Amon)
+Orario: Primo Pomeriggio
+Tempo: Nuvoloso
+
+PERSONAGGI:
+Intef (Basso Funzionario - Scriba)
+Guardia (Combattente - Guardia)
+Hapuseneb (Ministro della Fede - Sacerdote)
+Mercanti (Popolano - Mercante)
+
+SCENA PRECEDENTE:";ChatGPT 4.1;Intef apre il suo cuore con dolce amarezza. La Guardia confessa di aver rubato le Vesti per il funerale della sua amata compagna, travolto dalla disperazione. La voce trema, rivelando che Hapuseneb lo ricatta, costringendolo a collaborare con i Mercanti per salvare il suo silenzio. In quel momento, il peso della colpa e della povertà si fa più opprimente, e la compassione di Intef si trasforma in un volto di sofferenza condivisa. La battaglia tra onore e coraggio si dipana nel fragile intimo di un uomo schiacciato da un destino crudele.;4;5;5;;;;;;;;;;;;;;;;;;;
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Un moto di compassione sale nel petto di Intef mentre la Guardia, con voce spezzata, confessa l'atto disperato: ha rubato le Vesti per l'estremo saluto alla sua compagna. Le sue parole svelano un abisso ancora più cupo: il ricatto di Hapuseneb, il Ministro della Fede, che lo costringe a tradire la sua funzione e collaborare con i Mercanti in cambio del suo silenzio. Un gioco di ombre e segreti si consuma tra le colonne sacre, e la tragedia si annida nei cuori degli uomini.;5;5;5;;;;;;;;;;;;;;;;;;;
+;;Gemma 3 27B Q4;Il peso della confessione della Guardia opprime l'aria densa della Sala Ipostila. Non avidità, ma disperazione lo ha spinto al gesto sacrilego: le Vesti destinate al funerale della sua amata. Ma la verità si rivela ancora più amara. Una figura oscura, Hapuseneb, Ministro della Fede, lo stringe in una morsa di ricatti. Collaborare con i Mercanti, un patto infame per comprare il suo silenzio. Intef percepisce la trama che si snoda tra le ombre del potere, un velo di corruzione che offusca la luce divina. Il lutto, la Fede, l'onore… tutto è merce di scambio. Il cielo plumbeo sopra il Tempio sembra riflettere la desolazione che si insinua nei cuori.;4;4;5;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence;;;;;;;;;;;;;;;;;;;
+07;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Intef si reca nel Cortile per affrontare Hapuseneb. Lo accusa di aver collaborato con Panhesy ed i Mercanti per sottrarre il grano destinato agli operai. L'uomo si difende dicendo di aver agito per garantire le offerte al dio.
+
+TONO:
+Conflitto, Rivelatore
+
+AMBIENTAZIONE:
+Location: Gran Cortile (Tempio di Amon)
+Orario: Primo Pomeriggio
+Tempo: Nuvoloso
+
+PERSONAGGI:
+Intef (Basso Funzionario - Scriba)
+Hapuseneb (Ministro della Fede - Sacerdote)
+Mercanti (Popolano - Mercante)
+Panhesy (Basso Funzionario - Scriba)";ChatGPT 4.1;In un primo pomeriggio nuvoloso, Intef si avvicina deciso al Gran Cortile, il volto teso. Di fronte a Hapuseneb, il ministro della fede, lo accusa con fermezza di aver collaborato con i Mercanti e Panhesy, sottraendo il grano destinato agli operai. Hapuseneb si alza, occhi lampeggianti di innocenza, e risponde con tono risoluto: ha agito solo per mantenere vivo l’offerta al dio, sostenendo di aver agito in nome del bene comune. La tensione si fa palpabile, il conflitto tra lealtà e colpa si svela in un istante di rivelazione.;4;5;5;;;;;;;;;;;;;;;;;;;
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Nel Gran Cortile, sotto un cielo cupo che presagiava tempesta, Intef affronta Hapuseneb. La sua voce, tagliente come una lama, accusa il sacerdote di una grave colpa: di aver cospirato con Panhesy e i Mercanti per deviare il prezioso grano destinato a coloro che faticano per costruire le dimore degli dei. Hapuseneb, con un'aria di dignità ferita, si difende. Non è stata brama o malizia a guidarlo, sostiene, ma la necessità impellente di garantire che le offerte al dio non venissero meno, affinché la benevolenza divina continuasse a illuminare le terre d'Egitto. Lo scontro è tra la giustizia terrena e la devozione celeste, una frattura che minaccia di squarciare il velo della sacralità.;5;4;5;;;;;;;;;;;;;;;;;;;
+;;Gemma 3 27B Q4;Il sole, velato dalle nubi, non attenua la tensione che pervade il Gran Cortile. Intef, con voce ferma, accusa Hapuseneb. Le parole, come frecce, denunciano un tradimento: il grano, destinato a placare la fame degli operai, è scomparso. Hapuseneb, con dignità offesa, non nega, ma giustifica le sue azioni. Afferma di aver deviato le offerte per onorare degnamente il dio Amon, un sacrificio necessario per garantire la prosperità. La difesa suona vuota, un tentativo maldestro di celare un accordo oscuro con Panhesy e i Mercanti, un'alleanza nata nell'ombra per arricchire pochi a spese di molti. La verità, pesante come la pietra, incombe sul cortile.;5;4;5;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence;;;;;;;;;;;;;;;;;;;
+07A1;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Intef accusa pubblicamente Hapuseneb mostrando la Prova della colpevolezza, quindi le Guardie lo arrestano
+
+TONO:
+Risolutivo, Soddisfacente
+
+AMBIENTAZIONE:
+Location: Gran Cortile (Tempio di Amon)
+Orario: Primo Pomeriggio
+Tempo: Nuvoloso
+
+PERSONAGGI:
+Intef (Basso Funzionario - Scriba)
+Hapuseneb (Ministro della Fede - Sacerdote)
+Guardie (Combattente - Guardia)
+
+SCENA PRECEDENTE:";ChatGPT 4.1;Intef, con voce ferma e determinata, presenta la prova schiacciante della colpevolezza di Hapuseneb. Il sacerdote, sorpreso dalla fermezza dell’accusa, tenta di reagire, ma le Guardie, collaborando con l’autorità del basso funzionario, si avvicinano decise. In un attimo, lo afferrano, stringendo le braccia con rispetto ma fermezza. Hapuseneb si irrigidisce, consapevole che il destino è ormai segnato. La scena si chiude con un gesto di rispetto formale, mentre il sacerdote viene condotto via, il peso delle accuse che scuote il tempio e la città.;5;5;4;;;;;;;;;;;;;;;;;;;
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Intef si erge fiero, la sua mano alza la Prova inconfutabile, un rotolo di papiro che grida la verità tra le nuvole dense del pomeriggio. Il suo sguardo non trema mentre le sue parole, echi del destino, svelano la rete di inganni. Hapuseneb, il cui ruolo lo eleva, ora vede il suolo franare sotto i suoi piedi. Le Guardie si avvicinano, i loro passi risuonano sul Gran Cortile. Non c’è esitazione nei loro gesti decisi. La giustizia del Faraone ha la sua voce e le mani che la fanno rispettare. Hapuseneb è preso in custodia, il suo potere svapora sotto il peso delle accuse e delle prove.;4;5;4;;;;;;;;;;;;;;;;;;;
+;;Gemma 3 27B Q4;"Il silenzio cala, denso e definitivo. Intef alza la mano, mostrando la tavoletta sigillata: la Prova. Un registro preciso, inconfutabile, delle transazioni segrete tra Hapuseneb, Panhesy e i Mercanti. Lo sguardo del Ministro della Fede vacilla, la dignità crolla sotto il peso della colpa svelata. Un ordine secco risuona: ""Arrestatelo!"". Le Guardie avanzano, i loro passi pesanti sul selciato. Hapuseneb non oppone resistenza, la sua influenza è evaporata. La giustizia, finalmente, ha trionfato nel Gran Cortile, restituendo un barlume di speranza al popolo affamato. Il primo passo verso un nuovo ordine è compiuto.";5;5;4;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence;;;;;;;;;;;;;;;;;;;
+07A2;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Intef accusa pubblicamente Hapuseneb ma non ha prove per dimostrare la sua colpevolezza, quindi le Guardie lo arrestano
+
+TONO:
+Drammatico, Ingiustizia
+
+AMBIENTAZIONE:
+Location: Gran Cortile (Tempio di Amon)
+Orario: Primo Pomeriggio
+Tempo: Nuvoloso
+
+PERSONAGGI:
+Intef (Basso Funzionario - Scriba)
+Hapuseneb (Ministro della Fede - Sacerdote)
+Guardie (Combattente - Guardia)
+
+SCENA PRECEDENTE:";ChatGPT 4.1;Di fronte all'accusa infamante, Hapuseneb si erge con calma dignitosa, invocando la verità e la fede. Ma le Guardie, senza esitazione, afferrano le sue auree vesti, interrompendo la sua difesa. La scena si tinge di ingiustizia: il sacerdote viene trascinato via, nella nuova oscurità del cortile, mentre Intef, accecato dalla sete di vendetta, rimane impassibile. Il cielo, ancora cupo, pare raccogliere il dolore di un'ingiustizia che si consuma sotto gli abbracci freddi delle pietre sacre.;4;2;5;;;;;;;;;;;;;;;;;;;
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Tra le imponenti colonne del Gran Cortile, l'aria si fa densa. Intef, il basso funzionario, alza nuovamente la voce, le sue accuse risuonano acute, ma prive di un peso tangibile. Hapuseneb, il Ministro della Fede, mantiene il suo portamento altero, protetto dalla sua posizione inattaccabile. Le Guardie, impassibili, si avvicinano. Non è la verità a dettare le loro azioni, ma l'autorità. Afferrano Intef, la sua voce si spezza in un grido strozzato, un sussurro di protesta che si perde nell'immensità del tempio. L'ombra dell'ingiustizia cala sul cortile.;5;4;5;;;;;;;;;;;;;;;;;;;
+;;Gemma 3 27B Q4;Il silenzio cala denso, interrotto solo dal fruscio delle vesti. Intef, pur senza prove concrete, ha scatenato l'ira di Hapuseneb, il cui volto si contrae in un misto di rabbia e disprezzo. Le Guardie, impassibili, avanzano. Non importa la verità, ma l'accusa pubblica, il turbamento dell'ordine. Le loro mani si chiudono attorno alle braccia di Intef, trascinandolo via. Un grido soffocato, una protesta vana. La giustizia, nel Gran Cortile, sembra un'eco lontana, un miraggio negato. Hapuseneb osserva, la sua figura imponente stagliata contro il cielo plumbeo, mentre l'ombra dell'ingiustizia avvolge il cortile.;5;4;5;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence;;;;;;;;;;;;;;;;;;;
+07B;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Intef decide di non intervenire ed esce dal Tempio. Ha capito che la scelta migliore sia riferire le proprie scoperte al Gran Visir
+
+TONO:
+Introspettivo, Arrendevole
+
+AMBIENTAZIONE:
+Location: Tempio di Amon (Esterno)
+Orario: Primo Pomeriggio
+Tempo: Nuvoloso
+
+PERSONAGGI:
+Intef (Basso Funzionario - Scriba)
+Gran Visir (Alto Funzionario - Visir)
+
+SCENA PRECEDENTE:";ChatGPT 4.1;Intef si ferma davanti alle pendenti colonne del Tempio di Amon, il cuore greve. Il cielo, grigio e minaccioso, riflette la sua incertezza. Con passo lento e risoluto, decide di non intervenire oltre, consapevole che la verità rischia di essere troppo pesante da sostenere da solo. Mormora tra sé e sé, comprendendo che il vero dovere ora è riferire tutto al Gran Visir, cercando nel suo incarico la forza di affrontare le conseguenze. È un gesto di resa e forse di speranza, un passo che lo libera dal peso di decisioni troppo grandi.;5;5;5;;;;;;;;;;;;;;;;;;;
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Il peso delle parole di Hapuseneb grava sull'animo di Intef. Una comprensione amara si insinua: non c'è spazio per l'azione diretta. L'aria si fa densa, carica di un presagio non solo di pioggia. Intef volge le spalle all'ombra sacra del Tempio, lasciando che il rumore dei suoi passi si perda nel silenzio carico di pensieri. Sa che la verità, per quanto fragile, deve emergere. La sua strada ora lo conduce verso colui che detiene l'autorità terrena, l'unica speranza di riportare l'equilibrio. Le sue scoperte, ora, sono un fardello da deporre nelle mani del Gran Visir;5;5;5;;;;;;;;;;;;;;;;;;;
+;;Gemma 3 27B Q4;Intef abbandona il cortile, il peso della scoperta gli opprime il petto. Non è suo compito giudicare, né tantomeno opporsi. Il dovere di uno scriba è riferire, non agire. Cammina lentamente, lasciandosi alle spalle le parole non dette, le accuse sospese. La nuvola che vela il sole sembra un presagio, un riflesso della corruzione che serpeggia tra le mura del potere. Il Gran Visir dovrà essere informato. Sarà lui a decidere, a soppesare le conseguenze, a portare la giustizia – o a lasciarla languire nell’ombra. Intef si limita a osservare, consapevole della propria impotenza.;5;5;5;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+Scene;Prompt ;Model;Text;Correctness;Completeness;Adherence;;;;;;;;;;;;;;;;;;;
+07C;"Sei un curatore del Museo Egizio, devi scrivere un breve testo che descrive una scena di una storia interattiva. Questo testo sarà letto durante la riproduzione della storia in una sala immersiva; la narrazione deve essere coinvolgente e non deve contenere descrizioni sull’aspetto di luoghi o persone. 
+Nella stesura del testo devi attenerti alle sole informazioni presenti nel PROMPT, seguire le indicazioni presenti nel FORMATO ed utilizzare il registro narrativo indicato dal TONO. Per arricchire la narrazione puoi fare riferimento ai dettagli relativi all’AMBIENTAZIONE. Il comportamento e le interazioni tra i personaggi devono rispecchiare la loro classe sociale, le categorie di appartenenza di ciascuno di essi sono elencate in PERSONAGGI. 
+Il testo deve continuare in modo naturale la porzione di racconto presente in SCENA PRECEDENTE, dove sono narrati i fatti che precedono la scena che devi descrivere. 
+
+FORMATO:
+Rispondi esclusivamente con un testo narrativo che non superi le 100 parole; la qualità dello scritto è l’aspetto più importante, puoi superare di poco questo limite se necessario. La narrazione deve essere in terza persona ed utilizzare come tempo verbale il presente storico. 
+
+PROMPT:
+Intef decide di non intervenire ed esce dal Tempio. Ha capito che la scelta migliore sia insabbiare lo scandalo
+
+TONO:
+Introspettivo, Drammatico
+
+AMBIENTAZIONE:
+Location: Tempio di Amon (Esterno)
+Orario: Primo Pomeriggio
+Tempo: Nuvoloso
+
+PERSONAGGI:
+Intef (Basso Funzionario - Scriba)
+
+SCENA PRECEDENTE:";ChatGPT 4.1;Mentre il vento si insinua tra le colonne del Tempio di Amon, Intef si allontana silenzioso, deciso di lasciar cadere la colpa nel silenzio. La sua scelta di uscire senza pronunciare parole è un peso che grava sul cuore, consapevole che il caos degli uomini minaccia la sacralità stessa. L’ombra delle accuse e delle bugie si dissolve nell’aria pesante, ma lui sa che insabbiare lo scandalo è il solo modo di preservare l’ordine, anche a costo della propria coscienza. Cammina verso l’ignoto, tra il buio della nuvola e la paura di ciò che può accadere.;5;5;5;;;;;;;;;;;;;;;;;;;
+;;"Gemini 2.5 Flash 
+(Thinking Disabled)";Un’ombra scivola sul suo animo mentre Intef volta le spalle al luogo sacro. Ogni passo che lo allontana dal Tempio di Amon è un macigno che grava sul suo cuore. La giustizia, quella che aveva immaginato semplice e cristallina, ora gli appare fragile, inafferrabile come il fumo. Ha scelto il silenzio, l’oblio. Un segreto pesante come una stele che viene sepolta sotto la sabbia, destinato a non vedere mai la luce. L’aria si fa più densa, presagio non solo di pioggia.;5;4;5;;;;;;;;;;;;;;;;;;;
+;;Gemma 3 27B Q4;Il peso della decisione grava sulle spalle di Intef mentre si allontana dal Tempio. Non un grido, non un gesto. Solo il silenzio assordante di una coscienza che sceglie la quiete, la sopravvivenza. Il vento, portatore di polvere e di presagi, gli sferza il viso. Osserva le nuvole oscurarsi, specchio di un’ombra che si allunga sulla città. Sa che la fame continuerà a mordere, che l’ingiustizia prospererà. Ma il suo ruolo, ora, è un altro: osservare, registrare, tacere. Un piccolo ingranaggio in una macchina corrotta, consapevole del suo destino, rassegnato al suo ruolo.;5;4;5;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
